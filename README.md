@@ -8,3 +8,7 @@ final script to Telegram.
 `node scripts/discover.mjs` gathers the raw signals from free sources (no keys): Techmeme,
 Hacker News, Google Trends India, Google News India, Hugging Face papers, Product Hunt and
 GitHub trending.
+
+To make a video on your own topic, write it (words, a link, or both) in `inbox.txt` and press
+"Run now" on the task, or leave it for the next daily run. One story per line; each run takes
+the first one.

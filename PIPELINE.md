@@ -4,6 +4,11 @@ Nobody is watching this run: never stop to ask, take your own best call at every
 
 ## Stage 1: Find
 
+0. Read `inbox.txt`. If it has anything in it (a topic in Utkarsh's words, a link, or both),
+   that is today's story, chosen by him: skip the rest of Stage 1, ignore `topics.txt` for it,
+   and research it. If it has several lines, take only the first story and leave the rest in
+   the file for the next runs. Remove the story you took from `inbox.txt`, and in Stage 2 log
+   it with the kind **Manual** (no shortlist or discovery file needed).
 1. Run `node scripts/discover.mjs > log/YYYY-MM-DD.discovery.json` (today's date; if
    `log/YYYY-MM-DD.md` already exists this is a rerun, so use `YYYY-MM-DD-run2`, then `-run3`)
    and read it. It stays next to the log so a pick can be checked later. `status` says which sources worked.
