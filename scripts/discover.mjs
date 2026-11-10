@@ -7,7 +7,10 @@
  *   techmeme      the tech stories the most outlets are covering, in Techmeme's order
  *   hackerNews    the Hacker News front page, with points, comments and age
  *   googleTrends  what India is searching for today, with search volume and news links
+ *   googleTrendsUS  the same for the US, where most tech stories start
  *   googleNews    the last 24 hours of AI and tech news as covered in India
+ *   googleNewsTech  Google News India's top Technology stories: what the public is following,
+ *                 including big stories that are still developing after a few days
  *   hfPapers      today's most upvoted AI papers on Hugging Face (early, often under the radar)
  *   productHunt   today's product launches (new tools people can try)
  *   githubTrending  repos gaining stars fastest today
@@ -38,6 +41,19 @@ const tag = (block, name) => {
 };
 const items = (xml, name = 'item') => [...xml.matchAll(new RegExp(`<${name}[\\s>][\\s\\S]*?</${name}>`, 'g'))].map((m) => m[0]);
 
+async function trends(geo) {
+  return items(await get(`https://trends.google.com/trending/rss?geo=${geo}`)).slice(0, 30).map((b) => ({
+      query: tag(b, 'title'),
+      searches: tag(b, 'ht:approx_traffic'),
+      started: tag(b, 'pubDate'),
+      news: items(b, 'ht:news_item').slice(0, 2).map((n) => ({
+        title: tag(n, 'ht:news_item_title'),
+        url: tag(n, 'ht:news_item_url'),
+        outlet: tag(n, 'ht:news_item_source'),
+      })),
+    }));
+}
+
 const sources = {
   async techmeme() {
     return items(await get('https://www.techmeme.com/feed.xml')).slice(0, 20).map((b, i) => ({
@@ -62,16 +78,16 @@ const sources = {
     }));
   },
 
-  async googleTrends() {
-    return items(await get('https://trends.google.com/trending/rss?geo=IN')).slice(0, 30).map((b) => ({
-      query: tag(b, 'title'),
-      searches: tag(b, 'ht:approx_traffic'),
-      started: tag(b, 'pubDate'),
-      news: items(b, 'ht:news_item').slice(0, 2).map((n) => ({
-        title: tag(n, 'ht:news_item_title'),
-        url: tag(n, 'ht:news_item_url'),
-        outlet: tag(n, 'ht:news_item_source'),
-      })),
+  googleTrends: () => trends('IN'),
+  googleTrendsUS: () => trends('US'),
+
+  async googleNewsTech() {
+    const url = 'https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en';
+    return items(await get(url)).slice(0, 40).map((b) => ({
+      title: tag(b, 'title'),
+      link: tag(b, 'link'),
+      outlet: tag(b, 'source'),
+      published: tag(b, 'pubDate'),
     }));
   },
 
