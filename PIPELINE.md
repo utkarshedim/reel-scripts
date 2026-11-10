@@ -29,10 +29,10 @@ Nobody is watching this run: never stop to ask, take your own best call at every
    - **Under the radar:** few people are talking about it, but this audience should know it,
      because it changes something for them: their money, work, phone, privacy, or the tools
      they use.
-   Every story on the list has an AI or tech core, can be told in 60 seconds, and is backed by
+   Every story on the list has an AI or tech core, can be told in one short video, and is backed by
    a primary source (the company's own post, the paper, the repo, the filing) or two
    independent reliable outlets.
-5. Pick today's story from the shortlist: the one that makes the strongest 60-second reel,
+5. Pick today's story from the shortlist: the one that makes the strongest reel,
    whatever its kind. Weigh how many people care, how strong the hook is, what the viewer gets
    from it, and whether there are real things to show (a demo, a product, a person, a screen).
 
@@ -50,8 +50,14 @@ Nobody is watching this run: never stop to ask, take your own best call at every
 
 ## Stage 3: Script
 
-Not set up yet. Utkarsh's script prompt goes here.
+1. Read `SCRIPT_PROMPT.md`: it is Utkarsh's own prompt. Treat today's pick as the story he
+   sent, and do all five of its steps, including fresh research of the primary source. The log
+   is a lead, not a source.
+2. Save the whole answer to `log/YYYY-MM-DD.script.md` (on a rerun, the same `-run2` name).
+3. Save the final script alone, as plain text, to `log/YYYY-MM-DD.final.txt`: the best hook,
+   then the full script. No headings, notes or markdown.
 
-## Stage 4: Save
+## Stage 4: Save and send
 
-Commit on main and push to origin main. Never create a claude/ branch.
+1. Commit on main and push to origin main. Never create a claude/ branch.
+2. Run `node scripts/send-telegram.mjs log/YYYY-MM-DD.final.txt` (or the `-run2` file).
