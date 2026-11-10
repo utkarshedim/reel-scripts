@@ -1,0 +1,11 @@
+Amazon just showed a security camera that flies. A little drone that takes off from its dock and patrols your house while you're out. And the wild part? The drone barely has a brain. Something else is flying it.
+
+It's the Ring Drone Cam, from Ring, the doorbell company Amazon owns. Two hundred and fifty dollars. It sits in a dock, camera off. When one of your Ring cameras or alarms goes off, it takes off and flies to the spots you've set, to see what's going on.
+
+So who's flying it? The cloud. Ring's founder, Jamie Siminoff, put it simply: the cloud is telling it where to go. Over your Wi-Fi, an AI system called AI Pilot uses the drone's camera to map your home, plan the route, and steer it around your sofa and doors. The drone itself keeps just enough smarts to land. So if your Wi-Fi drops, it waits, and then it comes down.
+
+Why? Siminoff says the idea goes back to 2016. An earlier version never really shipped, because it just didn't work well enough. A version with all the sensors and computer on board, he says, would have cost over five thousand dollars. Move the brain to the cloud, and the drone gets light. It weighs a hundred and sixty five grams.
+
+Now the catch. It flies for under ten minutes per charge. It's loud, on purpose, so you know it's in the air. It's US only, it doesn't ship until January twenty twenty seven, and Amazon's own fine print says it isn't approved by the US regulator yet. And it's a flying camera inside your home, sending video through Ring's cloud. Amazon says the camera is off when docked and the video is encrypted. Whether you trust that is up to you.
+
+So next time someone says AI is going into robots, remember this. This flying robot works because most of its brain isn't in the robot at all.

@@ -1,0 +1,1369 @@
+{
+ "fetchedAt": "2026-11-10T14:19:30.037Z",
+ "status": {
+  "googleTrends": "ok (10)",
+  "googleTrendsUS": "ok (10)",
+  "productHunt": "ok (20)",
+  "hfPapers": "ok (10)",
+  "hackerNews": "ok (30)",
+  "techmeme": "ok (15)",
+  "googleNews": "ok (30)",
+  "googleNewsTech": "ok (40)",
+  "githubTrending": "ok (12)"
+ },
+ "googleTrends": [
+  {
+   "query": "கனமழை",
+   "searches": "5000+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "சென்னைக்கு அடுத்த சுற்று மழை எப்போது? வானிலை ஆய்வு மையம் தகவல்!",
+     "url": "https://www.dinamani.com/tamilnadu/2026/Nov/09/next-round-of-rain-for-chennai-meteorological-centre-provides-an-update",
+     "outlet": "DinaMani"
+    },
+    {
+     "title": "ராமநாதபுரம், தூத்துக்குடி மாவட்டங்களுக்கு இன்று கனமழை எச்சரிக்கை",
+     "url": "https://tamil.newsbytesapp.com/news/india/tn-weather-update-heavy-rain-warning-to-ramanathapuram-thoothukudi-districts-today/story",
+     "outlet": "NewsBytes Tamil"
+    }
+   ]
+  },
+  {
+   "query": "samsung galaxy s27 specs",
+   "searches": "2000+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "Exclusive: Galaxy S27, S27+, S27 Pro, S27 Ultra Camera Sensors Revealed",
+     "url": "https://sammyguru.com/exclusive-galaxy-s27-series-camera-sensors/",
+     "outlet": "SammyGuru"
+    },
+    {
+     "title": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored - GSMArena.com news",
+     "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_camera_setup_detailed-news-75416.php",
+     "outlet": "GSMArena.com"
+    }
+   ]
+  },
+  {
+   "query": "পেনশন",
+   "searches": "500+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "EPFO Pension: বেসরকারি কর্মীদের ন্যূনতম পেনশন তিন গুণ বেড়ে যেতে পারে ?",
+     "url": "https://bengali.news18.com/photogallery/business/eps-pension-of-private-employees-may-rise-3-times-to-3000-rupees-check-latest-updates-here-dc-2958698.html",
+     "outlet": "News18 Bengali"
+    },
+    {
+     "title": "সবিস্তারে পড়ুন https://tinyurl.com/6a6zrwhe লিঙ্কে ক্লিক করে #EPFO #PensionNews #PF",
+     "url": "https://www.facebook.com/Zee24Ghanta/posts/%E0%A6%B8%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%81%E0%A6%A8-%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%B0%E0%A7%87epfo-pensionnews-pf/1679965624160845/",
+     "outlet": "Facebook"
+    }
+   ]
+  },
+  {
+   "query": "tamil nadu",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "Tamil Nadu Deputy Speaker faces row over alleged assault of Thuraiyur resident for complaining about civic issue",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-deputy-speaker-faces-row-over-alleged-assault-of-thuraiyur-resident-for-complaining-about-civic-issue/article71682973.ece",
+     "outlet": "The Hindu"
+    },
+    {
+     "title": "Under fire over MLAs' conduct, CM Vijay calls emergency TVK meet",
+     "url": "https://www.rediff.com/news/report/under-fire-over-mlas-conduct-cm-vijay-calls-emergency-tvk-meet/20261110.htm",
+     "outlet": "Rediff"
+    }
+   ]
+  },
+  {
+   "query": "t10 league",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:40:00 -0800",
+   "news": [
+    {
+     "title": "Abu Dhabi T10 2026 Fixtures, Live Score, Schedule, Points Table & News",
+     "url": "https://www.cricinfo.com/series/abu-dhabi-t10-2026-27-1561244",
+     "outlet": "Cricinfo"
+    },
+    {
+     "title": "Match Stats - PAK vs SL 1st Test, Best Performances by Batters & Bowlers",
+     "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-test-1550711/match-statistics",
+     "outlet": "Cricinfo"
+    }
+   ]
+  },
+  {
+   "query": "us cpi data",
+   "searches": "500+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Gold drops 1% on hawkish Fed comments ahead of US inflation data",
+     "url": "https://www.reuters.com/world/india/gold-edges-lower-focus-shifts-us-inflation-data-2026-11-10/",
+     "outlet": "Reuters"
+    },
+    {
+     "title": "Gold prices down 2% on the day as US CPI rises more than expected",
+     "url": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
+     "outlet": "Kitco"
+    }
+   ]
+  },
+  {
+   "query": "క్రైమ్",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Train Accident: యువకుడి ప్రాణాలు బలిగొన్న ఇయర్‌ఫోన్స్‌",
+     "url": "https://www.eenadu.net/telugu-news/districts/east-godavari-21-years-old-youth-dies-after-being-hit-by-a-train-in-vizianagaram-district/3/126204271",
+     "outlet": "Eenadu"
+    },
+    {
+     "title": "OTT Movie: ఐసీయూలో ఏం జరిగింది? ఓటీటీలో మతిపోగొట్టే సస్పెన్స్ థ్రిల్లర్.. ఐఎమ్‌డీబీలోనూ టాప్ రేటింగ్",
+     "url": "https://tv9telugu.com/entertainment/ott/malayalam-suspense-thriller-movie-icu-is-now-creating-sensation-on-sunnxt-ott-1953925.html",
+     "outlet": "TV9 Telugu"
+    }
+   ]
+  },
+  {
+   "query": "cpi data today",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+     "outlet": "CoinDesk"
+    },
+    {
+     "title": "Bitcoin Price Forecast: Can US Inflation Prevent BTC from Falling Below $75,000?",
+     "url": "https://www.investing.com/analysis/bitcoin-price-forecast-can-us-inflation-prevent-btc-from-falling-below-75000-200691288",
+     "outlet": "Investing.com"
+    }
+   ]
+  },
+  {
+   "query": "arjun erigaisi",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:20:00 -0800",
+   "news": [
+    {
+     "title": "Total Chess – totally complicated",
+     "url": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
+     "outlet": "Chess News | ChessBase"
+    },
+    {
+     "title": "Total Chess in Budapest: the format explained",
+     "url": "https://chessbase.in/news/total-world-championship-pilot-2026-rules-explained",
+     "outlet": "ChessBase India"
+    }
+   ]
+  },
+  {
+   "query": "fmge result",
+   "searches": "5000+",
+   "started": "Tue, 10 Nov 2026 05:10:00 -0800",
+   "news": [
+    {
+     "title": "Foreign Medical Graduate Results When? Here's Everything You Need To Know",
+     "url": "https://www.ndtv.com/education/fmge-october-2026-foreign-medical-graduate-results-when-heres-everything-you-need-to-know-12306668",
+     "outlet": "NDTV"
+    },
+    {
+     "title": "FMGE October 2026 Result Expected by November 30; Candidates Demand Release of Answer Key",
+     "url": "https://www.telegraphindia.com/edugraph/news/fmge-october-2026-result-expected-by-november-30-candidates-demand-release-of-answer-key/cid/2188751",
+     "outlet": "Telegraph India"
+    }
+   ]
+  }
+ ],
+ "googleTrendsUS": [
+  {
+   "query": "jordan elliott",
+   "searches": "500+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "Report: DT Jordan Elliott to work out for Bears",
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dt-jordan-elliott-to-work-out-for-bears",
+     "outlet": "NBC Sports"
+    },
+    {
+     "title": "Bears Will Work Out Jordan Elliott, the DT Titans Cut After a Gun-Related Incident",
+     "url": "https://www.si.com/nfl/bears/onsi/bears-jordan-elliott-defensive-tackle-titans-gun-incident",
+     "outlet": "Sports Illustrated"
+    }
+   ]
+  },
+  {
+   "query": "lauren sanchez",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:50:00 -0800",
+   "news": [
+    {
+     "title": "The best and worst fashion moments Jeff Bezos and Lauren Sánchez Bezos have had this year",
+     "url": "https://www.businessinsider.com/jeff-bezos-lauren-sanchez-bezos-best-worst-outfits-2026-11",
+     "outlet": "Business Insider"
+    },
+    {
+     "title": "The best and worst fashion moments Jeff Bezos and Lauren Sánchez Bezos have had this year",
+     "url": "https://africa.businessinsider.com/entertainment/the-best-and-worst-fashion-moments-jeff-bezos-and-lauren-sanchez-bezos-have-had-this/v9dvrte",
+     "outlet": "Business Insider Africa"
+    }
+   ]
+  },
+  {
+   "query": "country music singer dies",
+   "searches": "5000+",
+   "started": "Tue, 10 Nov 2026 05:40:00 -0800",
+   "news": [
+    {
+     "title": "Rising country music singer dies in wreck at 22: ‘The world lost an amazing talent’",
+     "url": "https://www.pennlive.com/entertainment/2026/11/rising-country-music-singer-dies-in-wreck-at-22-the-world-lost-an-amazing-talent.html",
+     "outlet": "PennLive.com"
+    },
+    {
+     "title": "Father of young country music singer killed in crash makes plea: ‘In memory of my son’",
+     "url": "https://www.lehighvalleylive.com/entertainment/2026/11/father-of-young-country-music-singer-killed-in-crash-makes-plea-in-memory-of-my-son.html",
+     "outlet": "Lehighvalleylive.com"
+    }
+   ]
+  },
+  {
+   "query": "michael sanft attorney",
+   "searches": "500+",
+   "started": "Tue, 10 Nov 2026 05:40:00 -0800",
+   "news": [
+    {
+     "title": "Attorney who represented ‘Keffe D’ in Tupac murder trial dies",
+     "url": "https://www.fox5vegas.com/2026/11/06/attorney-who-represented-keffe-d-tupac-murder-trial-reportedly-dies/",
+     "outlet": "FOX5 Vegas"
+    },
+    {
+     "title": "Michael Sanft, lawyer for man convicted of Tupac Shakur’s murder, dies at 55",
+     "url": "https://www.cnn.com/2026/11/09/us/michael-sanft-duane-davis-lawyer-death",
+     "outlet": "CNN"
+    }
+   ]
+  },
+  {
+   "query": "gary sinise",
+   "searches": "2000+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Gary Sinise Documentary 'The Ballad Of Lieutenant Dan' Arrives On Streaming This Week",
+     "url": "https://www.forbes.com/sites/timlammers/2026/11/07/documentary-about-gary-sinise-helping-veterans-lands-distribution-and-debuts-on-digital-this-week/",
+     "outlet": "Forbes"
+    },
+    {
+     "title": "FREESTYLE DIGITAL MEDIA RELEASES DOCUMENTARY FEATURE “THE BALLAD OF LIEUTENANT DAN”",
+     "url": "https://www.detroitnews.com/press-release/story/198051/freestyle-digital-media-releases-documentary-feature-the-ballad-of-lieutenant-dan/",
+     "outlet": "The Detroit News"
+    }
+   ]
+  },
+  {
+   "query": "gary sinise son",
+   "searches": "1000+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Gary Sinise Talks Love, Loss and Resilience in Moving Memoir",
+     "url": "https://www.today.com/video/gary-sinise-talks-love-loss-and-resilience-in-moving-memoir-273192005824",
+     "outlet": "TODAY.com"
+    },
+    {
+     "title": "Forrest Gump star Gary Sinise details son Mac’s final moments before death at 33: ‘Hard to wrap my head around’",
+     "url": "https://ew.com/forrest-gump-gary-sinise-son-mac-final-moments-before-death-12238898",
+     "outlet": "Entertainment Weekly"
+    }
+   ]
+  },
+  {
+   "query": "tradingview",
+   "searches": "2000+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
+     "url": "https://www.globenewswire.com/news-release/2026/11/10/3399291/0/en/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs.html",
+     "outlet": "GlobeNewswire"
+    },
+    {
+     "title": "Micron, Nvidia, Lam Research removed from BofA's US 1 list",
+     "url": "https://www.tradingview.com/news/seekingalpha:0ff01d90a094b:0-micron-nvidia-lam-research-removed-from-bofa-s-us-1-list/",
+     "outlet": "TradingView"
+    }
+   ]
+  },
+  {
+   "query": "pwhl",
+   "searches": "1000+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Coming up Clutch: PWHL Detroit team has a nickname and logo at last",
+     "url": "https://www.freep.com/story/sports/pwhl/2026/11/10/pwhl-detroit-clutch-team-name-logo/91578865007/",
+     "outlet": "Detroit Free Press"
+    },
+    {
+     "title": "PWHL Detroit team name & logo revealed: Detroit Clutch",
+     "url": "https://www.wxyz.com/sports/pwhl-detroit/pwhl-detroit-team-name-logo-revealed-detroit-clutch",
+     "outlet": "WXYZ Channel 7"
+    }
+   ]
+  },
+  {
+   "query": "gma deals and steals",
+   "searches": "1000+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Exclusive 'GMA' digital Deals & Steals Holiday Gift Guide",
+     "url": "https://abcnews.com/GMA/Shop/exclusive-gma-digital-deals-steals-holiday-gift-guide/story?id=137907923",
+     "outlet": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "title": "ABC Secret Savings: November Savings Special",
+     "url": "https://www.goodmorningamerica.com/shop/story/abc-secret-savings-november-savings-special-137910498",
+     "outlet": "Good Morning America"
+    }
+   ]
+  },
+  {
+   "query": "ed gallrein",
+   "searches": "200+",
+   "started": "Tue, 10 Nov 2026 05:30:00 -0800",
+   "news": [
+    {
+     "title": "Mississippi U.S. Senate 2026: Live Midterm Election Results, Hyde-Smith vs. Colom",
+     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html",
+     "outlet": "The New York Times"
+    },
+    {
+     "title": "U.S. Senate Election Results",
+     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html",
+     "outlet": "The New York Times"
+    }
+   ]
+  }
+ ],
+ "productHunt": [
+  {
+   "title": "AppuBot",
+   "link": "https://www.producthunt.com/products/appubot",
+   "summary": "<p> Grok Bot alternative that runs on your AI, completely free </p> <p> <a href=\"https://www.producthunt.com/products/appubot?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a hre"
+  },
+  {
+   "title": "Rodeo",
+   "link": "https://www.producthunt.com/products/rodeo-7",
+   "summary": "<p> A Notion alternative with AI meeting notes on the free plan </p> <p> <a href=\"https://www.producthunt.com/products/rodeo-7?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a hr"
+  },
+  {
+   "title": "Gesso",
+   "link": "https://www.producthunt.com/products/gesso-2",
+   "summary": "<p> Ask ChatGPT or Claude to design, then edit every layer </p> <p> <a href=\"https://www.producthunt.com/products/gesso-2?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"h"
+  },
+  {
+   "title": "MuJoCo 4",
+   "link": "https://www.producthunt.com/products/google",
+   "summary": "<p> A physics engine for robots with its own studio </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://w"
+  },
+  {
+   "title": "Alsona",
+   "link": "https://www.producthunt.com/products/alsona",
+   "summary": "<p> AI agents that turn buying signals into booked sales calls </p> <p> <a href=\"https://www.producthunt.com/products/alsona?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href"
+  },
+  {
+   "title": "CloakPane",
+   "link": "https://www.producthunt.com/products/cloakpane",
+   "summary": "<p> A Mac browser that stays out of your screen shares </p> <p> <a href=\"https://www.producthunt.com/products/cloakpane?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"htt"
+  },
+  {
+   "title": "openring",
+   "link": "https://www.producthunt.com/products/openring",
+   "summary": "<p> Open-source voice AI agents with no platform fee </p> <p> <a href=\"https://www.producthunt.com/products/openring?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https:"
+  },
+  {
+   "title": "FigSchema",
+   "link": "https://www.producthunt.com/products/figschema",
+   "summary": "<p> Design database schemas right in FigJam </p> <p> <a href=\"https://www.producthunt.com/products/figschema?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.pr"
+  },
+  {
+   "title": "Obsiva",
+   "link": "https://www.producthunt.com/products/obsiva",
+   "summary": "<p> Turn site pics + voice notes into a PDF inspection report </p> <p> <a href=\"https://www.producthunt.com/products/obsiva?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href="
+  },
+  {
+   "title": "LotusQ",
+   "link": "https://www.producthunt.com/products/lotusq",
+   "summary": "<p> Talk instead of type, in any app </p> <p> <a href=\"https://www.producthunt.com/products/lotusq?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt."
+  },
+  {
+   "title": "Clive",
+   "link": "https://www.producthunt.com/products/clive",
+   "summary": "<p> Let Claude and other AIs set your iPhone alarms </p> <p> <a href=\"https://www.producthunt.com/products/clive?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://ww"
+  },
+  {
+   "title": "Kumiko",
+   "link": "https://www.producthunt.com/products/kumiko-2",
+   "summary": "<p> AI window manager for ultrawide and big-screen Macs </p> <p> <a href=\"https://www.producthunt.com/products/kumiko-2?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"htt"
+  },
+  {
+   "title": "Opal Reader",
+   "link": "https://www.producthunt.com/products/opal-reader",
+   "summary": "<p> Read PDFs and EPUBs on iPhone Duo </p> <p> <a href=\"https://www.producthunt.com/products/opal-reader?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.produc"
+  },
+  {
+   "title": "ChromePing",
+   "link": "https://www.producthunt.com/products/chromeping",
+   "summary": "<p> Talk to anyone by phone, in a language you don't speak </p> <p> <a href=\"https://www.producthunt.com/products/chromeping?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href"
+  },
+  {
+   "title": "SideKick By Open",
+   "link": "https://www.producthunt.com/products/open-for-sales",
+   "summary": "<p> “Claude, but for your product” is here. </p> <p> <a href=\"https://www.producthunt.com/products/open-for-sales?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://w"
+  },
+  {
+   "title": "OpenVibe",
+   "link": "https://www.producthunt.com/products/openvibe-2",
+   "summary": "<p> A canvas of real terminals for your AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/openvibe-2?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\""
+  },
+  {
+   "title": "Coffee",
+   "link": "https://www.producthunt.com/products/coffee-9",
+   "summary": "<p> A quiet Markdown editor for Mac, with sums in your notes </p> <p> <a href=\"https://www.producthunt.com/products/coffee-9?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href"
+  },
+  {
+   "title": "TK by Medium",
+   "link": "https://www.producthunt.com/products/medium",
+   "summary": "<p> An agentic notebook to build your best thinking </p> <p> <a href=\"https://www.producthunt.com/products/medium?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://w"
+  },
+  {
+   "title": "Ember",
+   "link": "https://www.producthunt.com/products/ember-117",
+   "summary": "<p> Free, open-source Slack you host on Cloudflare in one click </p> <p> <a href=\"https://www.producthunt.com/products/ember-117?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a "
+  },
+  {
+   "title": "gitmanual",
+   "link": "https://www.producthunt.com/products/gitmanual",
+   "summary": "<p> See if a GitHub repo runs on your OS, and how to set it up </p> <p> <a href=\"https://www.producthunt.com/products/gitmanual?utm_campaign=producthunt-atom-posts-feed utm_medium=rss-feed utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a h"
+  }
+ ],
+ "hfPapers": [
+  {
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "upvotes": 90,
+   "url": "https://huggingface.co/papers/2611.12806",
+   "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering ir"
+  },
+  {
+   "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+   "upvotes": 67,
+   "url": "https://huggingface.co/papers/2611.08264",
+   "summary": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary subs"
+  },
+  {
+   "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+   "upvotes": 49,
+   "url": "https://huggingface.co/papers/2611.03953",
+   "summary": "Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single different"
+  },
+  {
+   "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "upvotes": 48,
+   "url": "https://huggingface.co/papers/2611.10771",
+   "summary": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, physical dynamics, or causally consistent responses to interac"
+  },
+  {
+   "title": "Toward the Era of Agentic Embodied Intelligence",
+   "upvotes": 47,
+   "url": "https://huggingface.co/papers/2611.09124",
+   "summary": "Foundation models increasingly guide robot actions, yet sustained autonomy requires efficient control and failure recovery. We introduce A2-MEAS, an embodied multi-agent framework built around code as a scaling interface. Learned correction codes combine corrective language, spatial evidence, execut"
+  },
+  {
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "upvotes": 42,
+   "url": "https://huggingface.co/papers/2611.12762",
+   "summary": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions,"
+  },
+  {
+   "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+   "upvotes": 37,
+   "url": "https://huggingface.co/papers/2611.08175",
+   "summary": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent,"
+  },
+  {
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "upvotes": 34,
+   "url": "https://huggingface.co/papers/2611.12886",
+   "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the ev"
+  },
+  {
+   "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer",
+   "upvotes": 34,
+   "url": "https://huggingface.co/papers/2611.04720",
+   "summary": "Industrial recommender systems allocate substantial computation to pointwise candidate scoring, yet separate reranking and mix-ranking stages still assemble the final exposure slate using hand-crafted rules and specialized low-capacity models. Mix-ranking combines product cards, short videos, livest"
+  },
+  {
+   "title": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
+   "upvotes": 30,
+   "url": "https://huggingface.co/papers/2611.07025",
+   "summary": "Autoregressive decoding relies on the KV cache, whose memory footprint grows linearly with context length and caps batch size and throughput. Existing post-training methods exploit redundancy across tokens, layers, and feature dimensions, or lower numerical precision. We identify a complementary axi"
+  }
+ ],
+ "hackerNews": [
+  {
+   "title": "Foldable Flight: The Best Paper Airplanes",
+   "url": "https://www.foldableflight.com",
+   "discussion": "https://news.ycombinator.com/item?id=50424581",
+   "points": 1103,
+   "comments": 153,
+   "hoursAgo": 26
+  },
+  {
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "discussion": "https://news.ycombinator.com/item?id=50429068",
+   "points": 712,
+   "comments": 878,
+   "hoursAgo": 20
+  },
+  {
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "url": "https://postalpro.usps.com/zcb",
+   "discussion": "https://news.ycombinator.com/item?id=50431058",
+   "points": 668,
+   "comments": 339,
+   "hoursAgo": 18
+  },
+  {
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "discussion": "https://news.ycombinator.com/item?id=50427362",
+   "points": 557,
+   "comments": 318,
+   "hoursAgo": 22
+  },
+  {
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "discussion": "https://news.ycombinator.com/item?id=50436640",
+   "points": 448,
+   "comments": 165,
+   "hoursAgo": 8
+  },
+  {
+   "title": "E-means: Outperforming k-means in one-tenth the epochs",
+   "url": "https://e-means.github.io/",
+   "discussion": "https://news.ycombinator.com/item?id=50429734",
+   "points": 437,
+   "comments": 54,
+   "hoursAgo": 20
+  },
+  {
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "url": "https://www.watched.earth",
+   "discussion": "https://news.ycombinator.com/item?id=50428907",
+   "points": 409,
+   "comments": 76,
+   "hoursAgo": 20
+  },
+  {
+   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+   "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+   "discussion": "https://news.ycombinator.com/item?id=50426175",
+   "points": 332,
+   "comments": 224,
+   "hoursAgo": 24
+  },
+  {
+   "title": "Locating the source of a mysterious beep",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "discussion": "https://news.ycombinator.com/item?id=50434310",
+   "points": 244,
+   "comments": 124,
+   "hoursAgo": 14
+  },
+  {
+   "title": "AlphaProof Code",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "discussion": "https://news.ycombinator.com/item?id=50439193",
+   "points": 209,
+   "comments": 84,
+   "hoursAgo": 2
+  },
+  {
+   "title": "Horible public key tricks",
+   "url": "https://maurycyz.com/projects/badcert/",
+   "discussion": "https://news.ycombinator.com/item?id=50434264",
+   "points": 201,
+   "comments": 65,
+   "hoursAgo": 14
+  },
+  {
+   "title": "Your TV can see through walls",
+   "url": "https://maurycyz.com/projects/fading/",
+   "discussion": "https://news.ycombinator.com/item?id=50436410",
+   "points": 197,
+   "comments": 79,
+   "hoursAgo": 9
+  },
+  {
+   "title": "Ultorg: The User Interface for Relational Databases",
+   "url": "https://www.ultorg.com/",
+   "discussion": "https://news.ycombinator.com/item?id=50435898",
+   "points": 105,
+   "comments": 30,
+   "hoursAgo": 10
+  },
+  {
+   "title": "Formalizing CPython",
+   "url": "https://broyojo.com/python-formalization/",
+   "discussion": "https://news.ycombinator.com/item?id=50435105",
+   "points": 104,
+   "comments": 40,
+   "hoursAgo": 12
+  },
+  {
+   "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+   "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+   "discussion": "https://news.ycombinator.com/item?id=50437752",
+   "points": 93,
+   "comments": 92,
+   "hoursAgo": 5
+  },
+  {
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "discussion": "https://news.ycombinator.com/item?id=50437106",
+   "points": 92,
+   "comments": 29,
+   "hoursAgo": 7
+  },
+  {
+   "title": "Queens Public library under ransomware attack e-borrowing suspended",
+   "url": "https://connect.queenslibrary.org/",
+   "discussion": "https://news.ycombinator.com/item?id=50437790",
+   "points": 80,
+   "comments": 61,
+   "hoursAgo": 5
+  },
+  {
+   "title": "What Constant Surveillance Is Doing to Children",
+   "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+   "discussion": "https://news.ycombinator.com/item?id=50438480",
+   "points": 71,
+   "comments": 49,
+   "hoursAgo": 4
+  },
+  {
+   "title": "How hard is it to check for whitespace?",
+   "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+   "discussion": "https://news.ycombinator.com/item?id=50392733",
+   "points": 70,
+   "comments": 16,
+   "hoursAgo": 96
+  },
+  {
+   "title": "Don't buy AR glasses",
+   "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+   "discussion": "https://news.ycombinator.com/item?id=50439805",
+   "points": 65,
+   "comments": 53,
+   "hoursAgo": 1
+  },
+  {
+   "title": "ClickHouse Acquires Xata",
+   "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+   "discussion": "https://news.ycombinator.com/item?id=50436706",
+   "points": 65,
+   "comments": 7,
+   "hoursAgo": 8
+  },
+  {
+   "title": "Ableton Live 13",
+   "url": "https://www.ableton.com/en/live/",
+   "discussion": "https://news.ycombinator.com/item?id=50439695",
+   "points": 63,
+   "comments": 59,
+   "hoursAgo": 1
+  },
+  {
+   "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+   "url": "https://github.com/HolyArrs/HolyArrs",
+   "discussion": "https://news.ycombinator.com/item?id=50439000",
+   "points": 62,
+   "comments": 40,
+   "hoursAgo": 2
+  },
+  {
+   "title": "Billion Watts in the Speaker [video]",
+   "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+   "discussion": "https://news.ycombinator.com/item?id=50408336",
+   "points": 51,
+   "comments": 26,
+   "hoursAgo": 65
+  },
+  {
+   "title": "Show HN: Ghanaian street games you can play in the browser",
+   "url": "https://www.ghanastreetgames.com/",
+   "discussion": "https://news.ycombinator.com/item?id=50414117",
+   "points": 35,
+   "comments": 7,
+   "hoursAgo": 47
+  },
+  {
+   "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+   "url": "https://fakedos.com/",
+   "discussion": "https://news.ycombinator.com/item?id=50438377",
+   "points": 31,
+   "comments": 16,
+   "hoursAgo": 4
+  },
+  {
+   "title": "What's new in the .NET 11 runtime",
+   "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+   "discussion": "https://news.ycombinator.com/item?id=50439284",
+   "points": 24,
+   "comments": 3,
+   "hoursAgo": 2
+  },
+  {
+   "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+   "url": "https://neuracryption.com/research",
+   "discussion": "https://news.ycombinator.com/item?id=50440359",
+   "points": 20,
+   "comments": 10,
+   "hoursAgo": 0
+  },
+  {
+   "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+   "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+   "discussion": "https://news.ycombinator.com/item?id=50410329",
+   "points": 17,
+   "comments": 7,
+   "hoursAgo": 58
+  },
+  {
+   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+   "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+   "discussion": "https://news.ycombinator.com/item?id=50412554",
+   "points": 6,
+   "comments": 0,
+   "hoursAgo": 50
+  }
+ ],
+ "techmeme": [
+  {
+   "rank": 1,
+   "title": "At Adobe Max, Adobe unveils Creative Cloud and Firefly AI updates to make designing and editing easier, including Premiere's new Generative Remove tool (Jess Weatherbed/The Verge)",
+   "link": "https://www.techmeme.com/261110/p19#a261110p19",
+   "published": "Tue, 10 Nov 2026 09:10:01 -0500",
+   "summary": "Jess Weatherbed / The Verge : At Adobe Max, Adobe unveils Creative Cloud and Firefly AI updates to make designing and editing easier, including Premiere's new Generative Remove tool Here are the new editing and design tools coming to Creative Cloud apps and Adobe's Firefly suite."
+  },
+  {
+   "rank": 2,
+   "title": "Amazon's Ring unveils the $249 Ring Drone Cam and the $999 Ring Rover Cam, utilizing its AI Pilot navigation software, under new subbrand Ring Robotics (Kyle Kucharski/ZDNET)",
+   "link": "https://www.techmeme.com/261110/p18#a261110p18",
+   "published": "Tue, 10 Nov 2026 08:40:01 -0500",
+   "summary": "Kyle Kucharski / ZDNET : Amazon's Ring unveils the $249 Ring Drone Cam and the $999 Ring Rover Cam, utilizing its AI Pilot navigation software, under new subbrand Ring Robotics Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage."
+  },
+  {
+   "rank": 3,
+   "title": "Filing: Alibaba says its chip design unit T-Head filed on September 11 for a Hong Kong listing after exchange clearance; T-Head is set to remain a subsidiary (Foster Wong/Bloomberg)",
+   "link": "https://www.techmeme.com/261110/p17#a261110p17",
+   "published": "Tue, 10 Nov 2026 08:15:38 -0500",
+   "summary": "Foster Wong / Bloomberg : Filing: Alibaba says its chip design unit T-Head filed on September 11 for a Hong Kong listing after exchange clearance; T-Head is set to remain a subsidiary Alibaba Group Holding Ltd.'s in-house chip design unit T-Head has filed for a Hong Kong listing, moving ahead with a proposed spin-off"
+  },
+  {
+   "rank": 4,
+   "title": "Sources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC's plan to ban imports of Chinese optical transceivers (Alexandra Alper/Reuters)",
+   "link": "https://www.techmeme.com/261110/p16#a261110p16",
+   "published": "Tue, 10 Nov 2026 07:25:01 -0500",
+   "summary": "Alexandra Alper / Reuters : Sources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC's plan to ban imports of Chinese optical transceivers Microsoft (MSFT.O) has been pressing the Trump administration to halt plans to bar Chinese imports of a key component used in AI data centers"
+  },
+  {
+   "rank": 5,
+   "title": "Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May (CNBC)",
+   "link": "https://www.techmeme.com/261110/p15#a261110p15",
+   "published": "Tue, 10 Nov 2026 07:07:31 -0500",
+   "summary": "CNBC : Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May Anthropic said it will offer 825 million shares in its upcoming IPO at a price range between $70 to $78 per share"
+  },
+  {
+   "rank": 6,
+   "title": "Google DeepMind researchers used agentic AI framework AlphaProof Code to verify the Signal protocol's cryptographic guarantees, in a four-week proof-of-concept (Lily Hay Newman/Wired)",
+   "link": "https://www.techmeme.com/261110/p14#a261110p14",
+   "published": "Tue, 10 Nov 2026 06:55:00 -0500",
+   "summary": "Lily Hay Newman / Wired : Google DeepMind researchers used agentic AI framework AlphaProof Code to verify the Signal protocol's cryptographic guarantees, in a four-week proof-of-concept DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal?"
+  },
+  {
+   "rank": 7,
+   "title": "Sources: Jensen Huang and Alice Huang's relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then (The Information)",
+   "link": "https://www.techmeme.com/261110/p13#a261110p13",
+   "published": "Tue, 10 Nov 2026 06:45:02 -0500",
+   "summary": "The Information : Sources: Jensen Huang and Alice Huang's relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then The relationship between Nvidia CEO Jensen Huang and Alice Huang, the woman that the U.S. government reportedly identified"
+  },
+  {
+   "rank": 8,
+   "title": "Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT (Anthropic)",
+   "link": "https://www.techmeme.com/261110/p12#a261110p12",
+   "published": "Tue, 10 Nov 2026 06:40:01 -0500",
+   "summary": "Anthropic : Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
+  },
+  {
+   "rank": 9,
+   "title": "BT CEO Allison Kirkby says a Starlink deal is \"ready to launch\" but the company is \"cautious on how Starlink might be viewed\" after the Ukraine service cutoff (Kieran Smith/Financial Times)",
+   "link": "https://www.techmeme.com/261110/p11#a261110p11",
+   "published": "Tue, 10 Nov 2026 06:35:01 -0500",
+   "summary": "Kieran Smith / Financial Times : BT CEO Allison Kirkby says a Starlink deal is ready to launch but the company is cautious on how Starlink might be viewed after the Ukraine service cutoff Launch will not proceed until noise has died down over battlefield service disruptions, says CEO Allison Kirkby"
+  },
+  {
+   "rank": 10,
+   "title": "IPO prospectus: Anthropic's IPO is set to raise up to $64.4B, and the company will also raise $26B via cornerstone investors like Google, AMD, and Nvidia (Echo Wang/Reuters)",
+   "link": "https://www.techmeme.com/261110/p10#a261110p10",
+   "published": "Tue, 10 Nov 2026 06:20:00 -0500",
+   "summary": "Echo Wang / Reuters : IPO prospectus: Anthropic's IPO is set to raise up to $64.4B, and the company will also raise $26B via cornerstone investors like Google, AMD, and Nvidia Anthropic is targeting a valuation of up to $1.02 trillion in its landmark U.S. IPO, its filing showed on Tuesday"
+  },
+  {
+   "rank": 11,
+   "title": "Anthropic's Fable 5.2 represents \"Jagged AGI\" that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste (Ethan Mollick/One Useful Thing)",
+   "link": "https://www.techmeme.com/261110/p9#a261110p9",
+   "published": "Tue, 10 Nov 2026 06:10:02 -0500",
+   "summary": "Ethan Mollick / One Useful Thing : Anthropic's Fable 5.2 represents Jagged AGI that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste General, often expert, and sometimes jagged I have had the chance to use the new Claude Fable 5.2 quite a bit"
+  },
+  {
+   "rank": 12,
+   "title": "Sources: Jensen Huang resisted internal Nvidia talks about succession planning, which took place over the years; many of the 10 board members are close to him (New York Times)",
+   "link": "https://www.techmeme.com/261110/p8#a261110p8",
+   "published": "Tue, 10 Nov 2026 05:55:02 -0500",
+   "summary": "New York Times : Sources: Jensen Huang resisted internal Nvidia talks about succession planning, which took place over the years; many of the 10 board members are close to him Governance experts question whether the board, which is investigating Mr. Huang's conduct, has been too deferential as he has turned Nvidia into a global giant."
+  },
+  {
+   "rank": 13,
+   "title": "Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia's corporate docs make no reference to \"succession planning\" (Financial Times)",
+   "link": "https://www.techmeme.com/261110/p7#a261110p7",
+   "published": "Tue, 10 Nov 2026 05:40:01 -0500",
+   "summary": "Financial Times : Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia's corporate docs make no reference to succession planning Chipmaker's co-founder has no obvious successor as leader of world's second-largest company"
+  },
+  {
+   "rank": 14,
+   "title": "China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)",
+   "link": "https://www.techmeme.com/261110/p6#a261110p6",
+   "published": "Tue, 10 Nov 2026 04:15:55 -0500",
+   "summary": "Reuters : China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand China's trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales"
+  },
+  {
+   "rank": 15,
+   "title": "Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 (Carl Franzen/VentureBeat)",
+   "link": "https://www.techmeme.com/261110/p5#a261110p5",
+   "published": "Tue, 10 Nov 2026 03:50:03 -0500",
+   "summary": "Carl Franzen / VentureBeat : Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 Meituan released the weights for LongCat-2.5 on Nov. 9, one week after introducing the model. The Chinese food delivery"
+  }
+ ],
+ "googleNews": [
+  {
+   "title": "Formal Verification of Signal’s Protocol with Gemini - Google DeepMind",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+   "outlet": "Google DeepMind",
+   "published": "Tue, 10 Nov 2026 12:07:17 GMT"
+  },
+  {
+   "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act - SAP News Center",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFJJUmdlRlBwOUt0aG5JbWZUOWVVMDBlV0NEczI5dmFqWWpOejB0d2NZaGRPTTV1NVpSejNQcGVuMHRZMWtNaWtTSEdZWURYMmZITS0yMjNpWVFVTVV0Q0NIV2FuYlRsRW5jUGtDR2R0NFpNcUt1YVEzSnRQLWJ3cExUcVVFYk5WVnRZNzBmdVRoUXA3Y3E4bC1WNEs1UE0?oc=5",
+   "outlet": "SAP News Center",
+   "published": "Tue, 10 Nov 2026 12:16:46 GMT"
+  },
+  {
+   "title": "Google launches two AI chips as it seeks to challenge NVIDIA’s dominance - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWklMY05qVWRQd1ZPZkl0Q2c2UzdHVkZVS0FzQUR6bXZVWThuU3VHTEgydklsU01Vc1dPRHVrSkNudEY4NzFLR2czbHd3ektFdjlMWFU3bmRHMXZLSVNjcXdXNk5uZ0xWUGxYeWhvdTlnb0h1TlozS2E4akU4c2hhUHpLUmk3ZlFpVmdmYWRScTBDenhxaExiV0NyQjFMS2liNUF6Rk5YdzIyTFVMcnVZUlZtc1RhejJzQ0Fic0xjblNBdkgtTTNFRXFrd0JRZW_SAdYBQVVfeXFMTVdQcURIc2l1dm90LU1yckxjZHlIaVV5VEtnWFBsa0ZlWkxLM0lRd1Z4M2xUdThPbnNLSEV0RXFEUlZpZzdqWlk5S1VScEpEZjRvOS1hTEYtbXNtYjhOa3dJX2xzVkM1cnF0RVdFYVNNMWl5R0RUbUgwcGRBTHU0UWk2azNULWc1YWZsZUtwc0tTTGRqc0pzZE5GdEstbjV1SGNWWXlCOHZQcDNTczVyUGNwbHNseE51TWFrVzY1amJzd1FBd3MxdjJQNnF5a2pVaGphYXhqdw?oc=5",
+   "outlet": "The Hindu",
+   "published": "Tue, 10 Nov 2026 13:25:51 GMT"
+  },
+  {
+   "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+   "outlet": "Microsoft Source",
+   "published": "Tue, 10 Nov 2026 13:09:26 GMT"
+  },
+  {
+   "title": "Introducing Gemini for healthcare - Google Cloud",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjhqRF9QRmhSOGk3dGZjNFY1TFJZdGVfejQtRVVBUVFIS2RZQ0JZWVI1Z3ZzekdfYkYxVFNkWWN2VFgxSlRuc2dVcV9hQ3BjVDlheGQwUG94UzkzbkNtU2syZ3pBYWstRENIWFRVT0F1RUd0LWNlOThtSnFYb0c0RG9TdEpRdmc?oc=5",
+   "outlet": "Google Cloud",
+   "published": "Tue, 10 Nov 2026 13:24:03 GMT"
+  },
+  {
+   "title": "Nvidia's AI chips: The technology China wants and America won't give up - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekdqZFUtcFUyLVhGR0VYajBVQUs1T3RrYVhBdHRSMXJLRmdiLUpLMHFuLUN3Y3dRYUdPYWdicVRqQVh5UVppSDR5b2VVbjlBbDNyV05kbThvWHBjdTRFMTM4c1JUVmp3WG9oaE5OSWpoOGt2ckQyRFkzRjdTaVh3ZFNDSzhTQno4M1FfTng3YURZQW93MFVrdERtSGhYNEZ2WF9Ib2RldlBWb0VWYU0tR0dKNDU0WVlmTzZhVGJybjluRjhNWFQxMlF3dU5GMGN6c1VpaWxB0gHbAUFVX3lxTE9xd1k0Q2NiLUs3REZPRThoVmxQRmp4eFBUVG4xVjNydV9qQWQwWlpSRHpGQXFlNk5OcUxHWVN6czIwMTVfOVF0Wko1bXVfbDZ0MFdlWlhjTFVVakV5elpFV2R2UV9SRkQ0WGFHQjcwbzFtbTJQbll1TzdINHZjZVlVeUhFZzRtbmI3X0pMZUVUUEdyQTVSdDdBSmdNRnhyNXFwdEFQQU1OaTY4MTNQTk9RV0hxUjJaQzh6VzR1TEhyTHJQNXkzWEVRbTNDc1c3bkV0cnNmZ3lCdjNrbw?oc=5",
+   "outlet": "The Times of India",
+   "published": "Tue, 10 Nov 2026 13:42:00 GMT"
+  },
+  {
+   "title": "Google Cloud Launches Gemini For Healthcare, Unveiling New Agentic Layer & Capabilities - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdC1EeW9OSDM4QmxtMWFQSlJsN3dORFpDSUl1eEtpM213SXd4ZmVfZGtBWjZGZkx2UF9vZFNRQ2ZFMWxvLVpzR2F2TWpmZEZiTTY5c2NWcXFUVG5oMG51SlZoSFNRRmNBYmQzSkNOT0IyR1NTX21iWWl1NWE3U3lNQ3lmcmN1dVBKN0NKSko0R0RVRDhzQjA3czVtaUw5aTZLUFV2Y21EY2RfU0RmY3pLQ2ZIQ21aeGJ0UDJDaHlrZnJEZDNla0ZUNVliYjU5eWs?oc=5",
+   "outlet": "Forbes",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "title": "Intel and Altera simplify sensor integration for edge and physical AI - Intel",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1BROThuNVFhTkV4ZEdaTjdnbTVEeUF0NzdJV0RZZXBybVFUYVl3UWY3SVNLX2pLQnZsUnZ0YUpHOGdWbVhMVmxOV2R2Z3RLeG5jWFc1OGFEcGdvVV9pQXNsbDZJN1NVZ0xtZ2xJYkVGd0V2NHZwS1ltajBkWkdERVdyVkljUUlUUFY2Q05vc2J5V253Y3ZVd0xWU25VQjBxM2oyTEc3a2huNjBaVUhlYUc5aDFqMWdjd2ttZ0l6Rl9IbkE?oc=5",
+   "outlet": "Intel",
+   "published": "Tue, 10 Nov 2026 14:04:41 GMT"
+  },
+  {
+   "title": "Exclusive | Mercedes Gives Its Cars an AI Upgrade - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWVpcXVCdEpmZDktampFRkN0RV9XOVJUR0ZiTVJHY3c4c19QTncwblEwRll2TEMtN190VkpzMThKUFBTdTJPUlZKMnZYY250aWxSR3hOWmFKRExlTGxib3Z0MjJIVVZER251RFhVeDRDaGY2VTB5SHYtc3RVZlpSZlJxTG0?oc=5",
+   "outlet": "WSJ",
+   "published": "Tue, 10 Nov 2026 11:23:44 GMT"
+  },
+  {
+   "title": "Infineon says AI data centre boom to persist despite growing backlash - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnBmOGlQX1R6UVRYU0poa01zcXJrRGllejhsNUFtOGE3Yk1UWFZnSkpRNVdvdTJfZ1NEV0EzWER1bzRfMC1IbTAzTl9rWXlnSXAwblVXVTYtY1dZZXU2TEQ1ejdjVHBXbG0xbzU3Y09JNEdOVmRfSVExNkxiN19kV05CVUt3TXBvTnNsXy1OazRDa1FZa0VpMzI0ell1MXpqaEs4ajVtR2Y?oc=5",
+   "outlet": "Euronews.com",
+   "published": "Tue, 10 Nov 2026 13:08:18 GMT"
+  },
+  {
+   "title": "AI100 Report: AI has entered the mainstream and is reshaping society - Max-Planck-Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTJ5RzgyVmJoQnhYODBkaTdBcTdtV1Z6UnRVOE9YdC1KeVhOemZERXRyTDl6cnVOV05ValR0N3hCdXBURk5lbGlTVUdtMEZTb1pKaVB3aHN4Y3UwNUR3OGl4eHlUS29uNXl3OUh4Wmd6bUYzR3c0ZGJJTEFGWjR5SWRQdVdGbVNLbEJtaEItdE0xSkJpdktISlZqMVEtdDJ3SU4tYg?oc=5",
+   "outlet": "Max-Planck-Gesellschaft",
+   "published": "Tue, 10 Nov 2026 14:00:10 GMT"
+  },
+  {
+   "title": "OPINION | Honey traps in the age of AI: From ancient tradecraft to the Nvidia controversy - The Week",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnJycURFSmdqQXBmSUMtVGU1NUg1MHJ4SFMzSFZiV2NkdG5HX1lHTmdaX2ZEejRkLVdhMmdvVFlMZ1JaS3o5Y0NkLVg4S0ZfeFJlNU40bWhyWmV0aGt1Z3hwNEVTTGNKT1FkY3d3YjY2eGx2ZUVsMl9FdGsxOXh3NVJwUVNBcGpiNm1CekpYWHJTM1RMYWhWNW9ISdIBoAFBVV95cUxQUl9rTlNrTHZhdUFwMVF3cWlnQmFsdlFlOEl1VTVKOWV1a3EwVmxqRTB0QUpMUFhhcDI1aFhRbjdoQU5UVWZGeFZiLXpzM3NxZjdBUlZpSVdqa0hESGgyOWJkY2ZSVjJOSlRfWHcwdGxoZlFYWlRSNGlpb2NMTmxoTTVIdDlvaDZXOGRZajJoanNKb283Y0ZON0F0Vm1UVmxR?oc=5",
+   "outlet": "The Week",
+   "published": "Tue, 10 Nov 2026 12:57:15 GMT"
+  },
+  {
+   "title": "How worker deaths at Tata plant in Hosur underline Apple’s India supply chain troubles - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0s3SnB3UGxKQkRpOHVDVmFJbDVYaTVJTGw0REYxNVo3cDRONDY1TnNvTnFSeVQyMW5ZdE9WWEEzcWwtUjlXNGhHRkpYX2gtcWdyLVV3WWloQ1M5TjRZQmJpa1EwWUdLRXBBbGNoREFXQlRpMVdieGVqaVVzT3RsTkpYbndGZVEzTHVudndkcndzOVpoTFpTbERHX3lyZVXSAaYBQVVfeXFMUENjRjB6S2p4a21nNnQtRm9rWEw3cDNDRWY1dF9GZ3pqajVKZXlMZnZjUGZyZVlDZ3ZTdDhrWHBiVjdvQWpUak5uNWgtWmd2NmtjRTAzVTQ5RTVSYXpKMXJjMVgwbVlTelBzZmFPLUhEWTBQYlc1bUtudVVGVHBOeFpXQTdlekhKQmp1SC1zd0tKakNtbHloRVEyQzhxZm01TTRBSHFMUQ?oc=5",
+   "outlet": "The Indian Express",
+   "published": "Tue, 10 Nov 2026 13:29:38 GMT"
+  },
+  {
+   "title": "Artificial intelligence is desperately seeking its narrative - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+   "outlet": "The Conversation",
+   "published": "Tue, 10 Nov 2026 13:12:58 GMT"
+  },
+  {
+   "title": "Months after its AI agents hacked Hugging Face, OpenAI launches ‘Control Room’ to catch them in 35 second - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmN5WFdsVGRPMDhLUjlabFNhcV9fMVNXQTN2cjE5Q1dSM3g4YVotU2JWd2xWTUJwN0kzckJubzJ2RDNmNUJRYTIzY0FrLWVYMFVMOXhLVXRqbTRFVk5tOWpXbUtTT0JrbXQ5QjViUzRXeGx3Zy1hLVI5UlhUOTNmQXdwbFp5OGNvN0l4Zzk1Zl9KUG54dUt1c2xYNXZxMHRZR2JMUTRJcElhVDQtZ05CVnJIVGl4NHFsSURiNHpxXzdmTlFXUlNWWHRUZzl3R2ppLW1hZEZvV2V2WVlqaVMzSXl6WGM0bUx5QnZ3Y0UtekY4M3NtS0ZBMnFRcDU0UGdZSkZaUXBrM09UREtLY3hxRmpQeXhNOXpuRDk3VnJVNjg0ekVsQVHSAasCQVVfeXFMUHZCanJTUlJWQnFXUnd6Uk5ZR2VaeUVLOFpPeS1UbTVyemViam1STmlKaXkzSlFaVk9Mb2VOT3VyaEJndENNVXZBSXlxYXhUYU1CODREOWVPemFlZXkwTW5yd2hRYjVjakFPTWhpODZMRy02OFNocW9lSDI0WnpxYkwzMllDb1hYbVA3eGpQZnlBQlI5UXVudjhaUkx3TG9vcnNpN1lHem13Ny1icWQ3WG05ZURRZ3UwWTlDWVByNjBoM0VHUjBWRThMZU0wNHZGVDdPd0x3MFlfelBsNWhkVUFQM3lIY3dPbGRnYnMxWGg0V3V5RjZxS21pZjd0X2FSbG03QnhKa2tvc3J2RDVEVFk2bExmbWN4NlM5cjV5am5XbXp5STU4VjhCQkU?oc=5",
+   "outlet": "The Times of India",
+   "published": "Tue, 10 Nov 2026 12:42:00 GMT"
+  },
+  {
+   "title": "AI Is Changing The Economics Of Creativity. Who Benefits? - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2x1dC04eG4xMzlZalZCdktXRWJ4VWZ1VXY3aEs1NGZzOGdXN25ucGNzdkhrcjZ4UExSSU9vajhaNERlSjBTY3hqRG4xRUNfLXprVkx1MDJYTE5YamxjQWM5dU82XzlJbWh0MWdjNzZNQ1FyZk16S0tRbks4YTRzN0hBa3g2RU43MER0ZDNLVFh5Y1JUaXRLdjEtNkptNWY5NFZhMFdzeVRJTnN2NkE?oc=5",
+   "outlet": "Forbes",
+   "published": "Tue, 10 Nov 2026 14:07:27 GMT"
+  },
+  {
+   "title": "Home Minister launches Startup E Plus initiative in Keralam’s Vadakara Lok Sabha constituency - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS1Y4NUMwSFdXWjdDTzZVbDJpZUpHdUExREh2NkZkaGM5QUc3d0JCVnc3NGRjaHRDUldlTUNZM2Jfa2ZQMElIRUxmRXZiSXkzNm1BXzBPenQtdDhFM1htSzl3UFUzQ3U1bzVpdENQczdvcnpjSWpDLV9EZDZDX0E4RURaVDdCSDIyQV91d28ydVMwazZ4VTZ5bDZrSnVjeTBiWHp5NDhBRl8wcUdyMTRiYlZCR2ZJR2h0aDlScXVjMXVNNWpObzJvUlBrSzc0aUVsOEVwS0dFcUJXbjNrSHBUVnVJdXU3ZzQzVlF3Y0tDZ9IB9gFBVV95cUxPVDQyU19uRUVscl9QLWc5ZFBYZ28xRWJfMWFQME85MmxwSjdVMV9oSVA0cUlCNU91T1lkbi1VTWtRc1V0c2xNaXJvNkx4b0FxZzdOZHlMbF9DYkhBOW5RTXlwLTM5OEFnT0pKMFoxYnR5bHhIUUkyR1NRa0U1eTM2NHZ0YkpSaU9kNl8wdWJ0azA1RlBtZmphSjBxX2s2Vm1DSTVidWNsdE9YeW5wTzdVYklkZkN0eTBWVDZMZTVWbk5DWk9BUnV2cmJoMEJ6VFNEQnh3NmZFSU1vWmtNXzQwWS1LQWoxUmRPN3ZvWUVfdmFLZGhZM2c?oc=5",
+   "outlet": "The Hindu",
+   "published": "Tue, 10 Nov 2026 13:54:39 GMT"
+  },
+  {
+   "title": "How AI glasses are changing the way people communicate - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObERvWE0wZkJEQ0MtdVdKdk44TTZGRllWVzZISm1WQVJmam82Q3V0R01LSjg3QzlnWVJRcjl5RjJqRHpZZGFkYnFlTUh6QkZQV0ZhQklqc0hyQUZuXy04TEVuSUxIZ3k4UGNOUmFqWE5qVkNHQzQ3S2ZCWFpFeXZORjJTbGpEcERQREMyZ1RKUXRoakxN?oc=5",
+   "outlet": "Euronews.com",
+   "published": "Tue, 10 Nov 2026 14:00:45 GMT"
+  },
+  {
+   "title": "Hackers Hunt for AI’s Most Valuable Commodity: Computing Power - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVdMZnpob1VXWFVXbHhGVlI1bkZxR19vVzItOExwTWlpLUx5a09kR0xrZkRQTVVXVTZyamNic1JJenlZdjFxazFDeDBYYWI2N19QWkdjZU9pMXRmMVZGSGxsSmk1U05GZXBsSE0xcTdGNG9nVW45X0t0NkRyM2ZmRzA4ZkJ2LXpKbDgxeDRYOXBYczVCMFFhbnROWmptUQ?oc=5",
+   "outlet": "WSJ",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "title": "Sundar Pichai sends welcome note to Mark Zuckerberg; says: Excited to serve our Google's … - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdjY0WEd4U21mRTZ6Ni11MFRuQVFxcm9PNDRMaFExZ3pwazkyWklTNEVzc1E1RFd6ZG1XNDlFdlpQbzNWUW9hdUNuRXpsRHlPZEpab2ZYcGpfLWJPWkQ3bnQtd2RkbUVhNC04dlJoWDdFSGpiSVZkWjJSb2czOXo4TXcxeWV5WEFuNTcxcGhqa3NyOWpHLTYyeHFmWHdQUEk5TVVyTGppMFJQblU5SmtpcEFZVDl3VTBrbnhhMmdGZXZ2T0xzWnMxRDNLcDY0ZURneWNUR1NLOVFpS0lVQTNIWkQ0eHEyWmtPRlpGekNkUHE4bWlaUktpZS1EcGNzZ9IBgwJBVV95cUxONkFubkk1b1pENVR3c05tTldlVU11eEZtYjBXTUFzakhUV2NHWGJwYk83clMzeFZCN2xqd21md2ZFT2IxRVVsYmNrV1VvOGpEZUZyQ1YwdzlZblVDZ0xnZkdIeTRmdHBRUDRIV0M1eTdUVVJaemxYQWZLZlpwZ05RSXhzVjV0WEFOcWFvS2Q0VVUyd1NZT1JCN3kwLWFiWndtZWhvckJsN29YTkdtMmI2YXdtMVFWRnBSYkw0UWtncmFpUXFrMnJZUUNiOTVwaF9PQVJnTGRvVmFnckxkbWhvTGk1M2VUVTdaOWRtUE1wSVpnUTAwOVRkUXhNVDRlS2puTHNr?oc=5",
+   "outlet": "The Times of India",
+   "published": "Tue, 10 Nov 2026 04:44:00 GMT"
+  },
+  {
+   "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance - Inc42",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjNjTk5YbDMxc25DdGJudTdyN2ItZVVyMU5HMTNrVmt1NEU5eWNKSW9qSEVUTHZwTmtSOV9JazlGM1pLTnpwR3FEZU9pWUtScTcteFFRbUgwaUxpaXNWMlcwU0tHTmtoWkg0MkVfX3JRS1ZpS0p2NG5heGhzMEhJSHlZZHZXdmFEWUtNRHEtaGR0V2tzd1VCZzFFZDhLcDdhcDNRUGxWdGU?oc=5",
+   "outlet": "Inc42",
+   "published": "Tue, 10 Nov 2026 12:52:54 GMT"
+  },
+  {
+   "title": "Trump reveals he threatened to jail AI Executive over security concerns: ‘Kiss your wife goodnight’ - Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ2d1TGI4UU13aERPVkE1S1RHdFJTMVRFcm9VamlPaG5odUx5c2hyWlNWR1hwZElRSFhjWkFMOTdUcUNfc0lKOU1ZR3l0ZGpfbVpJMmhtdUt5cUFXb0tlTDFkcE03QUNKWkgyalQ1UW5rLUpYNGtEUGZCMnZRLWdZRFRFeDVaOGRIOVJvcjVmSkQ3SERYbndOblptLTlvNm8zemlrNm13RGhONkpKN0NWUjBRWTdlYTJ6SGg4MHY5YzRvZ3A0b3V1Mk9aOFFxOG5rTGVHS3IybUg5U3hLYWhQcU5LYkJzYm9wUTBRLWZiY3llbjRJRjItWGFaRQ?oc=5",
+   "outlet": "Hindustan Times",
+   "published": "Tue, 10 Nov 2026 13:17:16 GMT"
+  },
+  {
+   "title": "Commvault partners with Nvidia on AI data management By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTdoeWhSV2hjTWhVNlhPbWxWbzE2MC1kaGtQNjk2dHJJWjJlTzVJSUhDWVY5NGNNdl9xQzN5SHFVYVNCZDJ1bGVFOXpDRjdBUzFheFZqLW5YcEdvbVNCME5yNkUwczFNclRpNlp0YVRUclpEa0MxZl9oWUk4bFpaSW92ZFktWE42YThFdzFxZ3dnTXhPMzdBMVY1SGJIOENYdVVjOWVWdllYWXF2SzBDdVY5dw?oc=5",
+   "outlet": "Investing.com India",
+   "published": "Tue, 10 Nov 2026 13:51:18 GMT"
+  },
+  {
+   "title": "All the latest updates on AI data centers - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
+   "outlet": "The Verge",
+   "published": "Tue, 10 Nov 2026 11:03:54 GMT"
+  },
+  {
+   "title": "Wells Fargo upgrades US AI infrastructure view after chip selloff - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0lBQl9kZm9xVWpHZWI5LVJod1o0aE5NNWdTb1dTaklCWU9uaU9fYWJUQklHeEpqY2duTnlYQVV0WG03M0FWbHFYZTJ4eklwalJZcTRnaFFaeEtVSGpKam5HUXh5U1Jic2loRDBIWXF2VzlCRUpPdXNGbThmRjlvV0hMdFJFVmZjNG42aFRrTm5SSUxrdy0yQzVFdVBnbktENzBpUldIaFpPd3dQNWx3?oc=5",
+   "outlet": "Reuters",
+   "published": "Tue, 10 Nov 2026 13:33:39 GMT"
+  },
+  {
+   "title": "Anand Mahindra on India's AI opportunity and investor interest in Indian equities - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdHlVODZfZXlIMHBsVFNIV3JKMVVtaHpHNUpoM1ZOVE5nSjZ2SHRibUQ4ejA3ZmNTeG84Ni1tWEVQVmxVNWNfVHRITlFjOFY0SXdWaFJsaVFZVjlQajNzNElsaWZUd2FCWnFzRmI4VUtCOGJ0VXMxeDd0Y0c5Z21SWjBQeloyUjNCM29pbl9SaTAtc3ZZak5MYmVhWXZwNjFPbHdxWjR4bU9EMmJ2RlU5MXF4c2tCbUJFbzViSnpKYVBSSHpmYzVvYkYxWmFhajR5bVpSeldLWEl3VUdyNHQza9IB5wFBVV95cUxNYWVRNnpzUTFYWFd4TWNJTkk2MkZNUTVHWUpJdFc2eTZJemNYNTV0OUk4QmJEOXNQeEp1Rld4MzFfUDRUb3ZTdW1fMGY5Y29xYnRjX3J1N3ZZenU3eFVZODlUY3V2VjFjcnp1amhHTlBkUV8yY3pDMkRPY0pvNTdZa29fb2phRGM0YVp0bGxGWWhPMkxDOTdERUE2OUVlUDl5SmNOY2E3cTR5WWRZVHdvODVuZmNhN0FXYlRBUGx4YjlPaGE1MFc2NlFDVEtMRUdtd0FtR0tudFhaUlo1cmo1U3UxNHZNc0E?oc=5",
+   "outlet": "BusinessLine",
+   "published": "Tue, 10 Nov 2026 13:30:06 GMT"
+  },
+  {
+   "title": "Why rushing AI into AML could deepen compliance risk - FinTech Global",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbG9JV09hWVNGYVhxV3Q5QXJKUURZYVViSnctR19ad3g3Q3JuOHJYbDd3aXJ2TmNOQzFNdHZvcVh0YTdud05RSEdvVWxfSzNWd2VqN2UwZkJVbVhRTUFTS0hBZFVzNW5GN1Y4dTVIZVlSdENTcTJISG1fdW1za2psajAtUXBCTHJvZHRpMWwxTXc?oc=5",
+   "outlet": "FinTech Global",
+   "published": "Tue, 10 Nov 2026 13:59:27 GMT"
+  },
+  {
+   "title": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era - TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDZLMkZWaU1ZWjVxMFlaNUYyS2dKV0NOR1ozUUxzbF9vWWhncjJ2ckszZTV5N3ZlLTNxTG5OUjZGYWozU1BVbGJ0N2dhNGVvc3owWjRCaWJGSlZzTlNieGdlM1E2MkM0d3pXZnJxbTloc29qSThBTzlwYW40VGl1Nnhycldwb0NkM2xsaWdrcGtsNGx6TzFSYjZJU1BCVDQ5bVl2bmRyT01ZMU9ITnNTR3I3TzBMWU01bWkxQXlGcGpEVUpySXBpYQ?oc=5",
+   "outlet": "TechCrunch",
+   "published": "Tue, 10 Nov 2026 14:00:00 GMT"
+  },
+  {
+   "title": "Anthropic eyes $1.3 trillion valuation in IPO, targets over $61 billion fundraising - Fortune India",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDVGZ1lGNlVsSzQtTkpxOV94ZXhBQmY4aWtTOFN5a0tYTlRtN2c3LWZGRWJKdEs3NF90MFU5RllieHYtQ1VIQks5SllCQTZmeWZuVURLLXFyUzJJbEVwdndwTTlpS2V4T2NtU01hcGhhTjVCXzA4dnpGbDYtejdFdFVnaS1mejFDd1JCQ2pyeUJBaGQ4eTZOemwzTnhRNGlKdUNCWUJQUUxHeFV1QTNXaDExNUNpSElvTG5zVUpkV2drMHZnX1HSAdMBQVVfeXFMUHpTdUxkbzBVSldGdjM1OHpseDI5ZEpHOEhSRU1kRWVwQTJMQm9EeG9mZWNfc3duVkRHOVJsaGMyLXVfZU5HSGlBUlNoYWtWU1BsU21OVk51TERJZ3MtWm45ei11bzBKYjdtazczS1dBSmdNZGNIenZQa2ZXTXlFa0s0TWZsZjQ1ZGE2Qmd6aEVYZ3NkZ2NmWHhNR0RPdFRQcFhZMnA5RmZFb3ljZUU0QmhrcmVsZ3M4bGV6bGhiWEgtN2NoUEpxYzVsTEZDMDlOT2dQUQ?oc=5",
+   "outlet": "Fortune India",
+   "published": "Tue, 10 Nov 2026 13:29:41 GMT"
+  },
+  {
+   "title": "Opinion | How I became a proud producer of slop - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVdRakZBRFAybnllSjlFSmthYzk5YTYyT2RtbWNuVm5kLU9RdVN2a01HVFl3eWJlRnRGNVBSdmwtdnJTVHR1eGtSUC1yQ0hReWUtbkhHaC0yNmFDdHBUQnZjM0RFcWd1MFNRTzY1d1FEZVJOUFdKNW9xbFpmNll6TmY3by00ek82Zk1Cc1VDUC1zclBGT2pwc25oWktMd0hVMEJYOHYwWlFVOVdRRkZtWg?oc=5",
+   "outlet": "The Washington Post",
+   "published": "Tue, 10 Nov 2026 13:32:30 GMT"
+  }
+ ],
+ "googleNewsTech": [
+  {
+   "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely - CyberSecurityNews",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQjZiLTgzcks3NzBQa0pTRWtKSFNpYWN0Qld0dndhbkhGR1pKdElZWG9MdFhueVgtWnRtVTFKdjlDTHl2bWhXMklaUWxRWnRqUW12WWRSemNiNnZsWl9YcjYzaTRHZXFWS0RuSNIBckFVX3lxTE5qZVNkS3U4TW5ndnZmbk5IRVdJTnZXSzZrR1dzckV3VTdUWmtPNkhUUW1LbE9VUTg3by03M2wtdU9pY0hiVHNuUi10bkZIc1lhRGlHLXlfX1VSMWNQSDRFQ2NORncyUjlUcFFZeU9wcWNiZw?oc=5",
+   "outlet": "CyberSecurityNews",
+   "published": "Tue, 10 Nov 2026 04:42:23 GMT"
+  },
+  {
+   "title": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored - GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0Y0N1U0aXRveFlpcW03blJnYS1nLVBBOHZXUzJPOF9aWkpobkZIQ3M2TDVJN3V6b29qNUdIdm9hWjVzeVAwdDg4b2ozemJ4eEVhYXlLNEtnU1RELUhXSWF4bWdWdW1TWS1hSTh2Tk92S1FzX3hyX2FPM2psLVMzX0I5bVFDUGVQTVJqUm5seU0?oc=5",
+   "outlet": "GSMArena.com",
+   "published": "Tue, 10 Nov 2026 09:16:03 GMT"
+  },
+  {
+   "title": "Google Gemini Adds Five Workflow Features, From One-Click Websites to Voice-Drafted Docs - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aeDBUb1dQc0ozTFhZbUtmV2k1cHZxYmttWWVjSEw0NjhwQUdBOEYwN1Z0NWVhMmhGZUJpVUpEZFhZZ3VTM3Noclc1Nk1tLXdxVVZDUUs5b1JiNGtpZlZGUE1RQzZTcEk0Yl8yOURfdWlIcXRteXc?oc=5",
+   "outlet": "BigGo Finance",
+   "published": "Tue, 10 Nov 2026 10:59:19 GMT"
+  },
+  {
+   "title": "Canada assesses its space reactor capabilities - American Nuclear Society",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXpxM1d5bjFNNkpOZERfVHJQa0F4b2RDSnpZX05JWjFPdWZQOUVjbUJVbjNDX3FQbXZGaTdfQ1R3VzdsOUhxQkFGVWpoOE5icWhjdko3T3JPMzI2cWVDNVM0ajZDTUo1VVFfVmJ2ajd0UmxiLXI2QlNnS2ZaMGJpZ0RBdHlVaDR6Rmd4RF9B?oc=5",
+   "outlet": "American Nuclear Society",
+   "published": "Mon, 09 Nov 2026 17:07:54 GMT"
+  },
+  {
+   "title": "Quordle Hint Today: Tuesday, November 10 Clues And Answers - Yahoo News Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXliWnRPZjBYeTBtTnJQcUE2TjBIYWpRdnJmYjhJWkxoaTBySENaQ25uMk9MRVpxVDYzbWUxcktkYmxKZHdWMVlFV21ITGM2ZTN4ZmRzVHNXMDFIU29xT0lzZWswQlNJWkR2RFd3U0t2UkxKaXhObVpELW1oYkluSVBn?oc=5",
+   "outlet": "Yahoo News Singapore",
+   "published": "Mon, 09 Nov 2026 18:00:00 GMT"
+  },
+  {
+   "title": "Is the imminent GTA VI launch already priced into Take-Two stock? - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkczTXVsQ1Y5M3NyVW5xYS13TktsLXJwd0lldGkzZm5VX05PNHRnZ01aMDBfenF0RHdKNzBzUzE1MUtlX1NmSVJCYnVaTTBGZFEzd2syRTdiZThUUGR2Ykw3OW5TZ2ROS3dfTnNVQTI1SEhBaXAyT1FLSjltb0R3X1NaYTBabzRwOC04eGE0U1hIMEdrWUgyVHdaaTM5eUlzTjdYNFpnQ1U5VlNJSnplZzUzNGV0V0lObUFfWkJDSkt3ek0?oc=5",
+   "outlet": "Investing.com",
+   "published": "Tue, 10 Nov 2026 14:00:14 GMT"
+  },
+  {
+   "title": "HARMAN Drops App Launched for Personalised Music Discovery - The Mobile Indian",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0ZvVkdvcGk2bTRBQmFVYWpUYWY4OExMWks0Ym1aQzVHUWpjczZyWDdYbXJnMDBFRVoweUNmQ3FIbXZTS3RicDFJMkNFb1ZHTElmOUp1Q25yMGl6bVlMam1qY0UyVmR5dDl2RURYOGtRanB2MUw1MXFURXgxV2FMenNqYUk3a2lLZ016MlFpaWN3YjMydWc?oc=5",
+   "outlet": "The Mobile Indian",
+   "published": "Tue, 10 Nov 2026 06:17:05 GMT"
+  },
+  {
+   "title": "GTA VI pre-load opens on PS5 and Xbox Series X|S: Timings, storage requirement and other details - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLURKTlY1bjVidmxjVWtZcWlQT1IyQm4wRkp1M25NQlFlZFh2RWxOUDZldHNhV1h2ZDB2SHhSSExIWU5RaXRjbGlwejMtdTh2Wk1vNVBkWlhDYU9GWGVHQ3NyYzJHY01wcy1CRWVsLTdUaGVTbEU0Vm9pcHhjVjRVSU9GanVvaXRvMTJJX09rV214b0UzQVZDZU4tOFdOSVFkbFF1VmhyMHJwR2QxVng1UnVRNEFmRk15TFA3REFPSEtGdzlOcDVvQWpoQm5YWDFocU9HdzFYT2REbjd2LTRBX1hua0I1aFFlY1owUNIB8gFBVV95cUxOMXNHZzR5OVZpMmdrZFZEMjVpYkhXNHlobmFZc3phOUtqWlJMV2E3emk1MXV2LTlpTjFEc2VFekcteVN5VExTMzd6RG5mTk5falJFUVBsWVNGellOdlpzOEhXeFJsVjZDWFdMUC15M0d1cTNCNm9xNEQ4TmJyVXQ4NmRybzh6VVNHTTNPcVJueTJYRjU0bnJiNDljTTRfeThrVmN5dU50YmxwSWNMcTJIWW9TdkQ0cjhiaWxPQ0lXR2pzZ253Q0w2ekUzSnZDbzVXNzlnZ0ZoZ3VKald5N3VWWEJmcU1fc0ZnQ2dSSkNqQXNkdw?oc=5",
+   "outlet": "Moneycontrol.com",
+   "published": "Tue, 10 Nov 2026 09:12:22 GMT"
+  },
+  {
+   "title": "OPPO Reno 17 Series Unboxing Videos Reveal Design Ahead of November 16 China Launch - My Mobile India",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEJjSnJ0OEYxQ3lrS2pIUUVqMFlYb1hpTEtvVHBEejR4ZkNqYl9nX2pJdUlyS2tEQjFkVUVXUG53R1FGZ0tHVEh2dUZaYjFLTnZ6NUpHV2VQNndQcUt1QWh6em9PNzFrT0Z3MlhfeUNQdWFNY0dNdE84QUJNQnRFcC00UGtqMGxGQmlickswMDYwWTJTdmJUVUtHNUlpdFhrTWpid0M2WWpTblF0N1hEM2VBSW0?oc=5",
+   "outlet": "My Mobile India",
+   "published": "Tue, 10 Nov 2026 04:26:42 GMT"
+  },
+  {
+   "title": "Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs - GSMArena.com news - GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9wem1fZW93Sk9BT2lEZng1QmhkdFphRjk2QWVWRnlPWW1SczdBRldnaUlDdzdHNmwxQkctNndJVlFjLTNBNERSNExIWnBfZnVKUjlpNlhpeWxDZzJYTzhYWXItNnlVenBLUGtFYmpxLTN6UzVReFhsYnJxSmdaNkNxcElqNzd5c2NPYUM5S0FhSElvYmlia0FHVGFZT014YnJEVlhTUXRmUdIBpgFBVV95cUxPNUdTV2VsWHRDSU9XMGRGd2FqMWNuc3ZpQk53YnNHNERpVmZQMmNZUXdldTlDMjFNanlvNHMyYU5YblRfZjk1R0Z5ZGJldzVGNXdOUU5mN2RpZklianlIRXg5UUUyUlNNQ2gtQmloOWNmeFRITjFlNkZTTGJ1ZUhqZVZQc1ZRQm5GRkVsT3BqclFFYk91Rmw5a1lETi15Um5DbjZHTXVR?oc=5",
+   "outlet": "GSMArena.com",
+   "published": "Tue, 10 Nov 2026 06:00:02 GMT"
+  },
+  {
+   "title": "iPhone 18 and 18e to feature same sized screens and batteries - GSMArena.com news - GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEVkYklpWm5RTzBWUl90SWFKaXUwQmwwRGY3a3pTUkI0OXc0aTBrbXFjTlRxaU9COUUzcXlKN1F5QVVpXzJvdWZ1bC10SnpFTTFHTHdReUd0TGN2a0hSZlNhZkdUWXZfX0RiTF9NSC1IWWF1RFViRVFKV1dib0stQ0NHajVGVi16NWtqLUtnU3RRM3Uta2RoS0ZCVVdVMXhXWmpydUNn0gGiAUFVX3lxTE1KTkx6WmMtQWkzVWxoMXZrZGRqVW9jTHNBc0doWWRBb211VDBYZVc5bEZlNS1ldkRxS3BLV213UzZGVG9mSFNpZmllQlRJUm11MlpZTU9fa3ZHbTQycktCM0VEbUxQVXdnNXdzNlAzdTF0NmhoaHktdjRtTlFVQzVWTE1VMkJzSGZ2a0dTSEZBUzFYeHZGM1pOSG9WUVdVeUIwUQ?oc=5",
+   "outlet": "GSMArena.com",
+   "published": "Mon, 09 Nov 2026 15:48:01 GMT"
+  },
+  {
+   "title": "New MG GO Small EV Prod-Spec Spied During TVC Shoot - RushLane",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzRldFRJMjc3V2FaZk91ME1UTlBBVjBJMXpucnhKSURNSlp5VkpjeWg3RXp1OE1sRnRBOE1hbzE2d3c5TUJiVDV0WWc4SzRyQVZzU21CZ3RLWWNwZ3NOeWhkdEJPLVppV2Ezdk54S09yamxSRWtMTGZEenNoUkFfZG03X1JrdDYzWXNTcXpTbXpKMnZC0gGUAUFVX3lxTE5XNGV0VEkyNzdXYVpmT3UwTVROUEFWMEkxem5yeEpJRE1KWnlWSmN5aDdFenU4TWxGdEE4TWFvMTZ3dzlNQmJUNXRZZzhLNHJBVnNTbUJndEtZY3Bnc055aGR0Qk8tWmlXYTN2TnhLT3JqbFJFa0xMZkR6c2hSQV9kbTdfUmt0NjNZc1NxelNtekoydkI?oc=5",
+   "outlet": "RushLane",
+   "published": "Mon, 09 Nov 2026 08:17:29 GMT"
+  },
+  {
+   "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques - The Register",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQk5RbnFlVndUdjNPMGhlS0h3bFc1UkMxNmRCQk1QNXBYY1MxeUMweWxuRWliS2FsR2ttT2l1OGZ2b01ONTUzRkZ5LUpWM0pPZWl1T2pTWTlzTDV2Y1cxZEI5ZmMwMHZMVl80ZU1GejV4RDJjUm9fZEtmeG5iSWpHa1NQRWlIZ3BETXp1WktleVRXOFRBcGVwNkVZdGJFZFFoNzZwczJtV0FPUGh6Zm5kaFcwSENsNXgxcGpGOHI0UWpXWndLTWdxR2RxdTVLQ2kzd3lKcGpNaGVCUQ?oc=5",
+   "outlet": "The Register",
+   "published": "Tue, 10 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "title": "vivo X500, X500 Pro, and X500 Pro Max prices for India leak - GSMArena.com news - GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEFLOTZlcTIwcWFSNUxmemg5TTlzVy1rVmdVenpsamJoSlVrM1JCQ0pTZWFMdE11NWhzOTgxT1BiYWZNX3NxNUFfOXo5dUhvUnVhMlpDX0JzaXpQVENhUDZfeHNTWXVFNU05aDRkWVFLd0JVZXFubEpSb2Z4N1NSVjJ1aVpSSlpSNFpTS0VUUXlPRnBIRkhwM3RfV2drd9IBmgFBVV95cUxOYUkzZ0k2QmZfZFN6UU5kenFiSUZ3ZEpCVzNNOC1tOXhGb0RPUmlzeWVXTERqLUlGZ2tQYWtacTlMVGlTSmg0SEYzSXpUNV9JYlRXMndGR2VtMF9FazVZQWxzNWZ4MXJNVGpTVnZxdUwtcmlmeTQzbWQxWmdmdHB3dHk3OXFBQy1VUUxfVWZSa2U3TnhZZkFteHJR?oc=5",
+   "outlet": "GSMArena.com",
+   "published": "Tue, 10 Nov 2026 03:30:02 GMT"
+  },
+  {
+   "title": "GTA 6 PS5 Pro to have updated PSSR 2 and 120Hz, but QSSR unlikely for base console - Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkZYVmhoX3BTZWFQNGRIYi1VZHpScVpXWEt0Sjc2RVhnY1dTTHh2QWsxNVNzTm8tYXZCTEhiRmd3c0ktVkFyaVk0VGtLb3E2TmRsSlFWY1Y0U0tQVVoySEVTa2taNzZLM3lTTVhiZWs0U2RVR0lSay1HeGZTYkgtREpPa2J6dHpld1FnandmLWJlRmhHb25uQmppek5MN19sVzJhdzA2TmpIalBxdGp0OUJJTm1TTnB4elU5NmRCUkQzcFNv?oc=5",
+   "outlet": "Notebookcheck",
+   "published": "Mon, 09 Nov 2026 15:04:00 GMT"
+  },
+  {
+   "title": "Ring announces Ring Robotics, ushering in a new era of security - About Amazon",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1dtdUwwb2pOMlRmVThaNUxEb0htNUFkWV9jOTFMWVNkbGttM3R6NDJrUFZhMkhpLUE2VWRmWE5QUTlXak5vcmJscTRUN2dtNXpsTVppd2h4VUd0Y1BBUGtFbEVCQTRDajdaYmt2Wkw2VFhlR2FXemRUVTVOTS1ZWnl0VWdORW8?oc=5",
+   "outlet": "About Amazon",
+   "published": "Tue, 10 Nov 2026 13:26:02 GMT"
+  },
+  {
+   "title": "Apple introduces $50 AI usage packs for Creator Studio apps: What users get and how they work - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3Z5NElxb3FGS0I5Z2hYUUx4eE53dEczLVdhUW9yRzhyN0NNM3cxTzZqZ05BUE9NZ2hRam9kSFh4bjJFNWhwbU8ybnRoZ0lzbURuZWFqX0dsMTZnaTNNRW1GS0JjcUFDOVMtTGhlSWFIWlpkV05zdzBGbFFGaW9aeHY5ZUlBSkNpT1p3UW1ZWEdTdFo5b2gxY3ZscFhUY285QjRlTTV5LUIxQ0RLVzFYeXRnY2szNHFWTHlISVp0UnQ0aXl3MXAxeFYxMmkta2NpbjJfajBMWDc3VnpMazVqM0hZOWJpdTjSAewBQVVfeXFMUHlna01vMGg3OU1xcFRqUk0xSUJMVjZnYzA5OUZjMkNFemFNbUJNcWVEejQyVlltb3VhVzFBWEtQdW1RWFU3aGNUVWQ1cGp6c1hzVnFYdU1NQlRzT1VpWWk4Ry1GZnNaNE9fendfaWpwU2RHR2JMMHBuaU45enB4ajJVN2V4R3lyNTNhSm5jQjlHbWlkTjNrWENId1YtQy15NTVGV3V1cmwzb2VsclVkcnlOWm40aC05RDFEV1RnM0NZVmVwQXlvZjBjangyc2k3QVZZT2lTN3BnLTU5VlQ4cjVGb0hBYVVjWjEyNW8?oc=5",
+   "outlet": "Livemint",
+   "published": "Tue, 10 Nov 2026 09:22:22 GMT"
+  },
+  {
+   "title": "iOS 27.2.1—New Update Warning Issued To iPhone Users - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFJFWHNyVUxncTV0cFFSY0hFUGN1Tk81YlJLM1YxM2xRQlRNRXpOTHVIMVZOZTZkd2h5bTJGTnhRSTFpZDVmNFFfMVNrYWlsdkxsSWVLamxNQ2hfZGVpTms2Sk5raGZNWWROSHl1cnlweFpwOTBWVUpDSkRwWHhwQnRDV2dYMUFwZDY2bGN4OWhXanpfZVhGV3NEby1GMkxJaTFyeGxQOXlDVDQ?oc=5",
+   "outlet": "Forbes",
+   "published": "Tue, 10 Nov 2026 13:27:13 GMT"
+  },
+  {
+   "title": "Review: Apple's $1,999 M6 MacBook Pro feels stuck in the middle - Ars Technica",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm1FX2VpZVpoS2VtNGxOemZYV0RYOXVieVNkWVhYUVdGYkpqdm9aRW16d2EydmJHZXEwY3l4MjNST05WaXNVM1dqMzlJS3Yxc085VVpzWjU0UzIzWDdBNmRwdTJmX0VlSG5jQ1pSRXBSOVBPa2ZvQ3d5QjZBSEhCcXJDQVpWTGpTX3NaSEQ5NUhUT1pHdHhxY0tkbXVJcDFVM0E?oc=5",
+   "outlet": "Ars Technica",
+   "published": "Tue, 10 Nov 2026 12:00:21 GMT"
+  },
+  {
+   "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories - IGN India",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOejJzY0Y2Zk16MFNTbTlqMzhqU0s4R1MtRF9Cb2MyVVExZ2lmNElZSk1pZmlUWllpQ1NtcjFGMVlzaG1rY0o3NHZZS2Z5ZnN1TGtLMWY2SVNvTXBPZV9ZWkY0NXJSSkZTUnNGQ21FdFFuTUJiREQ0eTF1SVpfNnFWY2lSOVcySWxaWEZwQVBKdEJHenhFQk5Zd1VoUVNDdnRXb3JWZ1ZEclE0NXgySXFzTVozRzdIbGwzemphOGJLZUVUOER0T2RvZFZQZzVVWTZjUi1PNHYwdDlKc2JvNHF5X0xCdlcyMU8xTmFlVHBKcXlObjAxWmVuQzlmcw?oc=5",
+   "outlet": "IGN India",
+   "published": "Tue, 10 Nov 2026 03:35:10 GMT"
+  },
+  {
+   "title": "Google Gemini rolling out ‘Memory summary’ with everything it remembers about you - 9to5Google",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uS2NHSTdHTWVyTDg5dU1WM1NyZ2hLSl9MbExUaVo5U0RmNlNXZ3VObEpMUklfdG1CLTZWeUVNVkhqNHJfQnRhQVp4WWhZU09pbFFSczJ4blNmX2ZpZmhNQmRvWFdRN0ZGR1JoUXd4NDc?oc=5",
+   "outlet": "9to5Google",
+   "published": "Mon, 09 Nov 2026 16:47:00 GMT"
+  },
+  {
+   "title": "The unexpected uses of a folding iPhone: iPhone Duo's folding positions explained - PhoneArena",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEx6eDF3SVJ1bXhNeWlLZzdXNEliMU1heTZQeVktZ0k3V2xhcDB3QjlUS3dCV1pjdURfd2Q3Ukd2UjhZOE55YUtKSzZIUlBFRld2Yy1LSl9LSDRTOU1OQjhTU0RMbENJd2E5TlZTNTNualVjaWExOTZKSlMxVVpPNXJnVU5XMVkzZF9nTkdYYmtNMWtvTl9EZmF4TWFuV290d3VkNkZQblpnZndrSUdhaHR4M2l0Mms?oc=5",
+   "outlet": "PhoneArena",
+   "published": "Mon, 09 Nov 2026 19:21:20 GMT"
+  },
+  {
+   "title": "How the WTC is reshaping the second tier of Test cricket - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN005Yk1SNFVIaWdhV1FwY2VpeDluZnp5VlgzU05WRGVsTnlZTlJmTVktTFBaakFxUVMya3VzX2VZdmhWYTBsX2JXYUxLSzduRm9nZFpTUjVNYVIwWmhHbV8zM3lRNkFoVmFaR3pyOVUyMi0yZllzWHlEMVNKSGNYRFpQNUd6eVJieEVQWXFvejlJTHJMWGJxbWFXb2pfLXpIUm5FU0lmUQ?oc=5",
+   "outlet": "ESPN",
+   "published": "Mon, 09 Nov 2026 15:23:00 GMT"
+  },
+  {
+   "title": "Motorola Signature 27 Launched with 7000mAh Battery, Snapdragon 8 Elite Extreme Gen 6 - The Mobile Indian",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVhUSUJvWHlrTkR0Q1hiVFlNbXpadk1pTVpUNDB2dXNYNkhQanhWa2Q1R0pCMEd3MGl4bldlTnctVGEyNVdXV0JOTnVMSjI2UFh6TnFQcmtIYlExbjZkRUt1ZGVneXZQVE9VVWF0M1Rqak1IbEFEU21QMWtaN1R1cHdpM0x1bFZLelRacy1KNFk5WGNVYXpMZU5yOFpWTDJWZFZobDRmYUxtbHl3SkQzd0Uwdl9YSld3?oc=5",
+   "outlet": "The Mobile Indian",
+   "published": "Tue, 10 Nov 2026 05:01:37 GMT"
+  },
+  {
+   "title": "Leak details Samsung's plans for Galaxy AI Premium: new features on free and paid tiers - GSMArena.com news - GSMArena.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTA3N3Mwem9LTDhpcGtHZFVEMGtKRkxpMGswMVdYZXRsVDY4UGEwY3Y0enVpS29jU2RYUktMbkdaRHNkNThGMG1McHlrU0hvWWZacWtOR2ZpSV9Ra1hWRzNrUFJvSEZQVVlCMVEtdFhJZzNYRmc5T3lJR0M4WUhPQmd3UGVneEE0dkZGWlFnYjNXeExCOTlsUVYyYXIxSVZYYk5iQ096WkJ3MDRma2dvLWgtbEV2eTRyTXUtOVZlaVp2X0HSAb8BQVVfeXFMT3Rqc3dfQ1daYlVQUjJXZGhfYXdkbTVoS25SWDJENkZTbnFYTUw3cXhYZ2lfbGFnLXZIcnhaZXp1YWJHcFpvLUNVcXQtMnFFZlp3V3JPeEdvXzA2SkprS2dfeldLemlwZHhJUVJmQ1VDc29kc3Q3NzNwRGN0bC1ieFJ2bFJqczZlYWRYdzRWT1FhVzFvMlhzUlh6UDFBbUFfMXZMYV9nUFE1Yk4zbTFJMXR4R0Jjdl9Jd1NvTnZfNVE?oc=5",
+   "outlet": "GSMArena.com",
+   "published": "Mon, 09 Nov 2026 17:01:02 GMT"
+  },
+  {
+   "title": "iPad Mini vs iPad Air - Choose the Right Model for You - RS Web Solutions",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUxHdUpIb2ZYdGw4eHQ1cDgtTW9OcFNLMVJaS0Nja1pLTGoxOFNmbHdBTkxCY0N6UnYwUlpLanAweC1Ka1JiMFpfbjVrOWU5SmR2MFRqbXcyZ3RGbXg1cmpHa0c5YjJxZkNvelR3bmY4NlREdDYwWG1nVHgzZzMwVTh3UDdxM2c?oc=5",
+   "outlet": "RS Web Solutions",
+   "published": "Mon, 09 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "title": "The Pixel 10a is now cheaper than it was at launch - Android Police",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGFHVml3ZjZXYWs5eVkzWlZQNVU5b1g3Y3N4R3FuWmhuaHNObHRfWVRZUmZFUnlOWUZLX3VQSUY1QklqRV9wdUJjQWVNM1o2M0RNVEZYLVFWQWpzaWU1SkFiaFBNMHRWLWJNTExndy03dVE3Uy1jNzhTOVJhVXVsTjQwNGFDUTlS?oc=5",
+   "outlet": "Android Police",
+   "published": "Mon, 09 Nov 2026 22:40:12 GMT"
+  },
+  {
+   "title": "OnePlus 16 Could Finally Launch Globally – And Fans Have Been Waiting - Gadget Review",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3NOMVpJVlFObzhDMy1lOWFDVjVwdkd1SEVXRExfY09fMFVGMzFmbWU5SlN1QWljR3JYQ1pmYmQ0WmQ5eGtXM1Ffb3NQZ2dUWDV3N1BjMnRqU0piOVVpdzljNHV5Tm9ONlBWSUVMTGV2bENUQTF3MzR5RnlqUTdyaWhtRl80YUZlaS0xQ1pRUFExNmE5dDB0MWJXaGQ?oc=5",
+   "outlet": "Gadget Review",
+   "published": "Mon, 09 Nov 2026 15:28:14 GMT"
+  },
+  {
+   "title": "iPhone 17 Pro Diwali Deals: Online VS Offline: Where to Buy? - TelecomTalk",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMFdCSlVVR3BQWlRoc0pRQldoaWNWME50WTZuU2RsMkRaTmxXZUR2a0dScDZtTGlDa3B1aEp1WUFxTzkyeWRRTmtOYk1OYjE5bW5FX1BhMkh4LU5kM0hCcGV4NVRmV0VsaHBYdEVmN3RfTkhVd1dKLWdjN01ULTctcGx0MGtoZUNWZ2hXLXAteGM?oc=5",
+   "outlet": "TelecomTalk",
+   "published": "Tue, 10 Nov 2026 05:46:57 GMT"
+  },
+  {
+   "title": "Samsung Galaxy S25 Ultra available at Rs 43,101 on Amazon with exchange, bank offers and coupon discount - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTW81c2RYWWtBUVE3eFRCOGxhLUU2SGYzRDM0V0RCbG4xcWNwcFN0Z3Uyb0oyeTlfdEFiY21oTWZQb05BcElNTFdfcFJHS3A3TEVPc2NOamw0QWlZbU5xbXp4cjVQMl91SlpBUU1SSkxBUERBekJNWEY5dmg5SklVaHEzUUFvWmp2aVc1QmZaUmhsN19sRkpuZXRzV01mVWlVWlFUdVZpTnIxUGNiaWViLVNGQXdySXpjaERKQkxxeGxOdHVLaEV3VTlDLV9kYk5wcDdHWG5Md3lZN2ltVUpUWkhCRnFUM2dzd3l0MWdFb2dpVHd6NnRTNNIB_gFBVV95cUxQWGkwMFRBWVNLaHJ0XzA2QUxTR3ZfT1FSYlJ2MVJjTzhuN3p5WTFwR2FIM042U2swMWtoY2U4TXo2cFpMOFFiSUMwMWFhVFBVVjVwZ0NWaHFDelZwNnpDcTh2Wkk2Z2NXOFI5VEpfNTNDeUpQX3JZbkhWMDMyNk9KV0xIZk1CY2p3MnJDOTNlbjhCYW9vREljdW8tdDVoUDJybFppS1ZNN0VUcUs0VlNveTExM0ZPaXRoQkZsN3JCRGc4ZlRsUkxfWktnV1dwZG5kREVxUllEanZKbWc4aktQR3NCYWZhbzllUVhpd3p0Vjd6ZTQ1dnhkSDN6eE8tZw?oc=5",
+   "outlet": "Moneycontrol.com",
+   "published": "Tue, 10 Nov 2026 05:13:10 GMT"
+  },
+  {
+   "title": "‘Fortnite’ Clarifies The Odds Of Opening A Pirate Shop Token Chest - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNk5lSk40N0IzMWdhUzNrRjl3bE5adDJLMDQ2RGdHOERqQWtwQlRVa1NheE5XaTVjWWhod3NFM3pWcWRyYzZLekZhU2ZRT0ZBeG8zaGlfWllvdDVsbVJpWXVXSlJmaDBDRm1WcGY0QW5RLW1Zd0s0Vi1BaXc4SGlBblRwdnc2T1FVR0VpMGkwbWw1dDVZa0wtU3l6MnBHQVVMNVNuOGdvNzQyNTFTTHMtZW43U01Qdw?oc=5",
+   "outlet": "Forbes",
+   "published": "Wed, 04 Nov 2026 15:23:30 GMT"
+  },
+  {
+   "title": "OpenAI releases GPT-6 Cyber for authorised security testing - varindia",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVpxOE5nRnV0N2hoRS1OU2lOUXRlVEtXSjhucU5IRzF6bHZLVmFnTG1TNS1SSDVXU19jZnpDVnZrTUJQbkRzd0VjVWNKanRkTkdIQUprMHIxX08tUmFhUGlLN2FpZnY0XzVsNG9odk5zT2ZqeHRlSmVaOVUyd3RNbEVLb3p0OEVyd0RkclZuRnFDVDA?oc=5",
+   "outlet": "varindia",
+   "published": "Mon, 09 Nov 2026 12:29:35 GMT"
+  },
+  {
+   "title": "My Hero Ultra Rumble Mobile Version Teased in New Trailer - Crunchyroll",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1YwMWUxNlhMVWZMZGw1QVhkMmdEd3NrOG9NQWU5Mk1ocDVMaklwTmRqVlY0eEN1X2VtbjREb2MtdlYxSUVNNVF0Y2ZUenJpem5oTW5NcGdya01DU3VFZUxvYW5idmgzeThBdlc4OHJWTnRLaVdXcVhiQ096OXZLNzVMbDJ3WE9PcDRQOXFISW1Ya0kwQjEzTEZkR2Z6blViOUE?oc=5",
+   "outlet": "Crunchyroll",
+   "published": "Sun, 08 Nov 2026 21:29:00 GMT"
+  },
+  {
+   "title": "With digital gift wrap: Nintendo brings gifting to Switch - Notebookcheck",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEd0LUNPa0hnWERPUXI2dHRiRHg4VDF3aFdzcnl4a00yd3AzNDhvUWhCbjNBV2p1cUQyS2dJZ0lRaEdQMnE2MVlNMkJYM0NnOGdsSGpWckc2WGRLQkFnbWJXU2M1SlZueGtRMzRxbDVJN3otTTAyNnhKWDNHSXA5Njk5RUhicXQ1NmZXOUdKM0dNWWt0OW5WM2d3WUZYazRodzdj?oc=5",
+   "outlet": "Notebookcheck",
+   "published": "Tue, 10 Nov 2026 08:35:00 GMT"
+  },
+  {
+   "title": "Meta introduces Spaces in Muse app to build custom interactive AI tools - Adgully",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0xkU3hxcHN3VUE1WVlldThqSEFTdWlnMmxEOVpKYmU4OGVEQW5welR0QnZrVTU3bWV4X0pFaldUTjZaWVROSm0wSmc4VXNBMUpvZFF1QzM3Wjh5OGtEVkY2ZkozVF9xMURTbEdvdE9FckRZMjlxRlBZV3NZU2VNVWZnVkZTdDFVMDNZbFVyd05UN1Z6MS1NQVBqYllsN0d0T2dtekVya08zZw?oc=5",
+   "outlet": "Adgully",
+   "published": "Tue, 10 Nov 2026 03:51:00 GMT"
+  },
+  {
+   "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket - IGN India",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFhwQ3hveU9KR1ZaV3N0V1Z5MlFrRG5MSHJRNWNKbDg4bnBkTWpXYVR5VkpsLXgxNjZrdTFZV1ZOdXFxOXJfaHZFQ19SdmxfcHNTWmd2bmRVVGtsZFBUc192Qm1qQzljYTBFQzNQdWVlT1RNdXgtanVFVTJIQUFxYnBxeng0RjJoV3ZLQVppZ3J5azNfOE1PSzZpNjFWaTI3eWtOVVZIbzlmQ1ZGcExYTEQ3U2RFVEt5aXVIVHg2SFhUVVRmN2Zra09ERTlmZw?oc=5",
+   "outlet": "IGN India",
+   "published": "Mon, 09 Nov 2026 11:44:49 GMT"
+  },
+  {
+   "title": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent. - The New Stack",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90VmFkTFJPWVRYTEY3OVJFR0FpamUtUlAtbGlaUHQwVF9kR2ZZdElqcnZmVWFEUmFMSFRFZURJNEhyU29iMGVFYjZySUQtcW9kMkhfblZJQnY5cFJ4SDF1QUtuc0xudw?oc=5",
+   "outlet": "The New Stack",
+   "published": "Mon, 09 Nov 2026 18:25:34 GMT"
+  },
+  {
+   "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP - GamesIndustry.biz",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNHZpWFdURlJYVzBNbWJ1MXhCckJWVzNWNWxxbmVnUzRlSlFGNVMzZEIyOG4tOFhpWl9oSE5xTzBBdWFJOG1lcklidnFMQW1BWUlnNTNmZTJsTllJRFVUMGZrQ05IWXVjOHhlb2RuckhRNVFUTWNlTkdIVkVBTkQyNjc5SGxaXzh0UDBsLTRTbTA5SUhZVWg0Mm1pRklBWWc2ajVGVWRfc2J0U0FPS1M2TWJEdFhOay1sT1Vqd0U2T1BmVHB6bXRQdVdfbW5NQmtQeGtGNktKZGxUT3ZUbkdmZGxHWW80N1FYQ0pGOWRGT2RGU1NB?oc=5",
+   "outlet": "GamesIndustry.biz",
+   "published": "Mon, 09 Nov 2026 21:39:40 GMT"
+  },
+  {
+   "title": "Apple’s iPhone 20 Pro Models Rumoured to Retain Dynamic Island - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2JNclB2MHhUMHpJN3hLOEpzVnBCODI5WlZHVXhnNktYUXg3dGtrNzJoS0tsZ2RhR0lmX3lOQmI2aUhHc1hpWEFyc211NEozTnhyai1xY0JmbFNLb2hjYWFDN21wRzVkbTRKNDR5NGhtVVlQU3FVcFlJTnFWd3lCMHo3ekJHWUN2QnZYWEhTZWNrOHdiaUdCOEl0QVp2ZUhZanZqUWo4djRvLVlTc1NYaV930gG3AUFVX3lxTE1oRWU1Z2hLU1JXb01fLV8zcjFqRFhQbEZlVVYxSURHNTU0U3lXX2VpZXM2RUtjVjZtWHRPV0MwT3VtaUhSZzlmeDRZUTE1TlhqSDg3MHNVS0VEVGN2c2dFcC1lZk1hc2steVY1Tjl2d09CNC1paWtYX29STDcyVGlHc0RLLVAxTlpMQU1QbUotU1JoR1V3NzV5bEdEeGtnVWhNVEhxSUpacmlsYnpOTzF4M0FidFJMTQ?oc=5",
+   "outlet": "Deccan Chronicle",
+   "published": "Tue, 10 Nov 2026 10:57:46 GMT"
+  },
+  {
+   "title": "Yes, it runs 'Doom': Satellite plays iconic game in world's 1st demonstration of orbital voice control - Space",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnd2RjIwZmFoaTd5eWhiY2N5enhmcnBjZUcyWEhkdDhjaDN0dXZUSjJRMXZ1MnI2ZFd5SmZZcE9lM1VQSVdCaVo2aGlZLXk2RXJWTTRFZndNQVFhLUl2TmExZU11OVBKNWIyYVd2aFRaYnJWZXZFdnNrcDdRczFILVY5QUo4VEhhMERxTlRpbWVxU0k4Yk5EMzF0V1FkRjRfcjJtS0VwQ1dJbnRkRERtM3FIY3pWUUZrdkNyLVRHM3k0X2F5bEtXS0NJMUdlVUVORlljNDhxUmRxN0FOa3YxRzRB?oc=5",
+   "outlet": "Space",
+   "published": "Mon, 09 Nov 2026 11:00:00 GMT"
+  }
+ ],
+ "githubTrending": [
+  {
+   "repo": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "description": "An open source design system that's fully customizable and agent ready",
+   "starsToday": "3,111"
+  },
+  {
+   "repo": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "description": "Public repository for Agent Skills",
+   "starsToday": "1,676"
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "description": "Production-grade engineering skills for AI coding agents.",
+   "starsToday": "465"
+  },
+  {
+   "repo": "anthropics/claude-quickstarts",
+   "url": "https://github.com/anthropics/claude-quickstarts",
+   "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "starsToday": "530"
+  },
+  {
+   "repo": "google-deepmind/mujoco",
+   "url": "https://github.com/google-deepmind/mujoco",
+   "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+   "starsToday": "453"
+  },
+  {
+   "repo": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "starsToday": "184"
+  },
+  {
+   "repo": "homeassistant-ai/ha-mcp",
+   "url": "https://github.com/homeassistant-ai/ha-mcp",
+   "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "starsToday": "792"
+  },
+  {
+   "repo": "vercel-labs/agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "description": "Browser automation CLI for AI agents",
+   "starsToday": "775"
+  },
+  {
+   "repo": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "description": "Hunt down social media accounts by username across social networks",
+   "starsToday": "2,387"
+  },
+  {
+   "repo": "tokio-rs/topcoat",
+   "url": "https://github.com/tokio-rs/topcoat",
+   "description": "A batteries-included framework for building web apps",
+   "starsToday": "192"
+  },
+  {
+   "repo": "ranxianglei/billion-context",
+   "url": "https://github.com/ranxianglei/billion-context",
+   "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+   "starsToday": "374"
+  },
+  {
+   "repo": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "description": "Skills for Real Engineers. Straight from my .agents directory.",
+   "starsToday": "1,223"
+  }
+ ]
+}

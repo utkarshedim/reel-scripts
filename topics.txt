@@ -1,1 +1,2 @@
 2026-11-10 | Rising | DeepMind AI formally verifies Signal protocol code in 4 weeks
+2026-11-10 | Buzzing | Amazon Ring Drone Cam: cloud-flown indoor security drone (Ring Robotics)
