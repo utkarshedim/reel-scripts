@@ -1,0 +1,1 @@
+2026-11-10 | Rising | DeepMind AI formally verifies Signal protocol code in 4 weeks
