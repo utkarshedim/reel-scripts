@@ -1,2 +1,3 @@
 2026-11-10 | Rising | DeepMind AI formally verifies Signal protocol code in 4 weeks
 2026-11-11 | Buzzing | Madras HC orders FIR over AI-generated fake books in Tamil Nadu libraries
+2026-11-12 | Buzzing | United Airlines bans AI agents from booking its tickets

@@ -1,0 +1,15 @@
+United Airlines just changed its rules. If an AI assistant books your flight, United says it can cancel the ticket, even if you were watching and clicked approve yourself. Here's why an airline is picking a fight with AI agents.
+
+Right now, AI companies are building agents that run your errands. Meta has one, OpenAI has one. The idea is, you tell it where you want to go, and it finds the flight, logs in, and pays.
+
+On November 11th, United said no. It updated its contract of carriage, the fine print you agree to when you buy a ticket. The new line bans using AI agents to make, change or service a ticket, or to buy anything from United. And it says an AI agent means an AI assistant, an AI agent, or even an AI-powered browser, whether or not you supervise or approve what it does.
+
+So approving every step doesn't save you. And another rule lets United cancel reservations made or changed by AI agents.
+
+Why? United's own reasons first. If you give your password to an AI assistant, your data can be exposed. The AI can make purchases you didn't mean, change your account, or spend your miles. And there are safety rules. At check-in, a human has to confirm there's nothing banned in the bag, like explosives. A bot can't promise that for you.
+
+But there's another side. United's CEO, Scott Kirby, said at an event, according to the Wall Street Journal, "I don't want to create another middleman."
+
+Now the catch. AI can still search United flights and show you prices. You just have to buy the ticket yourself. And United hasn't said how it will even tell that an AI made a booking.
+
+So here's the one thing to remember. Before you let an AI buy something for you, read the fine print. The company on the other side might not accept it.
