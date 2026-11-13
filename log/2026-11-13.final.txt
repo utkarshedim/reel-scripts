@@ -1,0 +1,15 @@
+Jensen Huang, the leather jacket guy who built Nvidia, the company whose chips power most of today's AI, just quit, effective immediately. And the trail doesn't stop at an affair. It leads to a company in Singapore accused of smuggling his own chips into China.
+
+On November 12th, Nvidia told US regulators that Huang has resigned as CEO and left the board. The filing gives no reason. The CFO, Colette Kress, is now interim CEO. This is a man who started Nvidia with two friends at a Denny's in 1993.
+
+So what happened? Four days earlier, Huang apologised for being, in his words, "unfaithful to my wife." Reports linked him to a woman named Alice Huang, who held a senior job at a company called Megaspeed.
+
+And this is where it becomes a tech story. Megaspeed is based in Singapore, and it's one of Nvidia's biggest customers in Southeast Asia. It's under US criminal investigation for allegedly smuggling American chips into China.
+
+Why does that matter? Because the US limits which AI chips can be sold to China. The most powerful ones decide who builds the most powerful AI. If they leak out, the rules mean nothing.
+
+Now the question everyone's asking. Was she a spy? Some reports, quoting unnamed officials, say US intelligence thinks so. But no proof has been made public, and other officials reportedly disagree. China calls it a smear. Megaspeed hasn't been charged, and says it will cooperate.
+
+The fallout is real though. Nvidia's stock opened down more than 13 percent. Congress wants Huang to testify. And Donald Trump posted that Apple's Tim Cook should take his job.
+
+So here's the one thing to remember. The fight over AI isn't only about who builds the smartest model. It's about where the chips go.
