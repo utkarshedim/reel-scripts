@@ -2,6 +2,15 @@
 
 Nobody is watching this run: never stop to ask, take your own best call at every choice.
 
+## Stage 0: What's already made
+
+Run `node scripts/recent.mjs` first and read it. Runs can land on different branches, so this
+checkout's `topics.txt` and `log/` may miss what another run already made; this lists every final
+script from the last 48 hours and every topic covered, merged from all branches. Never make a
+story that's in it again (unless there's a real new development), and copy any topic line missing
+from this checkout's `topics.txt` into it. When naming today's files, count a `log/YYYY-MM-DD.*`
+file listed there as existing, so the next run uses `-run2`, `-run3`.
+
 ## Stage 1: Find
 
 0. Read `inbox.txt`. If it has anything in it (a topic in Utkarsh's words, a link, or both),
@@ -22,7 +31,7 @@ Nobody is watching this run: never stop to ask, take your own best call at every
    sources failed, the web search carries the run.
    A story counts if it broke in the last 24 hours, or if it is still big and still developing
    over the last 3 days.
-3. Read `topics.txt` and drop any story already listed. A real new development in an old story
+3. Read `topics.txt` and the Stage 0 output, and drop any story already listed in either. A real new development in an old story
    is a new story.
 4. Build a shortlist of 5 to 8 stories. Each is one of three kinds. The three are **equally
    valid**: never rank one kind above another, and don't fill a quota of each.

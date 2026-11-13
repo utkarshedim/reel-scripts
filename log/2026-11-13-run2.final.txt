@@ -1,0 +1,11 @@
+If you used Google today, you already used a brand new AI, and nobody asked you. Google just put Gemini 4 Hydrogen inside Search for every user in the world, and calls it the biggest model upgrade Search has ever had. Here's what actually changed when you type a question.
+
+On November 12th, Google said Hydrogen is rolling out globally in Search, to all users. Robby Stein, who runs product for Google Search, says it's now the default model in AI Mode, and it's being used for your hardest questions in AI Overviews, those AI answers at the top of the page.
+
+So what's different? Google says it can handle questions with multiple parts, hard-to-understand typos, or very specific requests. And here's the clever bit. When you ask one question, it breaks it into smaller pieces and runs searches on all of them at the same time. Google calls this query fan-out. The result, Google says, is a wider range of links, plus more images, comparison tables, and little custom tools built for your question.
+
+Now the part that surprised me. Hydrogen isn't Google's big, expensive model. It's the fast one. Google says it finishes tasks two and a half times faster than the model before it. And on one independent scoreboard, Google's own numbers put it level with Argon, Google's own flagship model.
+
+But here's the catch. Almost all of this is Google's own claim. Nobody has independently tested the typo handling or the extra links yet. And in the free Gemini app, you only get Hydrogen when Google decides it's the right model for your prompt.
+
+So here's the one thing to remember. The search bar you've used for years got a new brain overnight, and it didn't even send you a notification.

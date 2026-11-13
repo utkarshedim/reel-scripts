@@ -1,4 +1,7 @@
+2026-11-10 | Buzzing | Amazon Ring Drone Cam: cloud-flown indoor security drone (Ring Robotics)
 2026-11-10 | Rising | DeepMind AI formally verifies Signal protocol code in 4 weeks
 2026-11-11 | Buzzing | Madras HC orders FIR over AI-generated fake books in Tamil Nadu libraries
 2026-11-12 | Buzzing | United Airlines bans AI agents from booking its tickets
 2026-11-13 | Buzzing | Jensen Huang resigns as Nvidia CEO amid Megaspeed chip-smuggling probe
+2026-11-13 | Buzzing | Jensen Huang resigns as Nvidia CEO amid alleged China spy affair
+2026-11-13 | Manual | Gemini 4 Hydrogen comes to Google Search for all users
