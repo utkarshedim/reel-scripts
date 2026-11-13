@@ -1,0 +1,13 @@
+Jensen Huang built Nvidia, the company whose chips OpenAI is training its next AI on. He ran it for 33 years, and on November 12th he quit, effective immediately. Nvidia's announcement doesn't say why. Here's what it left out.
+
+The official version is short. Huang has resigned as CEO and from the board. The finance chief, Colette Kress, takes over for now, and the board will search for a permanent CEO. No reason, not one line.
+
+Here's what happened before that. Last month, the New York Times reported that US intelligence had concluded a woman close to Huang, Alice Huang, no relation, was passing information to Beijing. Then on November 8th, Huang sent an email to his staff. He wrote, "I owe my family and all of you an apology." According to AP, he admitted he had been unfaithful to his wife. The same day, Nvidia's board opened an investigation into whether he was the target of a foreign intelligence effort.
+
+So why would China care about one CEO? Because of the chips. Nvidia's most powerful AI chips are restricted from being sold to China. And Alice Huang was an executive at Megaspeed, a Singapore company that buys Nvidia chips, and was accused last year of illegally shipping advanced ones into China. Megaspeed says there was no evidence.
+
+Now the catch. Nobody has been charged. China calls the spy claim a smear. And Nvidia says it has no reason to believe any company secrets or US national security were compromised.
+
+Still, the shares fell more than 4%, and US senators want hearings.
+
+So here's the one thing to remember. The man who sold the AI boom its chips didn't lose his job over technology. He lost it over who he trusted.
