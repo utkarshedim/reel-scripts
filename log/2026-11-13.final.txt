@@ -1,0 +1,17 @@
+Jensen Huang, the leather-jacket guy who built Nvidia, just quit, after 33 years. He admits he cheated on his wife. But the reason this is a tech story, is who she is, and which chips she was close to.
+
+First, why Nvidia matters. Its chips run the data centres behind ChatGPT and Claude. If you've used AI this year, you've probably used Nvidia.
+
+On Thursday, Nvidia filed a notice saying Huang had resigned as CEO, and from the board, effective immediately. His finance chief, Colette Kress, is running the company for now.
+
+Here's what led to it. Huang wrote to staff, quote, "I was unfaithful to my wife. I am deeply sorry." The New York Times reported that US intelligence suspects the woman, a businesswoman named Alice Huang, no relation, of feeding information to China.
+
+And this is the part that matters. She was a senior executive at Megaspeed, a company in Singapore that bought Nvidia's advanced AI chips. Megaspeed is under US criminal investigation over claims it smuggled American chips into China. It denies that.
+
+So the question is no longer about one man's marriage. It's whether the world's most wanted AI chips, and the man who sells them, were a target.
+
+Now the catch. None of that is proven. China calls it a smear. Some US intelligence officials say the evidence doesn't prove she was a spy. And Singapore questioned her, and found insufficient evidence of a crime.
+
+But Nvidia's shares fell about 11 percent this week, roughly 500 billion dollars, and a US senator wants Huang to testify in December.
+
+So here's the thing to remember. The most powerful company in AI just lost its founder, not over chips that failed, but over who got close to the chips.
