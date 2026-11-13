@@ -67,6 +67,8 @@ file listed there as existing, so the next run uses `-run2`, `-run3`.
 1. Read `SCRIPT_PROMPT.md`: it is Utkarsh's own prompt. Treat today's pick as the story he
    sent, and do all five of its steps, including fresh research of the primary source. The log
    is a lead, not a source.
+   The full script is at most 90 seconds (about 220 spoken words). Count the words of the
+   final script and cut until it fits, dropping fluff before depth.
 2. Save the whole answer to `log/YYYY-MM-DD.script.md` (on a rerun, the same `-run2` name).
 3. Save the final script alone, as plain text, to `log/YYYY-MM-DD.final.txt`: the best hook,
    then the full script. No headings, notes or markdown.
