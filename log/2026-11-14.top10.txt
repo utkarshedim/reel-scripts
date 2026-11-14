@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 14, 2026
+
+1. FAA halts every departing flight in the US for over four hours
+On Friday, November 13, the FAA ordered a nationwide ground stop after a communications failure hit air traffic control centers, lifting it at 8:15 p.m. ET. FlightAware counted more than 6,200 delays and 3,400 cancellations by early Saturday. Transportation Secretary Sean Duffy blamed overloaded telecom routers and said the FAA's new AI planning tool, SMART, played no role; its maker Air Space Intelligence also denies any link.
+https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html
+
+2. Nvidia fallout: Senate wants Jensen Huang to testify, CEO search has not started
+Senate Banking Committee chair Tim Scott asked former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify, Huang on December 3, or face subpoenas. Nvidia's board said Friday it has not yet chosen a search firm or formally contacted any candidates, after the FT reported an approach to Arm CEO Rene Haas. Shares fell more than 2%, pushing Nvidia below $4 trillion ahead of earnings on November 17.
+https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/
+
+3. OpenAI launches ChatGPT Wallet so its agents can pay for things
+Users save a Visa, Mastercard or American Express card once and approve each purchase with a security check, and the agent checks out without seeing the card number. It starts with Pro users in the US in OpenAI's Dots agents; OpenAI takes no cut of transactions at launch and says some sites may block agent purchases.
+https://openai.com/index/introducing-chatgpt-wallet/
+
+4. Fed survey: AI is now the top risk to the US financial system
+In the Federal Reserve's November Financial Stability Report, 87% of surveyed market contacts named AI a salient risk, up from 50% in the spring and well ahead of a risk-asset correction at 52%. The report compares the surge in AI debt and infrastructure spending to the late-1990s telecom boom. The survey covers only 23 contacts.
+https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html
+
+5. Starship Flight 15 reaches orbit, but the booster catch is called off
+SpaceX launched its 15th Starship test on Friday and put the upper stage in orbit with a batch of Starlink satellites. A technical problem meant the Super Heavy booster was sent to the Gulf of Mexico instead of the tower arms, and it exploded at splashdown. SpaceX plans to try catching the ship itself with the tower on Saturday, a first.
+https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html
+
+6. Microsoft says sorry for its global Outlook and Teams outage and names the cause
+Microsoft said the nearly 24-hour outage that began on Thursday came from "an issue during an earlier network capacity upgrade", not an attack, and on Saturday said it had restored the remaining customers and regions. "We are deeply sorry for the disruption," a spokesperson said.
+https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html
+
+7. OpenAI breaks up its stand-alone robotics team
+Fortune reports that robotics researchers now report to chief research officer Mark Chen and the hardware staff to Greg Brockman's Applied group, as OpenAI's general models start running robots. OpenAI calls it a commitment to robotics, not a retreat, and still targets a humanoid demo in 2027.
+https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
+
+8. LangChain raises $300 million at a $3 billion valuation
+The agent-tooling startup's Series C was led by CapitalG, Alphabet's growth fund, and values it at 2.4 times its $1.25 billion mark from October 2025. LangChain says 7,000 organizations use its LangSmith platform.
+https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+
+9. DeepSeek opens its app's tools to developers through its API
+Developers can now switch on web search, file and URL reading, safety checks and voice for its new deepseek-flash (V4.1-Flash) model, with the tools run on DeepSeek's servers. It is also offering search, fetch, OCR, speech-to-text and text-to-speech as separate APIs.
+https://x.com/deepseek_ai/status/2121247899699036516
+
+10. llama.cpp hits version 1.0
+The most widely used library for running AI models locally, along with its ggml tensor library, reached v1.0.0 on November 13 and moved to semantic versioning, so breaking API changes now mean a major version bump. The release removes 36 deprecated functions, so apps built on it should check before upgrading.
+https://www.unite.ai/llama-cpp-v1-0-0-sets-api-stability-rules-for-local-ai-tools/
