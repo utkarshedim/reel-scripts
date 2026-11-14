@@ -18,14 +18,12 @@ a story that was already done today. Do all the work on main.
 1. Run `node scripts/discover.mjs > log/YYYY-MM-DD.discovery.json` (today's date; if
    `log/YYYY-MM-DD.md` already exists this is a rerun, so use `YYYY-MM-DD-run2`, then `-run3`)
    and read it. It stays next to the log so a pick can be checked later. `status` says which sources worked.
-   The first three are where the AI world's conversation on X shows up, so weigh them most:
-   AINews (its daily recap of what hundreds of AI accounts on X posted, top posts by
-   engagement first; weekdays only, so on weekends read its latest issue for what is still
-   developing), today's top posts in the main AI subreddits (score and comments show how big
-   a story is), and the latest posts from public AI news channels on Telegram (with views).
-   After those come Techmeme (what the most outlets cover), the Hacker News front page,
-   Google News India's AI stories from the last 24 hours, today's top AI papers on Hugging
-   Face and GitHub's trending repos.
+   AINews (its daily recap of what hundreds of AI accounts on X posted; weekdays only, so on
+   weekends read its latest issue) and the AI news channels on Telegram show what the AI world
+   is talking about. Techmeme (what the most outlets cover) and the Hacker News front page show
+   what the tech press and builders lead with. Google News India's AI stories from the last 24
+   hours, today's top AI papers on Hugging Face and GitHub's trending repos fill in the rest.
+   All of these are leads. None of them decides how big a story is: you do (step 4).
 2. Search the web too: what AI people on X are posting about today, new AI launches today,
    and AI news in India today. If most discovery
    sources failed, the web search carries the run.
@@ -34,33 +32,45 @@ a story that was already done today. Do all the work on main.
 3. Read `topics.txt` and drop any story already listed, above all anything from the last 48
    hours. A new angle on the same story is the same story; only a real new development (a new
    event, not a new detail) makes it new.
-4. Build a shortlist of 5 to 8 stories. Each is one of three kinds. The three are **equally
-   valid**: never rank one kind above another, and don't fill a quota of each.
-   - **Buzzing:** a lot of people are already talking about it. People, drama and controversy
-     count when the tech at the centre of it is real.
-   - **Rising:** not big yet, but the signals say it could go viral today (climbing fast on
-     Hacker News, a repo gaining thousands of stars, a launch spreading quickly, a fresh spike
-     in Google Trends).
-   - **Under the radar:** few people are talking about it, but this audience should know it,
-     because it changes something for them: their money, work, phone, privacy, or the tools
-     they use.
+4. Build a shortlist of 5 to 8 stories, biggest first. Judge size by how much the story
+   matters, the way the editor of a serious tech news site would, not by views, likes or
+   upvotes. The audience is 2 lakh people who follow this channel to know what is happening in
+   AI and tech.
+   - **Big stories, which belong on the list:** a real move by a major AI or tech company or
+     lab (a model, product or robot launch from OpenAI, Google, Anthropic, Meta, Microsoft,
+     Apple, Nvidia, xAI, Amazon, DeepSeek and their peers; a CEO change; a major deal or IPO);
+     an outage or failure that hits millions of people or a country's systems; a law, ban,
+     court ruling or government action with real consequences for AI or tech; a leak or
+     announcement the whole industry is reacting to; the stories Techmeme and the big tech
+     sites lead with.
+   - **Never on the list, however viral:** curiosities and novelty (an AI song on a chart, AI
+     art, AI pets, a quirky experiment, "AI did something funny or creepy"), tutorials and tool
+     tips, small-startup funding rounds, opinion pieces and listicles.
+   Label each story with its kind: **Buzzing** (a lot of people are already talking about it),
+   **Rising** (not big yet, but spreading fast) or **Under the radar** (few are talking about
+   it, but it changes something real for this audience: their money, work, phone, privacy or
+   tools). The kind is a label, not a reason to pick.
    Every story on the list has an AI or tech core, can be told in one short video, and is backed by
    a primary source (the company's own post, including its official post on X, the founder's
-   own post, the paper, the repo, the filing) or two independent reliable outlets. Reddit,
-   Telegram and AINews are leads to the story, not sources for it.
-5. Pick today's story from the shortlist. What counts most is how much the AI world is
-   talking about it today (top posts in AINews, Reddit scores, Telegram views, Hacker News).
-   Then weigh how strong the hook is, what the viewer gets from it, and whether there are real
-   things to show. A big model or product launch is never too hard to show: the company's
-   demo, its video or the before-and-after is the visual.
+   own post, the paper, the repo, the filing) or two independent reliable outlets. Telegram
+   and AINews are leads to the story, not sources for it.
+5. Pick the biggest story on the list: the one a serious tech creator with 2 lakh followers
+   would be embarrassed to have skipped today. Ask: does it change something for millions of
+   people or for the AI industry, and will people still be talking about it next week?
+   - A developing or disputed story is not a reason to skip it. Say what is confirmed, who
+     claims what, and what is still being investigated: that is the reel.
+   - A related story earlier in the week is not a reason to skip it. Only the same event
+     repeated is blocked (step 3); a new launch, decision or turn is a new story.
+   - A big launch is never too hard to show: the company's demo, video or before-and-after is
+     the visual.
+   - Every big story you don't pick gets a line in "Why not the others" saying why.
 
 ## Stage 2: Log
 
 1. Write `log/YYYY-MM-DD.md` (on a rerun, the same `-run2` name as the discovery file):
    - **Today's pick:** the story in one line, its kind, why it's today's reel, the key facts
      each with its source link, and anything unconfirmed or disputed.
-   - **Why not the others:** for each of the strongest two or three other stories, one line on
-     why the pick beat it.
+   - **Why not the others:** for every other big story, one line on why the pick beat it.
    - **Shortlist:** every other story, each with its kind, one line on why it's worth a reel,
      and its links.
    - **Sources:** the `status` line for each discovery source.

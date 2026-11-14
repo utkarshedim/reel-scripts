@@ -6,8 +6,6 @@
  * Sources, each fetched on its own so one failing never stops the rest:
  *   ainews        AINews (Latent Space): its daily recap of what hundreds of AI accounts on X
  *                 posted, top posts by engagement first, plus AI Reddit and Discord (weekdays)
- *   reddit        today's top posts in the main AI subreddits, with score and comments; viral
- *                 X posts, demos and leaks get reposted here within hours
  *   telegram      the latest posts from public AI news channels on Telegram, with views, plus
  *                 Watcher Guru's breaking news filtered to AI and tech
  *   techmeme      the tech stories the most outlets are covering, in Techmeme's order
@@ -19,7 +17,6 @@
  * Writes one JSON object: { fetchedAt, status: { source: "ok (n)" | "failed: why" }, ...sources }.
  */
 
-const SUBREDDITS = ['singularity', 'OpenAI', 'ChatGPT', 'LocalLLaMA'];
 const TELEGRAM_CHANNELS = ['aipost', 'hiaimediaen', 'CoreAti', 'watcherguru'];
 // General breaking-news channels: keep only their posts about AI and tech.
 const AI_ONLY_CHANNELS = ['watcherguru'];
@@ -63,35 +60,6 @@ const sources = {
         twitterRecap: text.slice(Math.max(start, 0), Math.max(start, 0) + 9000),
       };
     });
-  },
-
-  async reddit(notes) {
-    const out = [];
-    for (const sub of SUBREDDITS) {
-      try {
-        const data = await get(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=10`, 'json');
-        out.push(...data.data.children.map(({ data: d }) => ({
-          sub,
-          title: d.title,
-          score: d.score,
-          comments: d.num_comments,
-          link: d.url,
-          discussion: `https://www.reddit.com${d.permalink}`,
-        })));
-      } catch (e) {
-        try {
-          const xml = await get(`https://www.reddit.com/r/${sub}/top/.rss?t=day&limit=10`);
-          out.push(...items(xml, 'entry').slice(0, 10).map((b) => ({
-            sub,
-            title: tag(b, 'title'),
-            discussion: (b.match(/<link[^>]*href="([^"]+)"/) || [])[1],
-          })));
-        } catch (e2) {
-          notes.push(`r/${sub} failed: ${e2.message}`);
-        }
-      }
-    }
-    return out;
   },
 
   async telegram(notes) {
