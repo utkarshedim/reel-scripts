@@ -2,6 +2,12 @@
 
 Nobody is watching this run: never stop to ask, take your own best call at every choice.
 
+## Stage 0: Start from the latest main
+
+Run `git fetch origin main && git checkout main && git reset --hard origin/main` before
+anything else. Every run must read the `topics.txt` the earlier runs pushed, or it will pick
+a story that was already done today. Do all the work on main.
+
 ## Stage 1: Find
 
 0. Read `inbox.txt`. If it has anything in it (a topic in Utkarsh's words, a link, or both),
@@ -25,8 +31,9 @@ Nobody is watching this run: never stop to ask, take your own best call at every
    sources failed, the web search carries the run.
    A story counts if it broke in the last 24 hours, or if it is still big and still developing
    over the last 3 days.
-3. Read `topics.txt` and drop any story already listed. A real new development in an old story
-   is a new story.
+3. Read `topics.txt` and drop any story already listed, above all anything from the last 48
+   hours. A new angle on the same story is the same story; only a real new development (a new
+   event, not a new detail) makes it new.
 4. Build a shortlist of 5 to 8 stories. Each is one of three kinds. The three are **equally
    valid**: never rank one kind above another, and don't fill a quota of each.
    - **Buzzing:** a lot of people are already talking about it. People, drama and controversy
@@ -70,5 +77,6 @@ Nobody is watching this run: never stop to ask, take your own best call at every
 
 ## Stage 4: Save and send
 
-1. Commit on main and push to origin main. Never create a claude/ branch.
+1. Commit on main and push to origin main. Never create a claude/ branch. If the push is
+   rejected because main moved, run `git pull --rebase origin main` and push again.
 2. Run `node scripts/send-telegram.mjs log/YYYY-MM-DD.final.txt` (or the `-run2` file).
