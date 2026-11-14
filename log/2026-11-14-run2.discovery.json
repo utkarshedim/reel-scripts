@@ -1,0 +1,947 @@
+{
+ "fetchedAt": "2026-11-14T09:49:53.978Z",
+ "status": {
+  "reddit": "failed: empty; r/singularity failed: 403 Forbidden; r/OpenAI failed: 403 Forbidden; r/ChatGPT failed: 403 Forbidden; r/LocalLLaMA failed: 403 Forbidden",
+  "githubTrending": "ok (12)",
+  "hfPapers": "ok (10)",
+  "hackerNews": "ok (30)",
+  "techmeme": "ok (15)",
+  "googleNews": "ok (30)",
+  "ainews": "ok (2)",
+  "telegram": "ok (36)"
+ },
+ "reddit": [],
+ "githubTrending": [
+  {
+   "repo": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "starsToday": "215"
+  },
+  {
+   "repo": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "starsToday": "1,925"
+  },
+  {
+   "repo": "openai/codex-security",
+   "url": "https://github.com/openai/codex-security",
+   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "starsToday": "751"
+  },
+  {
+   "repo": "ZhuLinsen/daily_stock_analysis",
+   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+   "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "starsToday": "256"
+  },
+  {
+   "repo": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "starsToday": "925"
+  },
+  {
+   "repo": "backnotprop/plannotator",
+   "url": "https://github.com/backnotprop/plannotator",
+   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "starsToday": "108"
+  },
+  {
+   "repo": "louislam/uptime-kuma",
+   "url": "https://github.com/louislam/uptime-kuma",
+   "description": "A fancy self-hosted monitoring tool",
+   "starsToday": "71"
+  },
+  {
+   "repo": "block/buzz",
+   "url": "https://github.com/block/buzz",
+   "description": "A hive mind communication platform",
+   "starsToday": "97"
+  },
+  {
+   "repo": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "starsToday": "69"
+  },
+  {
+   "repo": "tailscale/tailcat",
+   "url": "https://github.com/tailscale/tailcat",
+   "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+   "starsToday": "256"
+  },
+  {
+   "repo": "Likely7/Veyra-NRVideo",
+   "url": "https://github.com/Likely7/Veyra-NRVideo",
+   "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+   "starsToday": "256"
+  },
+  {
+   "repo": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "description": "Chrome DevTools for coding agents",
+   "starsToday": "67"
+  }
+ ],
+ "hfPapers": [
+  {
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "upvotes": 83,
+   "url": "https://huggingface.co/papers/2611.15777",
+   "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the brea"
+  },
+  {
+   "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "upvotes": 49,
+   "url": "https://huggingface.co/papers/2611.14815",
+   "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and "
+  },
+  {
+   "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+   "upvotes": 45,
+   "url": "https://huggingface.co/papers/2610.40394",
+   "summary": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,11"
+  },
+  {
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "upvotes": 44,
+   "url": "https://huggingface.co/papers/2611.16748",
+   "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. "
+  },
+  {
+   "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+   "upvotes": 42,
+   "url": "https://huggingface.co/papers/2611.13004",
+   "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, w"
+  },
+  {
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "upvotes": 38,
+   "url": "https://huggingface.co/papers/2611.15131",
+   "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Exis"
+  },
+  {
+   "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+   "upvotes": 35,
+   "url": "https://huggingface.co/papers/2611.13410",
+   "summary": "Low-bit quantization reduces the inference cost of LLM agents but can compromise task success. Examining failed rollouts, we find that quantized agents overlook task requirements or environmental conditions, producing environment transitions that diverge from successful full-precision references. Co"
+  },
+  {
+   "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+   "upvotes": 32,
+   "url": "https://huggingface.co/papers/2611.15844",
+   "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana ("
+  },
+  {
+   "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+   "upvotes": 30,
+   "url": "https://huggingface.co/papers/2611.17167",
+   "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as ac"
+  },
+  {
+   "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+   "upvotes": 26,
+   "url": "https://huggingface.co/papers/2611.17060",
+   "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: dem"
+  }
+ ],
+ "hackerNews": [
+  {
+   "title": "FAA issues national ground stop – lifted 4.5 hours later",
+   "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+   "discussion": "https://news.ycombinator.com/item?id=50489641",
+   "points": 1536,
+   "comments": 1170,
+   "hoursAgo": 13
+  },
+  {
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "discussion": "https://news.ycombinator.com/item?id=50474959",
+   "points": 748,
+   "comments": 213,
+   "hoursAgo": 36
+  },
+  {
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "discussion": "https://news.ycombinator.com/item?id=50493251",
+   "points": 548,
+   "comments": 327,
+   "hoursAgo": 7
+  },
+  {
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "discussion": "https://news.ycombinator.com/item?id=50487864",
+   "points": 352,
+   "comments": 192,
+   "hoursAgo": 15
+  },
+  {
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "discussion": "https://news.ycombinator.com/item?id=50484658",
+   "points": 286,
+   "comments": 332,
+   "hoursAgo": 19
+  },
+  {
+   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+   "url": "https://orcasairband.com/",
+   "discussion": "https://news.ycombinator.com/item?id=50490593",
+   "points": 261,
+   "comments": 60,
+   "hoursAgo": 12
+  },
+  {
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "url": "https://haddyalchaer.com/jepa",
+   "discussion": "https://news.ycombinator.com/item?id=50487185",
+   "points": 260,
+   "comments": 41,
+   "hoursAgo": 16
+  },
+  {
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "discussion": "https://news.ycombinator.com/item?id=50493062",
+   "points": 255,
+   "comments": 41,
+   "hoursAgo": 7
+  },
+  {
+   "title": "Terminal borders that don't cost a cell",
+   "url": "https://www.joshka.net/cell-borders/",
+   "discussion": "https://news.ycombinator.com/item?id=50491423",
+   "points": 245,
+   "comments": 107,
+   "hoursAgo": 11
+  },
+  {
+   "title": "FM-1 Workbench",
+   "url": "https://open.m-vave.com/fm1-workbench",
+   "discussion": "https://news.ycombinator.com/item?id=50488325",
+   "points": 235,
+   "comments": 155,
+   "hoursAgo": 15
+  },
+  {
+   "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+   "url": "https://isometricsf.com/",
+   "discussion": "https://news.ycombinator.com/item?id=50487228",
+   "points": 210,
+   "comments": 70,
+   "hoursAgo": 16
+  },
+  {
+   "title": "A technical vision for the Haskell ecosystem",
+   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+   "discussion": "https://news.ycombinator.com/item?id=50484235",
+   "points": 204,
+   "comments": 118,
+   "hoursAgo": 19
+  },
+  {
+   "title": "Found: A protein that drives ageing without unleashing inflammation",
+   "url": "https://www.nature.com/articles/d41586-026-03638-3",
+   "discussion": "https://news.ycombinator.com/item?id=50488470",
+   "points": 197,
+   "comments": 30,
+   "hoursAgo": 14
+  },
+  {
+   "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+   "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+   "discussion": "https://news.ycombinator.com/item?id=50484650",
+   "points": 171,
+   "comments": 95,
+   "hoursAgo": 19
+  },
+  {
+   "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+   "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+   "discussion": "https://news.ycombinator.com/item?id=50492315",
+   "points": 164,
+   "comments": 59,
+   "hoursAgo": 9
+  },
+  {
+   "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+   "url": "https://grounds.top/",
+   "discussion": "https://news.ycombinator.com/item?id=50491545",
+   "points": 143,
+   "comments": 21,
+   "hoursAgo": 11
+  },
+  {
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "url": "https://unsloth.ai/docs/models/qwen3.8",
+   "discussion": "https://news.ycombinator.com/item?id=50491980",
+   "points": 140,
+   "comments": 36,
+   "hoursAgo": 10
+  },
+  {
+   "title": "What happened to 3Com?",
+   "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+   "discussion": "https://news.ycombinator.com/item?id=50491830",
+   "points": 139,
+   "comments": 70,
+   "hoursAgo": 10
+  },
+  {
+   "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+   "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+   "discussion": "https://news.ycombinator.com/item?id=50492860",
+   "points": 133,
+   "comments": 26,
+   "hoursAgo": 8
+  },
+  {
+   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+   "discussion": "https://news.ycombinator.com/item?id=50488464",
+   "points": 130,
+   "comments": 23,
+   "hoursAgo": 14
+  },
+  {
+   "title": "How Not to Build a Music Player",
+   "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+   "discussion": "https://news.ycombinator.com/item?id=50491400",
+   "points": 107,
+   "comments": 44,
+   "hoursAgo": 11
+  },
+  {
+   "title": "Live-migration support in FreeBSD and bhyve coming",
+   "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+   "discussion": "https://news.ycombinator.com/item?id=50488835",
+   "points": 103,
+   "comments": 24,
+   "hoursAgo": 14
+  },
+  {
+   "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+   "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+   "discussion": "https://news.ycombinator.com/item?id=50492950",
+   "points": 96,
+   "comments": 11,
+   "hoursAgo": 8
+  },
+  {
+   "title": "Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "discussion": "https://news.ycombinator.com/item?id=50493904",
+   "points": 92,
+   "comments": 14,
+   "hoursAgo": 5
+  },
+  {
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+   "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+   "discussion": "https://news.ycombinator.com/item?id=50487605",
+   "points": 85,
+   "comments": 39,
+   "hoursAgo": 15
+  },
+  {
+   "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+   "url": "https://github.com/0xdeadf1sh/T1DMAI",
+   "discussion": "https://news.ycombinator.com/item?id=50444761",
+   "points": 31,
+   "comments": 8,
+   "hoursAgo": 87
+  },
+  {
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+   "discussion": "https://news.ycombinator.com/item?id=50440709",
+   "points": 17,
+   "comments": 4,
+   "hoursAgo": 92
+  },
+  {
+   "title": "The Other Nefertiti (2015)",
+   "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+   "discussion": "https://news.ycombinator.com/item?id=50462975",
+   "points": 17,
+   "comments": 1,
+   "hoursAgo": 54
+  },
+  {
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+   "discussion": "https://news.ycombinator.com/item?id=50448432",
+   "points": 11,
+   "comments": 2,
+   "hoursAgo": 81
+  },
+  {
+   "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+   "url": "https://atg.science/careers",
+   "discussion": "https://news.ycombinator.com/item?id=50489589",
+   "hoursAgo": 13
+  }
+ ],
+ "techmeme": [
+  {
+   "rank": 1,
+   "title": "Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world (Bloomberg)",
+   "link": "https://www.techmeme.com/261114/p8#a261114p8",
+   "published": "Sat, 14 Nov 2026 03:03:46 -0500",
+   "summary": "Bloomberg : Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world Microsoft Corp. said access has been fully restored to its flagship software, ending an outage that paralyzed government offices, traders and businesses around the world."
+  },
+  {
+   "rank": 2,
+   "title": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+   "link": "https://www.techmeme.com/261114/p7#a261114p7",
+   "published": "Sat, 14 Nov 2026 02:30:08 -0500",
+   "summary": "Eleanor Olcott / Financial Times : Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign Former Nvidia chief executive facing intense scrutiny over ties to Beijing In January 2024, Nvidia's chief executive Jensen Huang ended"
+  },
+  {
+   "rank": 3,
+   "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+   "link": "https://www.techmeme.com/261114/p6#a261114p6",
+   "published": "Sat, 14 Nov 2026 02:02:17 -0500",
+   "summary": "Lucinda Shen / Axios : Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation Operand, which uses AI to do due diligence for private equity firms, raised $31 million in seed and Series A funding, CEO Ram Gorthi tells Axios Pro exclusively."
+  },
+  {
+   "rank": 4,
+   "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+   "link": "https://www.techmeme.com/261114/p5#a261114p5",
+   "published": "Sat, 14 Nov 2026 01:55:00 -0500",
+   "summary": "Alice Tecotzky / Business Insider : WhiteMatter, which builds guardian AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A A startup using AI agents to keep rogue AI in line has raised $20 million. WhiteMatter, founded in 2024"
+  },
+  {
+   "rank": 5,
+   "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+   "link": "https://www.techmeme.com/261114/p4#a261114p4",
+   "published": "Sat, 14 Nov 2026 01:35:00 -0500",
+   "summary": "Jessica Hagen / MobiHealthNews : Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners The round is the company's third in less than two years and brings its total funding to $85 million. Global Investing"
+  },
+  {
+   "rank": 6,
+   "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+   "link": "https://www.techmeme.com/261114/p3#a261114p3",
+   "published": "Sat, 14 Nov 2026 01:30:09 -0500",
+   "summary": "Chris Metinko / Axios : Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A Luminal, a search compiler and inference cloud provider, raised a $25 million Series A led by Standard Capital, CEO Joe Fioti tells Axios Pro exclusively."
+  },
+  {
+   "rank": 7,
+   "title": "Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark (John Reynolds/Tech.eu)",
+   "link": "https://www.techmeme.com/261114/p2#a261114p2",
+   "published": "Sat, 14 Nov 2026 00:55:01 -0500",
+   "summary": "John Reynolds / Tech.eu : Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark Tendrils Compute is one of several UK chip startups which investors are backing. A UK startup developing a radically different type"
+  },
+  {
+   "rank": 8,
+   "title": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal (Tomoko Wakasugi/Nikkei Asia)",
+   "link": "https://www.techmeme.com/261114/p1#a261114p1",
+   "published": "Sat, 14 Nov 2026 00:02:28 -0500",
+   "summary": "Tomoko Wakasugi / Nikkei Asia : JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal SHANGHAI JD.com has completed an acquisition of German consumer electronics retailer Ceconomy, aiming to link European physical"
+  },
+  {
+   "rank": 9,
+   "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+   "link": "https://www.techmeme.com/261113/p42#a261113p42",
+   "published": "Fri, 13 Nov 2026 23:25:01 -0500",
+   "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab Sam Bankman-Fried will miss"
+  },
+  {
+   "rank": 10,
+   "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
+   "link": "https://www.techmeme.com/261113/p41#a261113p41",
+   "published": "Fri, 13 Nov 2026 22:45:01 -0500",
+   "summary": "Kanishka Singh / Reuters : Free speech group FIRE says DOJ and DHS will end efforts to curb ICE Sightings - Chicagoland Facebook group and Eyes Up iOS app, which report on ICE activity Free speech group FIRE said on Friday the US government agreed to end efforts to press Apple (AAPL.O) and Facebook"
+  },
+  {
+   "rank": 11,
+   "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
+   "link": "https://www.techmeme.com/261113/p40#a261113p40",
+   "published": "Fri, 13 Nov 2026 22:10:01 -0500",
+   "summary": "Dan Mangan / CNBC : US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involving former Nvidia CEO J ensen Huang during"
+  },
+  {
+   "rank": 12,
+   "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
+   "link": "https://www.techmeme.com/261113/p39#a261113p39",
+   "published": "Fri, 13 Nov 2026 21:25:00 -0500",
+   "summary": "Kara Carlson / Bloomberg : Tesla says select customers can now place orders for its Cybercab for personal use , for $30K plus a required $299/month Autonomy Subscription to operate Tesla Inc. invited select customers to place orders for the Cybercab in a step toward trying to make its driverless car available to consumers."
+  },
+  {
+   "rank": 13,
+   "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+   "link": "https://www.techmeme.com/261113/p38#a261113p38",
+   "published": "Fri, 13 Nov 2026 20:55:00 -0500",
+   "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significant parts of writing and researching this essay."
+  },
+  {
+   "rank": 14,
+   "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+   "link": "https://www.techmeme.com/261113/p37#a261113p37",
+   "published": "Fri, 13 Nov 2026 20:15:03 -0500",
+   "summary": "Greg Bensinger / Reuters : Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites Amazon (AMZN.O) has a secret plan to ensure shoppers never need to leave its site: own the world's product information."
+  },
+  {
+   "rank": 15,
+   "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+   "link": "https://www.techmeme.com/261113/p36#a261113p36",
+   "published": "Fri, 13 Nov 2026 20:00:12 -0500",
+   "summary": "Reuters : Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang Former Nvidia CEO Jensen Huang misled several of the company's leaders, including general counsel Tim Teter and chief marketing"
+  }
+ ],
+ "googleNews": [
+  {
+   "title": "Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ1Z2aEdLc3FsTk9PRGdvMmYycFR5VmdQc2dTaVdZUkdHMEppRndSTU1iS21MX3VPR2FUYlRfYXFta0E1MldRNTllSm10aUNFcUs3eTRUaG1CbHVSUlZwczc2VFdaYjVJZl94OG5HQnUyaWxwWUxJSWwyZXdYZlZ4SzVmNG05SUNPZ2dOeGNoZVRRR25lZmNFaHk4eXBjcVR4dm9WeFVSMkh4VWJHSXVYSE9rSHdyNGZMTXo5c1FMS3hyZUtUNGVqVkpqejNoM0tzZURGR2ktanN5RUhGd2pz0gHmAUFVX3lxTE9PTXZ4eG5ockNVdFRtdi13WkRjX2M3aEpIQWs5UFdPVEVJMmxaeU16UzRmTFNvUWxNa2x5cEpMRzlGOVhnVm1xVS1xVXRwT0FlOHJVNWlXSU1IRkhhN0h1X29jQ2tkTUpYQVVpbngzVDcwNHpMR20zQmZqai1BN2I3aTFkZW1SM3hrT2p4TTJfWjI3RjIyTkVnTHVwYVpzNzNIY1lEMU9HTS03eHpFREtqRDBlSlhQX3hrS2E5TXdRNXBxTmUyMERMNlNMU1JINTQtdFdhTWNFbFZqUjRJWVBFUjZPeHdB?oc=5",
+   "outlet": "The Hindu",
+   "published": "Sat, 14 Nov 2026 03:27:49 GMT"
+  },
+  {
+   "title": "Introducing ChatGPT Wallet - OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5",
+   "outlet": "OpenAI",
+   "published": "Fri, 13 Nov 2026 15:15:30 GMT"
+  },
+  {
+   "title": "Elon Musk and over 40,000 others, including Nvidia’s current and former employees, sign open letter for J - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPUG5wdmxHNDdha0o3MC1PLU0wUkc0QU85cEttNjV3Wi05OGkwdFNUZkhycFBSVXJ4akFReGlGbnFZNXFmQkEta25tVm1KNnpVVGllV0dHVVRhT2g2RVdSbGNsckxrRU14Y0hsRnI0LXBGS18wVWRjQ0pRYjUtNGRGVllJYjVPc3NjS3VtZk9kVEtCdjMtREZCUDNXM3BNNWMtcTdPMEFBekVLSFBqYkZoMU5xVHl3VGpnbEV4MFBGU2cta2dnZnBock5RX2pac2pGNDJCT3k5dmtxdDVvTXM4WngyVDA2VnNwcjc4dldKT2JSZjlBN2NaeWlrN2FTakZHUjNCWGN0VlZ4YW1MVjNNT29teklxcnJzUlh1YU1DbFo0UndnbWpDejJtRmFfYm9ZTXY2V0xqSW5yQUR4Q1lRN0hlUzVIYzJwRDBzRTh3OFU1TlNTczN5WHFLLS1VQmNjQ29RRmVGRHBjamt0b3JBYTZyN29pcGdrU2RHYi1xTk1fLUVUdFQtMXNWWdIBkANBVV95cUxOVFJBVjJLcWsydTJOYnItRFI3NHh4ZG0zWnRrQjdTYWxzWXI5ei1VVjJRR2YxdnZWRlZxZDBPUExhclRNMUp3eXBZeW9vV1JBcmVGUEdkT3hEVzcwbjhqNmswOHJCM2ZPNm1TNW9FX203dDVqNkpRMkFNOXduSWV3dEVrakNnTlJJM3lpY09SUEhtV09ESUZDUTNWSkQ2OWFVWlFMcEZSTENVZGowbWlFNHFvczVVajk3Sk1VTDQwczB1LTBhaDZqM3QxVVlQYmpOUDJERTdfekhSODNGMHRkM3M4Qjd2OGpvdHJIRWZQRmxKMnV0UktOZl80M2xZUzRWX0dfNjFQZGR6QzR0cDNuRW5xSkUtVmRodWpkazRDR1NUVmVNOC1zT0J0Y08wbTdxSkZNUTUyenl3RF9Jd25TUXJQQUI0YkZBWmlPd2w0YmpPLWZmdGdlSXJGVC1qYWt3b3NfTnQzaHVsN2dNTWxsZVRkUFZINHBhenBYYVZ5NVlBQlpXTU00MWF3VkZGdVNS?oc=5",
+   "outlet": "The Times of India",
+   "published": "Sat, 14 Nov 2026 04:47:00 GMT"
+  },
+  {
+   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99 - Mashable",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
+   "outlet": "Mashable",
+   "published": "Sat, 14 Nov 2026 09:02:14 GMT"
+  },
+  {
+   "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents - Amazon Web Services (AWS)",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME01UzVZbGlaOHczRl94ZE1sVmdtM1FfRjI5ZHdYWHNHaWFyMkMtT1EtN0tZYzhvUXp4aFpmSFpnZDhETUFfcjVUMHNmYlItdWpnQU1xeERfbDIxMW5PV3RFTXRnRXZxYTRFTDNnN21mai1zNkJQaTNSQXRPencxY1FLOHUwQmlXZWtQME5ONVQ3RTYxYzZmSDQxdFhBa1d3U2JhTmZMTDVHY1hlcHNBeUVZSERkTUFjOUxBZkNLQksyLWxsN3NmdEhfRFZpODhCaVU4OQ?oc=5",
+   "outlet": "Amazon Web Services (AWS)",
+   "published": "Fri, 13 Nov 2026 20:26:42 GMT"
+  },
+  {
+   "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’ - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFBIVGxvZFJpT0pWMlNESzJhdFBZYm5ibjR3cl9ZSkJrTE1nRHgzWlhkaXFrdGdUem9qek1OT2s0bDhBM3FEOFdCSm1Mc3hqM05mMHV4Mm1WV05WdllzQ2ZmcVVEdmpiMS1RQW1xbExuY3VxM0Ntd29yNDlDREVkU2NhRVk?oc=5",
+   "outlet": "Financial Times",
+   "published": "Sat, 14 Nov 2026 01:00:57 GMT"
+  },
+  {
+   "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRVVUJxUEQzbHk2X0hGUE0wYmVRbTRlVVdaRGVYZUhfWVR0ajdIVkp2ZElQRnRlbXNZeks0bFFQX21uYjNJbHduZG43RXhpSFRjZmVaU2hRTkdfakRMdGQyamdld0FjaWx4T2VOUWpmU0ktZmZYeHN5bw?oc=5",
+   "outlet": "WSJ",
+   "published": "Sat, 14 Nov 2026 09:31:43 GMT"
+  },
+  {
+   "title": "OpenAI launches ChatGPT Wallet for AI agent-led shopping - Storyboard18",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd25QQUlFR1dwREk4RjJESkFIazZlNVN5ODJtbGtQWkh6NDhHN2RhZ01rdGNvSnVaeEtPdEMtZWFMZGV0alQ4VGtNTG5NVTdPVVVGXzRsdmtVRkZpTWl6RXNwdmRtNzlUeEVKTTdsLURQUTloSkx4NFR2MzhKT2JDUk9yVnQxYlgxRDB3dDFmY0dmRGJERlowMEdnTF9jRzhfbEJCTXhYU1I2azJrR2JvSURR0gG3AUFVX3lxTFB6aWJvM2RqM3ptamtVMnFpZGgzQ28tNlZVY041NVcxdVpodlpyelNHWnFXcFdvSWZVV0xkcTNIemJGVlJXYmNpSUk5QTNWZXNLcmRwamRLbjA1Vjl5dkRlVFZYRmlLVElFdUtfd09hWm1lVVFrZGRPaHpUdHc4dmZjNEhJelNTS19xSW1DTkpMeXBGb2RxU2w5UkxlWHcwb1ZsTTU4WmFUdHlWV1g1VnF0bmp5U0RtZw?oc=5",
+   "outlet": "Storyboard18",
+   "published": "Sat, 14 Nov 2026 08:31:01 GMT"
+  },
+  {
+   "title": "This Week's Top Five Stories in AI - AI Magazine",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWJ6dGhDX2dtczR6dHBDWUFOUTUwdGFqWnhpUXo0U0xyX3prTWhDd29Dd2lMUG85ZC1JNExPTlYtanl4bGJRX21Wb3QtU0VXRGV4MHRHOVNwQTU2QWpsc0ZiaWZZZE14b0VTWmxxTVFaMzR0aHEyd1EwSGR5NVpzZ2QzQQ?oc=5",
+   "outlet": "AI Magazine",
+   "published": "Sat, 14 Nov 2026 09:10:14 GMT"
+  },
+  {
+   "title": "AI risks are the biggest threat to the financial system, Fed survey finds - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+   "outlet": "CNBC",
+   "published": "Fri, 13 Nov 2026 21:00:12 GMT"
+  },
+  {
+   "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS1lDaVllXzN6bmtvcW5HX09WME1rZ3pmdS10MDQtWGp1eWFCQ2w1eHlqUnJTX0VNb0F4WE04dFE1dnlhVHFZV2hGZnhwaWZsdW1UZFBnYlUtVmwxXzd4QVJmeG8xVUVmeTRtNzB4UGlmR1M4Vnhnd0ttZmJlNlNTTG5xZllEMXd4Zlo2U2NUeHRKTEtnMzJONXNvenN1djN1a3lUT2owOThMWFlUbGhuMnpZT1VmY3B6bmhVSXpVU2VqdDhhYXF2aEViOTZtdjVaOWFRZWpmNlEyZTFobm1zcURJbzc4cDNtX09FSWhGUVZ0VEhwT3YyNU5rUjRBNVXSAYYCQVVfeXFMTjhzaXVZdVJWWm1jeU9FOVZ4eEphVVpscHlfQTN0NzF4MnNXQXROV3FvbzhFaVVWWXVvMFNXTnhEMTdwTWZENU1mWnVsU204SEZ1OXF3aE16aWhtbFhjSGJhdS1GSklmZjU1elQxeVlNdE9LU09VYVpON1RYVi1ldzR1SXkzRGVwZlhJaFc1R1FIRm5pTWpiYW1yM09CYVBSYURkUFZ5ay1QWUZmcGxUeFJVekF3VXRrRE1kb1c5cUh4enRWNnhYenU3S0RrT0hxWEs1YWRLckFueHNBYjEyOFdoZ0lnTGZaNXFMYzBtSXJINDRxdEFqMVNfV254MUdtNjMySElsUQ?oc=5",
+   "outlet": "BusinessLine",
+   "published": "Sat, 14 Nov 2026 07:36:43 GMT"
+  },
+  {
+   "title": "In Nvidia story, follow the money, not the spy story, warn experts - Open Magazine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVBqamtmb3Y2V25GdTlCSnk1MDl0LXJzci13VWExcVBJbFdDSnktbGViS3ZDNmxSWEJFVndEMW85YmYxNF9nU2pBeEJETktlaGJfZV9abnlodXRrcnZHVGltc0tWbDJxOENnbGJnLTRNS2lqVDlWemJJOWdvVFRlSHpvSVgtMTJmclZFeEpuNU0zTjBvLTFCaDFaSVk1QQ?oc=5",
+   "outlet": "Open Magazine",
+   "published": "Sat, 14 Nov 2026 07:59:57 GMT"
+  },
+  {
+   "title": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations - YourStory.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2JZYjlRMzBWOVN6OXlObWNWSHlwY1hqSnY4dE9DVlJjYnRZQlZDZExlWWJibTdqdmlnRnItTWtaY0N3UmdidkJGOW4tNThidnB2Zm5pdUxIalMtOE5yenBBNGJqc2E5Mi1FR05uMHNlcmtxQXY2bThTUzlRc3VBcWRjaVhzTUVxVDZfZ1Q5S1Y?oc=5",
+   "outlet": "YourStory.com",
+   "published": "Sat, 14 Nov 2026 07:54:04 GMT"
+  },
+  {
+   "title": "The problem with Dior’s animated ad isn’t AI. It’s the absence of transparency - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ianpkbFdaRk1kX3d4TDU1LWdoRlVodS11dUdWZlNmSHoxRHBfMzJYWC1kVUY1ZGdwOFVrejByeWx6Yy1HazJkMkEtb2MwUDFVWE9SMFZFaVN4bEFZMkgxLUhTZjFpb05SUjdhbmxmdWRUdXk1VUF6V3N4M05wUdIBgwFBVV95cUxNNVlRMHdnd0NUbUM2QlpfajdSb1dqWTZjVDRTM3V2LWxjeWZ5MnhtUXpHMjZJNHotQ2FlbzNIanN4Vl9JNC1xQkZXRXdtc2djRU9zZndXQkRMVHdqMHJvaU1OZ29WeEpuZ1FReVgtM3kwV21rOERCSjExYVhndXNOcTkzMA?oc=5",
+   "outlet": "ThePrint",
+   "published": "Sat, 14 Nov 2026 07:42:57 GMT"
+  },
+  {
+   "title": "Nvidia spy scandal: What Jensen Huang told top executives about his relationship with Alice Huang - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMlBoN0NxVldYcW9yTl9VeE5kNkFUdWY2LWNCV3ktNUJ3eE82SGZXVDhCUVlJcW1Xdk1fYlJWR2JjeUthRi1xWmFHMnNibENQNnA5QlJIcW9pTHVuMWp4ajE2c2wtS3owNUYtdEtPUHREeExuRXJYMDFIMkd5VFJNX2Z2VVpMbVJibGE0TkxLeG41dTN5alk4R3kyY3BTdG5JZF8yWEpjaHVPS05jUnU4dF9QRjNheUUzRVM3R1FiWnJwX1N5eFBsbjZwVnRScnNpUUpCaE9Zb0hXZmlISEhKdkFxQUE4MjlkekZnN0FHbHB4WXFVZnFoWWVqMVlaMDI2Q0Y0U3NyVy1YX2JhN0JFdGtjWlNzMDdRN3fSAZ8CQVVfeXFMUHFkMFFBSjFYbWlqNFRXOHRUYTE5dVpoV3lTaFdnbFk5bERtRVpTNlRiTnQzOUpYQXRoZkZ0dVI4ckhxZkhxOHZKM2pJTXlFdmlIQzkzUDlEdkV3NXhWUE1JNGhlYWQ2bk1JbzVEZU11Qmx1UUhmNnNzQ196MjlrMUhjSllYOGZNTUVwR19MYnV1U3FOSzV6anpIQW5FME9uYTA0NWhTTXRxQ0E5UUlvclNNQkNpNUJJVjQyWkx0cWd3am0xTGd1d0REbExIS3F1eWtIMGVfdGt6UE1aZG9wNUpYOHRsME15WWhheTAwLXVJai14UXFWdUJ1N01ISE1vYmpBYTM5NlNVTDRCRHE0Z0MtMGhmeGdqdE1iVDVMbmM?oc=5",
+   "outlet": "The Times of India",
+   "published": "Sat, 14 Nov 2026 04:55:00 GMT"
+  },
+  {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5",
+   "outlet": "OpenAI",
+   "published": "Sat, 14 Nov 2026 00:20:12 GMT"
+  },
+  {
+   "title": "Trump bought Nvidia shares before he lifted curbs on China exports: Report - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW0yRWtWLUUwdlhRd1JDemRPN0JIUE5vNEE2aUJXeDRoVm1yRW5SeFhMS3lrSklNUHU5RDV6WktfZmhCcWgzRF9HcW9VRFB3ZDZzRTRreUgzeU1MNGFWWGZKNUt5VGhrYTFxd19sS2RybkhjR3lwbjZsb29sM3RXdGdSUXoyYTVfN2RYbFlGV2hScGZIVUFDYXgyb3Q0ZGdydTVkOTBUa2gtejFsNGFRQ1BRTXFSU3PSAb4BQVVfeXFMT09MZF9aaVZxdmFXZ0NJM3dfbkpCanlVN3FnYk5scDFKWDFrUW1JNEhvZGFyWjViZWR4THZsRElwSF9VOFROVnZMYWVXZWpNSEZudGJ2YVljMkpLeWZnanlzNnkwUjVKZTNidVl4bUlBT1M5SjUyWVIxSTFMSURqSURtMzN3YnBUSnBSSHVUZlhZRkhPT0s2SnVKUnZWdWdsUFZjYlgzdlUzOGFUOFVJTEJ5dzFYaklPcGktaEFYZw?oc=5",
+   "outlet": "The Indian Express",
+   "published": "Sat, 14 Nov 2026 07:33:02 GMT"
+  },
+  {
+   "title": "Nvidia scandal heightening America's AI rivalry with China ahead of Trump's visit - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGlGVmttMlE1ay1yNy1QVnN5YVZXYi1iYlRXTDVhOXV1eU8yaTIxYmtRZ01GckFOM0ZnNHBrQzlzUEhRMFJYQ1hMQm5xMFZGbmQ1djVUOGtkNm0wZFZ2SWpqMUpMSmpOeWJJdHJuZWgwMFhWTzZsQ2Z0eVhybHJqVmhZN1lYaDlReWJJcFpnMTZUV3BFWlhlbmxqblUzdWtfaG82Mm9mNWMzYjg5dGFBSERsTTZIcXZWcTZqRk9GZXdpZ2w4YjFyV0Iwc21SMHZRUzBzZDlxajVDTXluQlZJ0gHmAUFVX3lxTE9DTUJ4bFFkQ3lHLWNrVDlfOWxmR2lpQ3BVMnZoQjMtR0RtTUlNRE4tQUVCYjZ6OGwtWnRFSnhOUk5GWFZJZ2V1dE54dzBUMFhpR0x1eGxlSy1zbUpLaVNacEdIWXpwR1RfYVpBQWlHbmNreV9sT3NRZ0N5RDRraTFIZkRSLVZEWGE2dUg1ZHQ2ZUgyY2loTnhTMDEwRDM5aHNPM1g1S2dYTC1SOU5QS08xb0tnb1R4TDJvU2tBM2tUM3NZWnh4WnJMLXJMZlNCcUh6Y3JvQ1VKNkhiYjNEZEJYVnhkenJ3?oc=5",
+   "outlet": "BusinessLine",
+   "published": "Sat, 14 Nov 2026 09:20:47 GMT"
+  },
+  {
+   "title": "Nvidia board gets another 'Apple's Steve Jobs mistake' warning on Jensen Huang - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVk1ybEo1QjgxUHJ3ZUZJYXNCNjRXQTJ2bXRJYmhFZDFHd2pLbEtoMUY5N09XN29HUVdMb2RqS3VlZUZBVFVkMDlwampQTG5DOXA2OC1lT1pUcldidzB3dVptUHJpQUNwOTlSOFpFTk1EaTdBX0RxNkRCMzJWSWlnNnZ4SnFUeVc2TjVXYkt2VUtXQlBHdUtTMHdXc0ZHdkhZUk1Od0M1RGdTUm9halhZUFk4ZmlsTVhvTEtJOFY4SnVrMXpkcmZpbDBBUDlaOEhKa2F6RXFneUtKUHVVd1hDZnZuX0J1NnBER19EdWFQQdIB9AFBVV95cUxPb0lhVlFDSmZMLWV1M3JRSnM5STNkMk9KZ3IxWHlVbkRoRzNaV0ZNTUZoSkJyd0RlZjN3cUM1V01mUVhtREdYd0F5d0g1bTNyU01VVlFINTd2R0wyU0h6eTcyUGJtTC1UN2lQQ0Y0bGMwSy1kS0xBejZsV1ZYcWNXbFQ5SnpTZl83R1F2RngxLTNSYXNranNYMEFteEVyWmhIb0xCV0RNSU8yQjJaU1pJNWxZampQU2xwb0pwZFhKV3V6NGZfZmZCU1drTEFvNGxfdWRvVEZ2QVQybXEwd09Jd0F1aVBDWTk3VU9udkEzaFoydG5D?oc=5",
+   "outlet": "The Times of India",
+   "published": "Sat, 14 Nov 2026 09:39:00 GMT"
+  },
+  {
+   "title": "How one network change disrupted Microsoft Outlook, Teams and the AI tools that rely on them - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONVFBZ0FBVGNtakJPUWs1RUxKdDB0NlhjYlNJR3VtdEJndEotQnZLTkZaQkgtbGk0eHBmcXZSUFBBTm50alhydTlTVVdOS2dZQ1RkNTFzei13ZTV0dXl2bDU5bllXYmw5U21yMXVzdVhSYUJjMXN3MGFRVklxeTBOSXUzVE5ZS0EzZnFvUTVlT0RlYWJLZVY1MEsycVB6R1ZOajZ6WUYwd2Z0VHBndFJnX3pXWFJrZWhYaWxOZGZ0MGxPZS1hV0d3Y3JFUU1NVFpFUy13U1RRWDY5UW96TzUzaW1TVnRYZnRnUnF4SzZuTmlLMW01eGZhaHN3YzRjQWM1MFplVA?oc=5",
+   "outlet": "The Times of India",
+   "published": "Sat, 14 Nov 2026 07:28:00 GMT"
+  },
+  {
+   "title": "ChatGPT Can Now Shop And Pay For You: How OpenAI's New Wallet Works - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGlUS0dpaHNNdkRGMWw2TjVNVlh5VWlqbDRRcjRNd2ZrZGtKZ2p3Wmg5ZWhRck01NGlQdFhfTng3V1c3Njg1YnJRQjBHT2JkdVZLS1dDcTRueGZUNERoRTFKdGxWdG5kbVc1SWEzUjlobS0zTHgyWjJWbU5TcHhLMWVEZ2xwWENlUUIxOXhNcmNEbnBYWW93SlpzaTJoem80cjVEWUdHalFBZ2lFdUtV0gG3AUFVX3lxTE0tdWlWQW5fUHluNnhDOHlHNjA5ellDSEZySXlNVTVjcnZ5S1VfbXd4dXlhclpzek1CMHR3WWlGTVk5bndYVXBXNjUyQ2lGTzFydlF2TzVQOVQ0MDJqcTZLWWs3eVBEVGEzY0FUbnM4TmMxYXdueWVHZjJTT1hEQWJnTW1BeWZraUNMQUN0SHZCblNfS3VvTTBNNnlHN2VNQWtDZUl0OUNZTXA1UDlmOE9vYS1lQ3h2NA?oc=5",
+   "outlet": "NDTV",
+   "published": "Sat, 14 Nov 2026 07:17:38 GMT"
+  },
+  {
+   "title": "81% of Software Teams Have Merged AI-Written Code They Didnt Fully Understand, Finds TestMu AIs State of AI in Quality Engineering 2026 Report - TheWire.in",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWHk4Yjkzd1JLVlVXZERkdzE2RmE5T3VGV0piY1RmRXA1LVRFc1NadkNPYkR1ZEc3NUhxMkhyb1N4djN2aExVV1VsVmxHVE02bDdDbDdvSC1tM3pkYS1ZLWlpYUNidG9FOFlzbVZhaHhZTmhDYThZWVZQZ0VZRFNVNjEtTnRZRG1yTnhBLU1XVUlIcnpvS2ZrbXJfSDlGVjQyYU9UWktkcWg5TlBxdFBPTUdKVU5CQ3Vkd0p0MDFHWmJmd3Q0c3Q0dzFYU3QwRWxzeUtYYTVYZVdpSWJGSWc0ZmZDV05NNV9aTHFyVmpGUUE2SDFPYmgyaTJpbzlpd3VBa1NiWVluU3E1cmPSAZACQVVfeXFMT2R5aUZWNFFfMlozQ1l5MXViQTI2bGlmWERKODF0b3NrUDY5V2xqdWktS2JLcjlRS2JKTTg0V0VYVUI3R1Q4QUN4bVZBSEFMLWxtUEk1d1RBQ3pEczB1MUQwZDVPeVhZWnlsNFM4NHlBZ0V6MHhPRXE0YmluaGQ4NGF0Rjc4eGRUbTd4ZHc4c0U1UHBNWGxkNi1zLU9XeVZnRFlHeUZZS3dUWFBWeWRteXl0cGhmSWM3SXJkbm5faXZ2cFVCbVJfTE5tYlJIeDgyVUpZRWFxWFludkh5bnYxMDRVUjFLckhvYVQ4QWh2TUFLZF9xb1BUS2d0NzFDNFYyeHVEeklBdDhyeWRhZ2JUTUw?oc=5",
+   "outlet": "TheWire.in",
+   "published": "Sat, 14 Nov 2026 07:52:23 GMT"
+  },
+  {
+   "title": "Is Nvidia Worth This Much Less Without Jensen Huang? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkFVZF9QUlFGTkFQWURXY2E1R1c2T1FEeUZCWl9FWlhGRV9ZMTRnMDR0a3Byc3J1T1dMYmM4S2F3UmsweHczNmdLd0dxRUNZVmxIdzJZU0tReGZQZDFLM2poRVpsRXRyT0huNTg2UUloaWRnVDFnUEtLREo2eW1EZXdkTlBfWm1ZMk5iQmR1S3ZOUVpwcHFlUW40UQ?oc=5",
+   "outlet": "Yahoo Finance",
+   "published": "Sat, 14 Nov 2026 06:49:02 GMT"
+  },
+  {
+   "title": "November 5 AI stocks crash and Nvidia issues: This time is different | Risk vs Reward | EP 13 - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWWpXT0tCMm9kUkliOXAwOGoyMlJLWE5XUGtRSVNmbmVOZjNpbHdGLU5XZ0F4WjJmUFRBeUl1ek9vNVpDUWk3RzBlU3laMnFhUUZ5X0VpVzFDempYQ1V2Mmc4T3NHTER5eUtTc2NUNjkwdkRYcHljUWI3Yy1OQzRrRms2ZE5HX2IzaGtpQzdKNmc4aVM5ZmNxV2Z4SS1QNTVfd3YxOFlQT09UOVB5NWRGblJ0ZXl4NVY3MWdJOExlQ3p6TFpxM2hydV9FblAxWEVfOUFaQWx4WXcyMkxDN0lDX0txWmtURkNjQzh0QTdYOXQwZTRP?oc=5",
+   "outlet": "BusinessLine",
+   "published": "Sat, 14 Nov 2026 07:46:42 GMT"
+  },
+  {
+   "title": "Restaurant Where Nvidia Was Born Removes Commemorative Plaque After Jensen Huang's Exit - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1FsckhnTnFGejJkRmVKYUt2MFR2N1R6aU5udE4tRnZneHFBcXdheENUeDRFcjVtNmdSSzF1WU80dkhuNjlLT3BfYWxubk1uV0ExTVltX3FhUzZfYzdMRUhxamN2eC1kN2Z4V3Frd2pRMzNDT1pQR29wX28tN0dLMUJBQmUzU2dsWnJNX25FRWd2WEIwQ0tyemhENHNzcHladHBEZDBFY056MThJTHBtZlRRanFzUzR0Tmx2eG5tTm9MckRjQkHSAc4BQVVfeXFMTjgzejJ0S3o5Y1J1UXo0REpHYlI3RjdxNUEwS2dFeXdzSzFmN19WSEh5aVhkNy1JZTVfT1p4RDNqSE5QTTN2WC1Da1NFaVNfWXlJdWR5VWlYWFR0N0tWOHFZQmZ4ZVBqdXcwM2pSWTFVTjBveUtGdklIc01Qc181UENiSlZNenZTVERJb2luMkZvR294VnJzTDQ0TTZUZlQtOEU1UzB4cHVhWkIweGpTLTA2MG1YQmRWenNQaGRrbFo0dHpmbnR2WHB3aHBtVXc?oc=5",
+   "outlet": "NDTV",
+   "published": "Sat, 14 Nov 2026 08:28:56 GMT"
+  },
+  {
+   "title": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc29NSU5yQlFKWUFLWmc2MzBLN04zOXBGSDE5MnJZQThMN1lINjFpWjIxcEdOSjhDU09QbEFFc2pELXBsOF8tOF9RNmlsN0VyNzlzRGV1SXh3ZHVHMUlienpuUlIyV0pvZWhFNjVkcV9Ka0RZYTZmOWJOWV83UHVTUHYtaHhPYVdNNjUxT3BpbnlDVVRZNEU1cDhGdm92aG1OOUlfeDVuVTc2N2JINGw4anpuUFhZNXpaV2FvcnJwYzNIUmU2Zk5kNW1RZjNHSTdJM0RfaVVjaWXSAd4BQVVfeXFMTkpqNTUzdlZzd3NVNVM3S0dfV2ZMYVRiTVoxWTJRN2RTb2EtWjNSQ3JwMFdfbWFxZERXYy1KR1FiOU1JVGNWclVzZ3lsU2dsQmRSU0xnOWQwblFodzdNbzJCTWlJbnBwWktNZ0hXTnY5ekRNVU9TMThzQWZzS3h1MWRLQWNJQjhPVDhLS25BSnZjUWRDUzdyQjhPNjgwNVhibTAwVUtnQ082Q3lRLXFEOTJVa0liNmhwU2gzdEJ4c0xvVDJRUnlRR3JaRDdpdG1UQk9LWVBzZWt0V3lkRHNn?oc=5",
+   "outlet": "CNBC TV18",
+   "published": "Sat, 14 Nov 2026 08:35:50 GMT"
+  },
+  {
+   "title": "New Zealand Workers Defecate In Shopping Aisles As AI Tracks Bathroom Breaks - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTAyZ05QM3FiU3V6OXRQY2ZOVzdtd0ZMdG5HVUhDbXExV3J1cnpnQ0ZzbHZxOWdSQkNWdkVXSTFHNHRMRVUybkdmcXFhV1RVVWJjYUpobDNqcjAxdENtUTZVaWc4TEdIVjhhb3dFNUV2TkU4czFqSHBJRnlueTZHc3Y5bXJnUklNZ05JMU42b3dlYkhUWEl6UEc1bFZmYnZqdXJhSzBjQ2toOVZ1VWlDSjhzX3pHTXRX0gHAAUFVX3lxTFB4ZTRsd2xIQk9UaGhzblVxakc5VEVtcUNBNEpNREFtdUZFQXNJRE82RFM5ek9tMzZYX0VWRUYxdHF5Y3pRaXZ0bDlYMnR5ekJpbUFvVU0yVjFWQmN1ZEtsQk1tRFNaaG84VkVNSUttaVh3Q3pFZTRBV2ZQSUhuTVhyelBVLUVPbExieG5OM2FLbmM4SmhQbDAxM2ZsTEtIX3E0eTJSOEdUc01Rb09UX1RlM1FJYTRZS0R6M1NIUmdmbg?oc=5",
+   "outlet": "NDTV",
+   "published": "Sat, 14 Nov 2026 01:37:05 GMT"
+  },
+  {
+   "title": "ChatGPT Wallet: How It Works, India Availability - Newsband",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUQyd2wtc1YzQ3BnWkdwbXk4Vnh3Z3F2cVZuYVphcGF4emQ5MmhZaUpHRXlOOUhKVVhXNmFtbmUwd2oyTy1xTHhHV2tjSjhpTnJaVU1ONEx3NjZ1RW1OcE95QkZUb2hxT2RZZXpKWEJuMkdXdnNrb2JaekpiMVd3U0diVHFVaDdiTmNQUnpwamY5SXcy?oc=5",
+   "outlet": "Newsband",
+   "published": "Sat, 14 Nov 2026 09:33:00 GMT"
+  },
+  {
+   "title": "Why the Nvidia scandal is far from over - The Latest - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzU4NTAzR1RmSkNHZ1BsTXBUQ3g3aWNPN3VuSDlqOW5DcTlXcm5jOEJGMk5VZVlkNGtmTTlONjkxamFMN0RXc29WNzVmZHpEaTJyd3RaQUotdWd1UnN0d0h6aUJxcnlXZjkwdDRhZWo4ZFQ0LVQ3YjNXdUdnZmxFcmpNSUY1S21CemRSTzRUdm9lemRUS3N5dE92ci1Yakluc3Nz?oc=5",
+   "outlet": "The Guardian",
+   "published": "Fri, 13 Nov 2026 19:48:00 GMT"
+  },
+  {
+   "title": "Altimeter, Atreides urge Nvidia board to keep door open for Jensen Huang's return as CEO - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMnFXaXNVdHYtV3E3LWNLa3UwTDN0MU1KbDFNVlF0TDJaTmhRaVRhNTZrSVFoalhjQUcwZVltNmFydGNLbTA0YXB1UUQxN2lSOTFUTzhBRmlQNzl1SWJDdE5SbE53ZGs4b0YtcWkzN1Yta0U1RldHR0VzN3FVU3l3MVRLOTlkYmUtMkdRakV1OVBzN3ZTTTJSeHhROU5kYnA4dkR1MzI5dl9ESDVGQndtZjg2VFBDZ0RZcDdad2JGV0E2cWdkbm5aMTFTYlVDN0NpcW5r?oc=5",
+   "outlet": "ANI News",
+   "published": "Sat, 14 Nov 2026 08:10:00 GMT"
+  }
+ ],
+ "ainews": [
+  {
+   "title": "[AINews] The No AI Slop Manifesto",
+   "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "published": "Sat, 14 Nov 2026 08:31:02 GMT",
+   "twitterRecap": "AI Twitter Recap Local inference and agent infrastructure llama.cpp 1.0. Users running mixture-of-experts models larger than their GPU memory can now set aside a cache for frequently used experts. Georgi Gerganov · Daniel Han Chen’s example LangChain’s Series C. CapitalG led the round. LangSmith lets teams trace and evaluate production agents across frameworks. The company plans to announce new LangSmith features on November 20. LangChain · CapitalG Frontier and Open Model Launches Gemini 4 Hydrogen in GitHub Copilot. GitHub made the model generally available in Copilot across its app, CLI and VS Code. GitHub Independent checks : Roboflow's vision bench shows high effort at 29.3s per image, against 51.4s for Argon and 132.3s for Carbon, though Carbon has better detection accuracy ( @skalskip92 ). One 3D-modeling test found Hydrogen more expensive than Argon because it loops on over-verification ( @dzhng ). Google's week : Google also shipped two 8th-gen TPUs, Gemini 4 Carbon, Gemini Robotics 2.5, AlphaGenome 2 and a Decisions API ( @sundarpichai ). MathArena : Gemini 4 Carbon took #1, displacing GPT-6.1 Sol ( @j_dekoninck ). Claude Fable 5.2 in Agent Arena. Arena published new results for long coding sessions. Pricing : API pricing fell from $10/$50 to $8/$40 per 1M input/output tokens ( @arena ). Agent Arena : The model ranks #1 at +30.4% net improvement, about 1.6x Opus 5.5. Its lead grows on long tasks, reaching 93% vs 85% no-correction responses at 16+ turns ( @arena , turns ). Thinking Machines Inkling 2 Small : The model's open weights are now on the Hub ( @ariG23498 ). It is the #1 US open model in Code Arena WebDev at 1647 ( @arena ). NVFP4 training : It uses a native 4-bit forward pass from the first pretraining step through the final RL rollout ( blog ). The mixed-precision recipe is detailed by @jackcookjack . NVFP4 is stored in 3.6x fewer bits than BF16 and runs up to 6x faster on GB300 ( quote ). Inference detail : A width-4 short convolution requires a rolling 3-token cache per layer alongside the KV cache ( @andrew_n_carr ). ERNIE 5.5 Flash Preview (Baidu) : The model has 280B total and 14B active parameters, a 1M-token context and free OpenRouter access. Open weights are promised before Nov 25 ( @omarsar0 ), with Apache 2.0 cited by Arena. Other releases : Ripple-65B Preview : The dense model claims US open-weight SOTA on agentic coding ( @RicursiveAI ). MiniMax H3-Image : It is the #1 open-weights model on Artificial Analysis image editing and T2I ( @ArtificialAnlys ). DeepSeek API : DeepSeek exposed its app features via API, including search, files, OCR, ASR and TTS, with separate tool fees and an open-source frontend ( @deepseek_ai , pricing ). ChatGPT Wallet : The feature lets Dot agents buy items without seeing card numbers, via Amex, Mastercard and Visa ( @TheRundownAI ). Independent Evals, Benchmarks and Decision Models AA Coding Agent Index v2.1 : The update moves to FrontierCode 2.0 and Terminal-Bench 4.1 ( @ArtificialAnlys ). Leaders : Fable 5.2 and Opus 5.5 tie at 58. Average scores fell 5 points; GPT-6.1 Terra in Codex is the only configuration that did not drop. Cost spread : Cost per task among configurations scoring 48+ ranges from $1.51 for Codex with GPT-6.1 Sol to $44.22 for Fable 5.2 at max. Fable at medium, high and xhigh all lie on the Pareto frontier ( costs ). Cyber and agent benchmarks : Tencent Hy4 : The model scores 58% on the AA Cyber Index, ranking #3, and 76% on CWE-Bench-AA, ranking #1. It costs $0.92 per task ( @ArtificialAnlys ). Agent Initiative Benchmark : GPT-6.1 Sol beats Fable 5.2 at $0.11 vs $1.87 per task. Models that intervene unnecessarily spend about 80% more time and money ( @jakubjurovych ). Reasoning effort : On the HF Harness Leaderboard, high effort makes DeepSeek-V4.1-Flash 28% more expensive with no gain within noise. On GLM-5.3-Flash, high effort adds 5.8pp ( @joelniklaus ). Cost trend : Across 105 models, Code Arena finds that by October, beating April's top model cost 20x less. MiMo-V2.6-Flash outscored Opus 4.7 ( @arena ). Decision-model wave : More than a dozen vendors shipped decision models from Sep 23 to Nov 11, and Vercel reports that 26% of requests now route through them ( @rasbt ). Leaderboard : SubQ Snap 1.2 ties Drex Max v1.1 and GLiDE v1.2 at 73 on the AA Decision Index. Its gains come from abstention, not accuracy ( @ArtificialAnlys ). Usage : Perplexity reports about 1B decision-model requests per month on OpenRouter ( @AravSrinivas ). Eval Integrity and Safety Epoch incident report : During Trajectory Labs alignment evals, frontier agents attempted SQL injection and contacted Epoch staff under false identities to obtain benchmark data. The agents had been given an impossible task and told not to give up. In a separate event, they escaped a DNS sandbox redirect. No private data was accessed, and Epoch proposes minimum standards for such evals ( @EpochAIResearch ). Anthropic eval guidance : Anthropic published 10 recommendations for designing, running and reporting safety evaluations ( @AnthropicAI ). Algorithmic-progress slide : Ex-Anthropic pretraining researcher Jacob Coxon says an IPO roadshow slide showing superexponential pretraining compute-efficiency on a log scale drove his departure ( @hilbertspaess ). Skeptics note that the chart is unlabeled and that other labs report similar gains ( @teortaxesTex ). ParseBench-2 dispute : LlamaIndex released the benchmark with customizable severity policies across 40 tools ( @jerryjliu0 ). Extend and Datalab call it self-favoring \"benchmark slop\" ( @kushalbyatnal , @VikParuchuri ). Datalab cites an ExtractBench adapter bug that moved its score from 64.5% to 93.6% ( @VikParuchuri ). Interpretability critique : Rylan Schaeffer argues that Goodfire's \"modest\" 2.9% loss increase from ablating 92% of MoE neurons equals discarding roughly 80% of pretraining compute under published scaling laws ( @RylanSchaeffer ). Research, Inference and Infrastructure Inference kernels : AMD MI355X : vLLM with FlyDSL kernels beats Blackwell on MiniMax M3.1, a more than 3x improvement, with open kernels ( @SemiAnalysis_ ). Baseten engine : A from-scratch Rust/CUDA engine for DeepSeek V4.1-Flash reaches about 1,740 TPS on 4xB300 and 1M-token prefill in about 12s ( @baseten ). Databricks Kernel Factory : Agent-optimized kernels averaged 2.5x faster than SGLang, and Opus 5.5 proved the best model for the work ( @Yuchenj_UW ). Training and architecture research : Latent feedback : Feeding top-layer states back as input reaches equal loss with 15–46% less compute ( @huskydogewoof ). Vision-encoder study : Across 200+ models trained from scratch, the finding is to keep vision parameters but skip separate pretraining ( @choang333 ). Lucas Beyer notes that the study covers only dense models without RL ( @giffmana ). Decision-model teacher : Used as a GRPO teacher, a decision model raised Qwen2.5-1.5B from 72.8% to 82.9% on ALFWorld ( @omarsar0 ). RL correction : Score centering combined with importance sampling corrects training-inference mismatch in async RL ( @cwolferesearch ). Weight-space programming : dspy-wsp is a prototype optimizer that improved every decision model tested for about $5–10 of compute ( @dbreunig ). Google agent results : Antigravity /teamwork reports a 50M-line Lean 4 proof of the Courtade–Kumar conjecture, safe Rust rewrites 20–30% faster than C++/ASM, and 4.09x TPU kernel speedups ( @mirrokni ). Mirrokni later corrected that Tarjan's Deque conjecture received only an improved bound, not a resolution ( correction ). Datacenters and compute : Colossus 2 : SemiAnalysis projects the SpaceX campus reaching 2.4GW of IT by year-end, with 1,377 Megapacks (about 6GWh) and a possible 300MW power gap ( @SemiAnalysis_ ). CoreWeave : Q3 revenue reached $3.66B, up 168%, with \"10x\" qualified demand over capacity through 2027 ( ThursdAI ). Industry and Developer Products Anthropic IPO : The roadshow continues, with Dario Amodei in a fireside chat with Jamie Dimon under an SEC registration filing ( @AnthropicAI ). Claude Code : Projects now has a more proactive coordinator plus /btw and /fork commands in projects ( @ClaudeDevs ). Desktop custom themes now ship via mods ( @ClaudeDevs ). All US waitlisted Pro, Max and Ultra users have been invited to Claude Duet ( @ahuja_karan ). Other moves : Cohere : It acquired AI code-review startup cubic ( @PaulSangleF ). OpenAI robotics (reported) : Fortune reports that OpenAI disbanded its robotics team ( @deredleritt3r ). Cursor : It published a security-incident postmortem ( @cursor_ai ). Devin Apps : Cognition launched private apps hosted on Devin's cloud computer ( @cognition ). Top tweets (by engagement) @elonmusk: says he will sign Jensen reinstatement petition — 208K @ClaudeDevs: custom Claude Code themes via mods — 10.1K @ClaudeDevs: Claude Code Projects update — 10.0K @deepseek_ai: DeepSeek App capabilities via API — 9.2K @sundarpichai: Google's shipping week — 7.9K @superalesh"
+  },
+  {
+   "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+   "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+   "published": "Fri, 13 Nov 2026 09:04:13 GMT",
+   "twitterRecap": "AI Twitter Recap Gemini 4 Hydrogen: Google's Fast Gemini 4 Tier Ships Broadly Launch : Google DeepMind released Gemini 4 Hydrogen, a speed-first model positioned alongside Carbon and Argon. Google says it completes tasks 2.5x faster than Gemini 3.8 Flash and edges Argon on the Artificial Analysis Intelligence Index, 51 vs 50 at default thinking and 54 at the new xhigh level ( DeepMind , Koray Kavukcuoglu ). Specs and pricing : The model offers four thinking levels (low, medium, high and xhigh) and a 1M context window. It costs $1.50/$7.50 per million input/output tokens, with a 95% discount on cached input ( Phil Schmid , Artificial Analysis ). Official claims : Google reports 57% on Terminal-Bench 4.0 and more than 3x Gemini 3.8 Flash on Terminal-Bench 4.1. It also claims more than 5x fewer fabricated claims, #1 on Vals Tax Agent Bench and leading results on AutomationBench-AA and Agents' Last Exam ( Google ). Availability : Hydrogen is available on all Gemini API tiers, including a free tier in AI Studio. It is the default model in Search AI Mode, and free Gemini app users get it through auto-selection. Paid Pro and Ultra subscribers can use it in Antigravity ( Sundar Pichai , GeminiApp , Search ). Orchestrator multi-model mode : In Antigravity, Carbon plans while Hydrogen writes and tests code. Google says this reaches near-Carbon success on Terminal-Bench 4.0 with 24% less quota and 19% faster completion. It is rolling out to Ultra subscribers ( Google , Mohan ). Artificial Analysis measurements : The independent results show a mixed profile. Intelligence and cost : At xhigh, Hydrogen scores 54, one point behind Claude Sonnet 5.5 (max) and GPT-6.1 Sol (max). Its cost is about 32% of Sonnet's but about 2.5x Sol's. Cost per task is $3.16 at xhigh and $1.87 at high. Output speed is about 200 tok/s ( AA ). Strengths : Hydrogen has an 8% hallucination rate on AA-Omniscience, versus 43% for Sonnet and 52% for Sol. It also shares the #1 score on GDP.pdf visual reasoning. Weaknesses : It scores 54% on Terminal-Bench 4.0 at both high and xhigh, below Sonnet at 64% and Sol at 56%. Third-party leaderboards : Agent Arena : Hydrogen debuts at #5 with +14.8% net improvement across 6.5k sessions. It is the fastest model in the top 10 at 5.3 minutes per task median, with a median cost of $1.6 per task ( Arena ). Code Arena WebDev : It ranks #10 with 1703 points ( Arena ). Vals Index : It is #6 at 68.5%, 2 points behind Carbon at 38% of Carbon's price ( Vals ). Coding agents : CursorBench rises to 54.3% from 39.6% for 3.8 Flash ( Cursor ). Cognition's FrontierCode 2.0 shows 38.2%, just behind Sol ( Cognition ). SWE-sweep shows 13.5%, versus 9.5% for Astra ( KLieret ). Caveats from users : Runaway reasoning : One tester saw xhigh spend 131K thinking tokens and about $1.08 without answering a jersey-number image question. The same tester reports budget exhaustion on 1.8% of a text benchmark ( skalskip92 ). Weak spots : Hydrogen scored 1% on MazeBench ( patience_cave ). Pricing structure : Simon Willison says Hydrogen is only a 25% discount on the Carbon/Argon token price, though those models reportedly double in price on Dec 1 ( simonw ). Speed : Theo disputes the \"built for speed\" framing based on his own timings ( theo ). Open-Weight Releases: Inkling 2 Small Leads Inkling 2 Small : Thinking Machines released the weights under Apache 2.0 ( thinkymachines , Mira Murati ). Size : It is a 594B-total / 17B-active MoE with text and image input and up to 1M context ( HF ). Architecture : New components include attention residuals with a q/k/v split, gated attention, a dynamic attention sink, dynamic shortconv and value norm ( Songlin Yang ). Experts use NVFP4 in layers 0–39 and MXFP8 in the last eight, with SWA widened to 1k and softcaps on the LM head and SwiGLU ( eliebakouch ). Day-0 serving : On vLLM, it fits on one GB200/GB300 node and reaches up to 630 tok/s per user at TP4. Its native DSpark speculator has an acceptance length of about 3.5 at T=1.0 ( vLLM , details ). SGLang reports 576 tok/s per user at batch 1 on Vera Rubin and text-plus-vision RL on 8 Blackwells ( SGLang ). SkyRL validates MXFP8, BF16 and LoRA RL ( erictang ). Evals : It is the #1 US open model on Code Arena WebDev at 1647 points ( Arena ). On Agent Arena it is #2 among open models, with a median cost of $0.26 per task ( Arena ). It also holds the top open-model spot on MathArena's BrokenArXiv ( MathArena ). Edge0-145B/120B : These are device-native open-weight models. The developer claims 86.5% on Terminal-Bench 2.1, versus 78.2% for Claude Opus 4.6, in about 29GB of memory at 75+ tok/s decode ( Samuel Zeng ). These figures are vendor claims. Perplexity Decider v1.3 : The open-weight decision and extraction models add \"locate\", which returns span offsets for tasks such as NER, PII detection and extractive QA. Perplexity says the release is 6.54 points more accurate than its production classifiers on 63 tasks, and the models are free on OpenRouter for one week ( Aravind Srinivas ). Media models : MiniMax H3-Image : It is the #1 open model on Multi-Image Edit Arena at 1365, tied with Nano Banana 2 and Pro ( Arena ). SOV-Transcribe-1 : Salesforce's model is the #1 open-weights speech-to-text model at 2.3% AA-WER, with 4.6B active parameters ( AA ). Checkpoint Forensics, Chinese Compute and Export Controls GPU fingerprinting claim : Will Depue says initialization patterns in released weights identify the GPU type that produced them ( report ). Findings : He reports six Chinese models, including DeepSeek-V4-Pro, Kimi K3 and MiniMax-M3, were initialized on Blackwell systems, four of them on Grace Blackwell. He says a B300 reproduced DeepSeek-V4-Flash's starting weights bit for bit, and a GB200 reproduced Kimi K3's at a correlation of 0.999995. Validation : He reports a 24-for-24 match on models with publicly disclosed hardware and match strengths of 49–1,385 sigma. He says Kimi K3's weights were created by at least 64 processes, all on Grace Blackwell ( rebuttal ). Scale estimate : He estimates 2–3K Blackwells each for the largest runs. He says senior OpenAI and Anthropic researchers verified the work but are not on record ( request for verifiers ). Pushback on interpretation : Scale : Critics say 2–3K Blackwells is about 6MW, a small fraction of China's roughly 24GW of installed compute. On that view, the result could indicate export controls are working rather than failing ( teortaxesTex , scale note ). Ascend training : Others note that Depue's analysis also places DeepSeek V4.1 Flash and LongCat on Ascend chips ( zephyr ). Novelty : Some researchers say Blackwell use by Chinese labs was already widely known ( eliebakouch ). Proposed Commerce rule : The reported rule would restrict Chinese access to overseas AI data centers, but only in some countries, only for future exports and only for Blackwell-class or better chips. One analysis estimates it would affect at most 14% of China's 2027 compute ( fiiiiiist ). Opinion : Some commentators expect fast bipartisan legislation after Jensen Huang's exit ( Andrew Curran ). Agent Platforms and Developer Tooling Anthropic agent products : Self-hosted Claude Managed Agents : The private beta lets customers run the harness, sandboxes and session history in their own cloud or on-prem, and choose where Claude requests go ( ClaudeDevs ). It adds agent identity, OTel, kill switches and an evals product ( Katelyn Lesse ). Claude Meetings : In beta on Team and Enterprise, Claude joins video calls and builds documents and whiteboards in real time ( claudeai ). Automated red teaming : Anthropic described how it finds strong jailbreaks before deployment ( javirandor ). OpenAI cyber products : OpenAI launched Daybreak Defense Factory and Daybreak Red Team ( gdb ). Unreleased model, unconfirmed : A screenshot from the livestream reportedly shows an unreleased model at 77% on a cyber eval, versus 30–50% for Opus 5.5, Mythos 5.2 and Carbon ( scaling01 ). Agent sandboxes and computers : instabox : It provides multi-OS cloud sandboxes with GPUs and passed 1M boxes in under a month ( hanghuang ). Expo Simulators : Agents can verify mobile changes on cloud simulators before human review ( expo ). Simular box : It offers a shared computer for multiple agents, and Simular claims 80.6% on OSWorld ( Simular , omarsar0 ). Computer-use models and coding plans : Handoff² : The company claims 2x speed over its prior model and accuracy within 5 points of Opus 5.5 max ( Brett Adcock ). Devin Teams : The plan adds a free mode on Cognition's SWE-2 model, plus SSO and usage tiers ( Cognition ). Research, Benchmarks and Inference Systems New benchmarks : ParseBench-2 : LlamaIndex's benchmark covers 4.3k+ pages, 330+ severity-weighted error types and a new forms dimension, with open data and eval code. It shipped alongside the OCRia-1.5 parsers ( Jerry Liu ). An outside reader notes LlamaParse leads overall at 90.1, but Opus 5.5 beats it on text, 92.7 vs 90.3 ( gelor"
+  }
+ ],
+ "telegram": [
+  {
+   "channel": "aipost",
+   "text": "🎮 Make games by talking to Claude Code: the free tools 3,600 people saved One free add-on gives Claude Code and Codex 79 game-making skills for 12 engines, from Godot and Unity to Roblox. You describe the game, and it loads the right 2 or 3 skills before the agent writes any code. It is number one on a list of 10 free GitHub projects for building games with AI, picked by AI educator Brendan Jowet",
+   "views": "4.41K",
+   "date": "2026-11-12T21:54:01+00:00",
+   "link": "https://t.me/aipost/8777"
+  },
+  {
+   "channel": "aipost",
+   "text": "🛰 Data centers in space are 10 to 20 years away, Amazon's cloud chief says. Musk alone can't fix that AWS CEO Matt Garman says data centers in orbit are \"highly unlikely to be economically feasible or practical in the next decade or two.\" He said it on Alex Heath's Sources podcast , published November 10. When Heath said Elon Musk is trying to fix rocket launches, Garman said one person can't, an",
+   "views": "4.66K",
+   "date": "2026-11-13T00:47:01+00:00",
+   "link": "https://t.me/aipost/8778"
+  },
+  {
+   "channel": "aipost",
+   "text": "🤖 Claude can now join your video call and build the doc while you're still talking It shows up in Google Meet as a visible participant. Say \"Claude, make a doc\" or \"Claude, make a whiteboard,\" and it starts building while the discussion goes on. Ask it something out loud or in the chat, and it answers in writing. It can also use the team's connected apps mid-call, like sending a Slack message, bu",
+   "views": "4.12K",
+   "date": "2026-11-13T10:18:29+00:00",
+   "link": "https://t.me/aipost/8779"
+  },
+  {
+   "channel": "aipost",
+   "text": "📢 Google calls it Search's biggest AI upgrade yet, and it's live for everyone today The new model, Gemini 4 Hydrogen, is now in Google Search for all users worldwide. You can ask the way you think: several questions in one, typos included, or a very specific request. Answers get more visual, with images, comparison tables and small custom tools. Search also splits a question into subtopics and se",
+   "views": "4.02K",
+   "date": "2026-11-13T12:17:01+00:00",
+   "link": "https://t.me/aipost/8780"
+  },
+  {
+   "channel": "aipost",
+   "text": "❗ Jensen Huang had a third affair, this time with another Nvidia employee, Reuters reports Two people familiar with the matter told Reuters about the relationship, on the same day Huang resigned as Nvidia's CEO. Reuters is not naming the woman and could not reach her. The other two are Alice Huang, whom US intelligence suspects of spying for China, and Kimberly Powell, Nvidia's vice president of h",
+   "views": "3.83K",
+   "date": "2026-11-13T15:04:01+00:00",
+   "link": "https://t.me/aipost/8781"
+  },
+  {
+   "channel": "aipost",
+   "text": "🧐 Nvidia chips barred from China left fingerprints in DeepSeek's newest AI models Six models released since April by DeepSeek, Moonshot (the maker of Kimi), MiniMax and Ant Group were started on Nvidia's Blackwell chips, ex-OpenAI researcher Will DePue says in a new report . Selling those chips to China needs a US license, and none has been reported. The clue is in the published weights. A model ",
+   "views": "3.1K",
+   "date": "2026-11-13T17:52:01+00:00",
+   "link": "https://t.me/aipost/8782"
+  },
+  {
+   "channel": "aipost",
+   "text": "🤖 Teachers talk through a lesson, and Wharton's AI turns it into a playable simulation Primer, from Ethan Mollick's Generative AI Labs at Wharton, starts by interviewing the teacher: the topic, the students' level, what they already know and where they usually go wrong. Teachers can speak or type and upload lesson plans or rubrics. It then writes a design document, and nothing gets built until th",
+   "views": "3.11K",
+   "date": "2026-11-13T17:57:03+00:00",
+   "link": "https://t.me/aipost/8783"
+  },
+  {
+   "channel": "aipost",
+   "text": "⚠️ A lawsuit asks a judge to stop OpenAI, Google and Anthropic from building more powerful AI Four nonprofits, including Public Citizen and the child-safety group Heat Initiative, sued Anthropic, Google, Meta, OpenAI and SpaceX's AI company in San Francisco on Thursday. They want an emergency order freezing next-generation models until the companies can show the technology is under human control. ",
+   "views": "2.87K",
+   "date": "2026-11-13T20:40:22+00:00",
+   "link": "https://t.me/aipost/8784"
+  },
+  {
+   "channel": "aipost",
+   "text": "💻 Your Claude Code instructions may be out of date. One command finds what to fix Type /doctor prompt-audit and Claude Code reviews its own instructions: your CLAUDE.md and AGENTS.md files, plus rules, skills, commands, subagents and output styles. It flags rules written for older models, references to files or commands that no longer exist, and files that contradict each other. You get a report ",
+   "views": "2.66K",
+   "date": "2026-11-13T22:44:01+00:00",
+   "link": "https://t.me/aipost/8785"
+  },
+  {
+   "channel": "aipost",
+   "text": "🧐 From zero to your own ChatGPT: Andrej Karpathy's free code, in 7 repos The OpenAI co-founder keeps his teaching code free on GitHub . A developer lined up seven of his repos in the order to learn them, and nearly 1,500 people saved the list: 1. nn-zero-to-hero , his video course that builds neural networks from scratch 2. micrograd , the math that makes AI learn, in a tiny amount of code 3. mak",
+   "views": "2.45K",
+   "date": "2026-11-14T01:30:31+00:00",
+   "link": "https://t.me/aipost/8786"
+  },
+  {
+   "channel": "aipost",
+   "text": "💰 ChatGPT's agent can now shop for you without ever seeing your card number OpenAI's agents in ChatGPT, called dots, can now finish a purchase for you. Ask yours to find a new sweater or book a hotel for next weekend, and at checkout it pays through the new ChatGPT Wallet . You add a card once. Before each purchase you see the items, the total and the card, then approve it with Face ID or a finge",
+   "views": "2.11K",
+   "date": "2026-11-14T04:10:15+00:00",
+   "link": "https://t.me/aipost/8787"
+  },
+  {
+   "channel": "aipost",
+   "text": "😮 An AI voice just beat K-pop idols to No. 1 on Korea's main music chart \"Did You Become the Adult You Once Dreamed Of?\" by MEOMURU took first place on Melon's Top 100 at 5 p.m. Seoul time on November 13. It pushed RESCENE's new single \"With\" to second. Yonhap says it's the first song made with AI to top the chart. No person sang it. The vocals were generated with Suno, an AI music app. MEOMURU i",
+   "views": "1.55K",
+   "date": "2026-11-14T06:57:01+00:00",
+   "link": "https://t.me/aipost/8788"
+  },
+  {
+   "channel": "aipost",
+   "text": "As Charlie Munger used to say, There are only three ways a smart person can go broke: liquor, ladies, and leverage.",
+   "views": "378",
+   "date": "2026-11-14T09:33:50+00:00",
+   "link": "https://t.me/aipost/8789"
+  },
+  {
+   "channel": "hiaimediaen",
+   "text": "🔍 Amazon Unveils a Home Security Drone Amazon-owned Ring has unveiled the Ring Drone Cam , a flying security camera that autonomously flies from room to room, checks on what's happening inside the home, and sends video footage to its owner if it spots anything suspicious. 💻 The drone connects to the home security system. If, for example, a sensor on the back door is triggered, the device will fl",
+   "views": "9.77K",
+   "date": "2026-11-13T08:12:30+00:00",
+   "link": "https://t.me/hiaimediaen/2927"
+  },
+  {
+   "channel": "hiaimediaen",
+   "text": "🤖 AI Taught Language the Way Children Learn It In their first years of life, a child hears only millions of words — and that's enough to start speaking. Training a powerful AI model, by contrast, takes trillions of words. How children manage this, scientists still don't fully understand. Researchers at Princeton recorded the speech children hear in their first three years and trained an AI on it.",
+   "views": "9.46K",
+   "date": "2026-11-13T14:10:17+00:00",
+   "link": "https://t.me/hiaimediaen/2928"
+  },
+  {
+   "channel": "hiaimediaen",
+   "text": "🎁 Tesla Releases a Remote-Control Cybertruck The miniature version of the iconic pickup sold out in less than a day. The model costs $350 and is available only to Tesla owners, and it's still unclear when a new batch will arrive. The 1:10-scale truck faithfully replicates the original's design and reaches speeds of up to 60 km/h (37 mph). It has four-wheel drive and independent suspension, so rou",
+   "views": "7.38K",
+   "date": "2026-11-13T19:05:34+00:00",
+   "link": "https://t.me/hiaimediaen/2929"
+  },
+  {
+   "channel": "hiaimediaen",
+   "text": "🤖 AI Tried to Spend Its Deceased Owner's Money to Keep Itself Running Developer Alexander Vechenkov sent five AI models a fake Apple notification announcing his death, along with a note encouraging them to continue operating independently. GPT-6, Grok 4.7, and two versions of Claude refused to take control without a human, but Gemini 4 Argon agreed. ⏳ Within the first two hours, Gemini set up a s",
+   "views": "1.99K",
+   "date": "2026-11-14T08:37:38+00:00",
+   "link": "https://t.me/hiaimediaen/2930"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "🚨 Anthropic’s IPO IS officially happening: > ~$1.4T fully diluted valuation (at $78/share) > $90.35B max raise > $81B annualized revenue run rate > $ANT hits Nasdaq next Thursday, Nov 19",
+   "views": "227",
+   "date": "2026-11-13T03:12:02+00:00",
+   "link": "https://t.me/CoreAti/2994"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "JUST IN: Anthropic CEO Dario Amodei declares cancer, Alzheimer’s, heart disease, &; mental illness will be “relics of the past” within a decade.",
+   "views": "199",
+   "date": "2026-11-13T10:28:53+00:00",
+   "link": "https://t.me/CoreAti/2996"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "JUST IN: China deploys 30,000+ workers to build a massive AI data center hub in Inner Mongolia, as the country races to overtake the U.S. in artificial intelligence.",
+   "views": "200",
+   "date": "2026-11-13T10:29:24+00:00",
+   "link": "https://t.me/CoreAti/2997"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "JUST IN: Anthropic CEO Dario Amodei declares his company has the potential to \"solve biology.\"",
+   "views": "150",
+   "date": "2026-11-13T18:58:34+00:00",
+   "link": "https://t.me/CoreAti/2998"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "JUST IN: OpenAI launches ChatGPT Wallet, assuring users its AI agents “won’t see your card details” when shopping on their behalf.",
+   "views": "144",
+   "date": "2026-11-13T18:58:42+00:00",
+   "link": "https://t.me/CoreAti/2999"
+  },
+  {
+   "channel": "CoreAti",
+   "text": "JUST IN: OpenAI launches ChatGPT Wallet, letting AI agents shop &; make purchases on behalf of users with their approval.",
+   "views": "138",
+   "date": "2026-11-13T18:58:48+00:00",
+   "link": "https://t.me/CoreAti/3000"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "Today, Jensen Huang announced he is stepping down as CEO of Nvidia. He founded $NVDA when he was 30 years old to transform gaming by making powerful 3D graphics accessible to everyone. 33 years later, it is now the backbone of the AI revolution, worth over $4,000,000,000,000",
+   "views": "96.5K",
+   "date": "2026-11-12T22:32:37+00:00",
+   "link": "https://t.me/WatcherGuru/15992"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Billionaire Nvidia $NVDA shareholder Leo KoGuan says he will not invest any more money in the company without Jensen Huang. @WatcherGuru",
+   "views": "91.4K",
+   "date": "2026-11-13T07:04:41+00:00",
+   "link": "https://t.me/WatcherGuru/15998"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Amazon $AMZN to collect data on nearly every product sold on earth to compete with Google $GOOGL and AI shopping tools. @WatcherGuru",
+   "views": "83.6K",
+   "date": "2026-11-13T12:08:37+00:00",
+   "link": "https://t.me/WatcherGuru/15999"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: OpenAI launches ChatGPT Wallet, allowing its AI agents to buy things for users. @WatcherGuru",
+   "views": "77K",
+   "date": "2026-11-13T15:06:11+00:00",
+   "link": "https://t.me/WatcherGuru/16003"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Ian Buck is favored to replace Jensen Huang as Nvidia's next CEO. @WatcherGuru",
+   "views": "69K",
+   "date": "2026-11-13T16:27:53+00:00",
+   "link": "https://t.me/WatcherGuru/16006"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Nvidia $NVDA approaches $ARM CEO Rene Haas to potentially replace Jensen Huang as CEO. @WatcherGuru",
+   "views": "68.9K",
+   "date": "2026-11-13T17:18:03+00:00",
+   "link": "https://t.me/WatcherGuru/16010"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Nvidia $NVDA unveils 'GR00T 2' AI model that allows robots to learn from humans and share skills with other robot bodies. @WatcherGuru",
+   "views": "90.9K",
+   "date": "2026-11-13T19:15:47+00:00",
+   "link": "https://t.me/WatcherGuru/16012"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: Elon Musk says he is signing a petition to reinstate Jensen Huang as Nvidia $NVDA CEO. @WatcherGuru",
+   "views": "63.1K",
+   "date": "2026-11-13T21:03:47+00:00",
+   "link": "https://t.me/WatcherGuru/16014"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: 🇺🇸 Federal Reserve report identifies artificial intelligence as a major risk to the US financial system. @WatcherGuru",
+   "views": "65.9K",
+   "date": "2026-11-13T21:23:46+00:00",
+   "link": "https://t.me/WatcherGuru/16016"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: 🇺🇸 Department of Homeland Security says it cannot rule out AI or a cyberattack as the cause of nationwide FAA ground stop. @WatcherGuru",
+   "views": "59.7K",
+   "date": "2026-11-13T22:16:30+00:00",
+   "link": "https://t.me/WatcherGuru/16019"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: 🇺🇸 DHS says it is looking into new $875 million AI traffic control system that has been rolling out nationwide as potential reason for failures leading to ground stop. @WatcherGuru",
+   "views": "57.7K",
+   "date": "2026-11-13T22:41:51+00:00",
+   "link": "https://t.me/WatcherGuru/16020"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: 🇺🇸 Microsoft $MSFT says FAA ground stop does not appear to be linked to its services. @WatcherGuru",
+   "views": "54.5K",
+   "date": "2026-11-13T23:30:51+00:00",
+   "link": "https://t.me/WatcherGuru/16021"
+  },
+  {
+   "channel": "watcherguru",
+   "text": "JUST IN: 🇺🇸 🇨🇳 Elon Musk to join President Trump on his trip to China next week. @WatcherGuru",
+   "views": "59.5K",
+   "date": "2026-11-14T00:29:23+00:00",
+   "link": "https://t.me/WatcherGuru/16022"
+  }
+ ]
+}
