@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 14, 2026
+
+1. Reuters: Jensen Huang misled Nvidia's top lawyer about Alice Huang
+Citing two people and internal messages, Reuters reports that the former Nvidia CEO told general counsel Tim Teter and marketing chief Alison Wagonfeld in October that his dealings with Megaspeed's Alice Huang were "standard business dealings with customers". Huang has hired the law firm Paul Weiss, according to the New York Times. A House deadline for him to agree to a December 1 interview passed at 8 p.m. ET Friday, and no reply had been reported by Saturday morning. Nvidia declined to comment.
+https://finance.yahoo.com/markets/stocks/articles/exclusive-ex-nvidia-ceo-misled-002638424.html
+
+2. Nvidia ends its worst week since April 2025
+Shares fell 13% this week, Nvidia's sixth weekly loss in a row and its longest losing streak since 2012, CNBC reports. The stock is down about 30% since the slide began in early October, and Nvidia now trails Apple in market value. Its first earnings under interim CEO Colette Kress come on November 17.
+https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html
+
+3. Anthropic's IPO book is strong, but investors question how long its lead lasts
+Orders reached about six times the shares on offer by Thursday, according to a person who spoke to Reuters. Some investors asked whether Claude can stay ahead as Google catches up, and said some questions went without detailed answers. On Friday, CEO Dario Amodei told JPMorgan's Jamie Dimon that compute is "the deepest business dilemma that the company faces". The $64 billion IPO is due to price on November 18.
+https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644
+
+4. The Pentagon renames its AI office the "Super Intelligence Office"
+The Chief Digital and Artificial Intelligence Office is now the SIO, following Trump's September order for agencies to say "super intelligence" instead of AI. The department says its mission, programs and contracts do not change.
+https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/
+
+5. EU leaders hold their first summit on AI
+At the informal meeting in Dublin on Friday, Mistral CEO Arthur Mensch told leaders to "act now" to keep up with the US and China, and Geoffrey Hinton also addressed them. No decisions were expected, and coverage says a row over who should represent Europe in Ukraine peace talks overshadowed the day.
+https://www.tbsnews.net/worldbiz/europe/eu-leaders-urged-act-now-ai-stay-competitive-us-china-1601821
+
+6. Tesla starts selling the Cybercab to invited customers
+The robotaxi costs $29,990, Tesla's cheapest car ever, and needs a $299-a-month self-driving subscription. It can only drive inside Tesla's supported service areas, and Tesla has not said when anyone else will be able to order one.
+https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/
+
+7. Cursor explains how a fake Claude Code extension got into its store
+In an update on Friday, Cursor said the attack began with a Cursor access key that was exposed by its inference provider Fireworks. Up to 5,000 users may have received the backdoored versions 2.1.312 and 2.1.313, which Anthropic did not publish. Cursor has moved all its inference off Fireworks and says uninstalling the extension alone may not remove the backdoor.
+https://cursor.com/blog/security-incident-update
+
+8. Samsung is in talks to buy cooling maker Modine
+Bloomberg reported the talks for the US maker of data center cooling systems, and Modine shares jumped about 28%. Seoul Economic Daily reported on Saturday that the deal could be worth $7.5 billion to $8 billion, which would be Samsung's largest acquisition ever. Nothing is agreed, and neither company has commented.
+https://en.sedaily.com/economy/2026/11/14/samsung-pursues-record-8-billion-buyout-of-us-cooling-maker
+
+9. Meta is testing a prediction-market app called Takes
+According to the Wall Street Journal, Meta employees bet virtual points called "cred" on future events, not real money. One sample question asked whether Tim Cook will become Nvidia's next CEO. There is no word on a public launch.
+https://finance.yahoo.com/technology/articles/meta-tests-prediction-market-app-203017664.html
+
+10. Apple's first smart home display goes on sale
+HomeView ($299) runs Siri AI, recognizes up to six people by face and comes in tabletop and wall models. It launched on Friday alongside a $299 Apple TV 4K with an A19 chip. HomeView is not sold in the EU, where Siri AI is not available.
+https://www.macrumors.com/2026/11/13/apple-launches-two-products-today
