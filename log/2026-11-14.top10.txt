@@ -37,5 +37,5 @@ Developers can now switch on web search, file and URL reading, safety checks and
 https://x.com/deepseek_ai/status/2121247899699036516
 
 10. llama.cpp hits version 1.0
-The most widely used library for running AI models locally, along with its ggml tensor library, reached v1.0.0 on November 13 and moved to semantic versioning, so breaking API changes now mean a major version bump. The release removes 36 deprecated functions, so apps built on it should check before upgrading.
+The most widely used library for running AI models locally, along with its ggml tensor library, reached v1.0.0 on November 13 and moved to semantic versioning, so breaking API changes now mean a major version bump. The release removes a batch of deprecated functions, so apps built on it should check before upgrading.
 https://www.unite.ai/llama-cpp-v1-0-0-sets-api-stability-rules-for-local-ai-tools/
