@@ -12,13 +12,16 @@ Nobody is watching this run: never stop to ask, take your own best call at every
 1. Run `node scripts/discover.mjs > log/YYYY-MM-DD.discovery.json` (today's date; if
    `log/YYYY-MM-DD.md` already exists this is a rerun, so use `YYYY-MM-DD-run2`, then `-run3`)
    and read it. It stays next to the log so a pick can be checked later. `status` says which sources worked.
-   It holds Techmeme (what the most outlets cover), the Hacker News front page, Google Trends
-   for India and the US, Google News India for the last 24 hours, Google News India's top
-   Technology stories, today's top AI papers on Hugging Face, Product Hunt launches and
-   GitHub's trending repos. Several of these are where builders talk; Google Trends and
-   Google News are where the public is. Weigh both.
-2. Search the web too: AI and tech news in India today, the tech stories people are talking
-   about on X, Instagram and YouTube right now, and new AI launches today. If most discovery
+   The first three are where the AI world's conversation on X shows up, so weigh them most:
+   AINews (its daily recap of what hundreds of AI accounts on X posted, top posts by
+   engagement first; weekdays only, so on weekends read its latest issue for what is still
+   developing), today's top posts in the main AI subreddits (score and comments show how big
+   a story is), and the latest posts from public AI news channels on Telegram (with views).
+   After those come Techmeme (what the most outlets cover), the Hacker News front page,
+   Google News India's AI stories from the last 24 hours, today's top AI papers on Hugging
+   Face and GitHub's trending repos.
+2. Search the web too: what AI people on X are posting about today, new AI launches today,
+   and AI news in India today. If most discovery
    sources failed, the web search carries the run.
    A story counts if it broke in the last 24 hours, or if it is still big and still developing
    over the last 3 days.
@@ -35,11 +38,14 @@ Nobody is watching this run: never stop to ask, take your own best call at every
      because it changes something for them: their money, work, phone, privacy, or the tools
      they use.
    Every story on the list has an AI or tech core, can be told in one short video, and is backed by
-   a primary source (the company's own post, the paper, the repo, the filing) or two
-   independent reliable outlets.
-5. Pick today's story from the shortlist: the one that makes the strongest reel,
-   whatever its kind. Weigh how many people care, how strong the hook is, what the viewer gets
-   from it, and whether there are real things to show (a demo, a product, a person, a screen).
+   a primary source (the company's own post, including its official post on X, the founder's
+   own post, the paper, the repo, the filing) or two independent reliable outlets. Reddit,
+   Telegram and AINews are leads to the story, not sources for it.
+5. Pick today's story from the shortlist. What counts most is how much the AI world is
+   talking about it today (top posts in AINews, Reddit scores, Telegram views, Hacker News).
+   Then weigh how strong the hook is, what the viewer gets from it, and whether there are real
+   things to show. A big model or product launch is never too hard to show: the company's
+   demo, its video or the before-and-after is the visual.
 
 ## Stage 2: Log
 

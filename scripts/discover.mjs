@@ -4,19 +4,22 @@
  *   node scripts/discover.mjs > /tmp/discovery.json
  *
  * Sources, each fetched on its own so one failing never stops the rest:
+ *   ainews        AINews (Latent Space): its daily recap of what hundreds of AI accounts on X
+ *                 posted, top posts by engagement first, plus AI Reddit and Discord (weekdays)
+ *   reddit        today's top posts in the main AI subreddits, with score and comments; viral
+ *                 X posts, demos and leaks get reposted here within hours
+ *   telegram      the latest posts from public AI news channels on Telegram, with views
  *   techmeme      the tech stories the most outlets are covering, in Techmeme's order
  *   hackerNews    the Hacker News front page, with points, comments and age
- *   googleTrends  what India is searching for today, with search volume and news links
- *   googleTrendsUS  the same for the US, where most tech stories start
- *   googleNews    the last 24 hours of AI and tech news as covered in India
- *   googleNewsTech  Google News India's top Technology stories: what the public is following,
- *                 including big stories that are still developing after a few days
+ *   googleNews    the last 24 hours of AI news as covered in India
  *   hfPapers      today's most upvoted AI papers on Hugging Face (early, often under the radar)
- *   productHunt   today's product launches (new tools people can try)
  *   githubTrending  repos gaining stars fastest today
  *
  * Writes one JSON object: { fetchedAt, status: { source: "ok (n)" | "failed: why" }, ...sources }.
  */
+
+const SUBREDDITS = ['singularity', 'OpenAI', 'ChatGPT', 'LocalLLaMA'];
+const TELEGRAM_CHANNELS = ['aipost', 'hiaimediaen', 'CoreAti'];
 
 const UA = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36' };
 
@@ -41,20 +44,75 @@ const tag = (block, name) => {
 };
 const items = (xml, name = 'item') => [...xml.matchAll(new RegExp(`<${name}[\\s>][\\s\\S]*?</${name}>`, 'g'))].map((m) => m[0]);
 
-async function trends(geo) {
-  return items(await get(`https://trends.google.com/trending/rss?geo=${geo}`)).slice(0, 30).map((b) => ({
-      query: tag(b, 'title'),
-      searches: tag(b, 'ht:approx_traffic'),
-      started: tag(b, 'pubDate'),
-      news: items(b, 'ht:news_item').slice(0, 2).map((n) => ({
-        title: tag(n, 'ht:news_item_title'),
-        url: tag(n, 'ht:news_item_url'),
-        outlet: tag(n, 'ht:news_item_source'),
-      })),
-    }));
-}
-
 const sources = {
+  async ainews() {
+    const xml = await get('https://latent.space/feeds/news.xml');
+    const list = items(xml).length ? items(xml) : items(xml, 'entry');
+    return list.slice(0, 2).map((b) => {
+      const text = (tag(b, 'content:encoded') || tag(b, 'content') || tag(b, 'description') || '')
+        .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+      const start = text.search(/AI Twitter Recap/i);
+      return {
+        title: tag(b, 'title'),
+        link: tag(b, 'link') || (b.match(/<link[^>]*href="([^"]+)"/) || [])[1],
+        published: tag(b, 'pubDate') || tag(b, 'published') || tag(b, 'updated'),
+        twitterRecap: text.slice(Math.max(start, 0), Math.max(start, 0) + 9000),
+      };
+    });
+  },
+
+  async reddit(notes) {
+    const out = [];
+    for (const sub of SUBREDDITS) {
+      try {
+        const data = await get(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=10`, 'json');
+        out.push(...data.data.children.map(({ data: d }) => ({
+          sub,
+          title: d.title,
+          score: d.score,
+          comments: d.num_comments,
+          link: d.url,
+          discussion: `https://www.reddit.com${d.permalink}`,
+        })));
+      } catch (e) {
+        try {
+          const xml = await get(`https://www.reddit.com/r/${sub}/top/.rss?t=day&limit=10`);
+          out.push(...items(xml, 'entry').slice(0, 10).map((b) => ({
+            sub,
+            title: tag(b, 'title'),
+            discussion: (b.match(/<link[^>]*href="([^"]+)"/) || [])[1],
+          })));
+        } catch (e2) {
+          notes.push(`r/${sub} failed: ${e2.message}`);
+        }
+      }
+    }
+    return out;
+  },
+
+  async telegram(notes) {
+    const out = [];
+    const since = Date.now() - 36 * 3600 * 1000;
+    for (const ch of TELEGRAM_CHANNELS) {
+      try {
+        const html = await get(`https://t.me/s/${ch}`);
+        const posts = html.split('tgme_widget_message_wrap').slice(1).map((b) => ({
+          channel: ch,
+          text: decode((b.match(/js-message_text[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '').slice(0, 400),
+          views: (b.match(/tgme_widget_message_views">([^<]+)</) || [])[1] || '',
+          date: (b.match(/<time[^>]*datetime="([^"]+)"/) || [])[1] || '',
+          link: `https://t.me/${(b.match(/data-post="([^"]+)"/) || [])[1] || ch}`,
+        }));
+        const fresh = posts.filter((p) => p.text && (!p.date || Date.parse(p.date) >= since));
+        if (!fresh.length) notes.push(`${ch}: no posts in the last 36 hours`);
+        out.push(...fresh.slice(-15));
+      } catch (e) {
+        notes.push(`${ch} failed: ${e.message}`);
+      }
+    }
+    return out;
+  },
+
   async techmeme() {
     return items(await get('https://www.techmeme.com/feed.xml')).slice(0, 20).map((b, i) => ({
       rank: i + 1,
@@ -78,21 +136,8 @@ const sources = {
     }));
   },
 
-  googleTrends: () => trends('IN'),
-  googleTrendsUS: () => trends('US'),
-
-  async googleNewsTech() {
-    const url = 'https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en';
-    return items(await get(url)).slice(0, 40).map((b) => ({
-      title: tag(b, 'title'),
-      link: tag(b, 'link'),
-      outlet: tag(b, 'source'),
-      published: tag(b, 'pubDate'),
-    }));
-  },
-
   async googleNews() {
-    const q = encodeURIComponent('(AI OR "artificial intelligence" OR OpenAI OR Google OR Apple OR smartphone OR startup) when:1d');
+    const q = encodeURIComponent('(AI OR "artificial intelligence" OR OpenAI OR ChatGPT OR Gemini OR Anthropic OR Claude OR Nvidia OR DeepSeek OR Grok) when:1d');
     return items(await get(`https://news.google.com/rss/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`)).slice(0, 30).map((b) => ({
       title: tag(b, 'title'),
       link: tag(b, 'link'),
@@ -114,16 +159,6 @@ const sources = {
       .slice(0, 10);
   },
 
-  async productHunt() {
-    const xml = await get('https://www.producthunt.com/feed');
-    const entries = items(xml, 'entry').length ? items(xml, 'entry') : items(xml);
-    return entries.slice(0, 20).map((b) => ({
-      title: tag(b, 'title'),
-      link: (b.match(/<link[^>]*href="([^"]+)"/) || [])[1] || tag(b, 'link'),
-      summary: (tag(b, 'content') || tag(b, 'description') || '').slice(0, 250),
-    }));
-  },
-
   async githubTrending() {
     const html = await get('https://github.com/trending?since=daily');
     return [...html.matchAll(/<article class="Box-row">([\s\S]*?)<\/article>/g)].slice(0, 15).map(([, a]) => {
@@ -141,10 +176,11 @@ const sources = {
 const out = { fetchedAt: new Date().toISOString(), status: {} };
 await Promise.all(
   Object.entries(sources).map(async ([name, fn]) => {
+    const notes = [];
     try {
-      const list = await fn();
+      const list = await fn(notes);
       out[name] = list;
-      out.status[name] = list.length ? `ok (${list.length})` : 'failed: empty';
+      out.status[name] = (list.length ? `ok (${list.length})` : 'failed: empty') + (notes.length ? `; ${notes.join('; ')}` : '');
     } catch (e) {
       out[name] = [];
       out.status[name] = `failed: ${e.message}`;
