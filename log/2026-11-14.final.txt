@@ -1,0 +1,17 @@
+OpenAI just let ChatGPT spend your money. You save your card once, and its AI agent shops and pays for you. But last week Visa tested 22 AIs as shoppers, and when they got it wrong, half the time they still hit buy. Here's what's actually protecting your card.
+
+OpenAI just let ChatGPT spend your money. You save your card once, and its AI agent shops and pays for you. But last week Visa tested 22 AIs as shoppers, and when they got it wrong, half the time they still hit buy. So what's actually protecting your card?
+
+This week OpenAI launched ChatGPT Wallet. It works with ChatGPT's AI agents, which OpenAI calls dots. You add a Visa, Mastercard or Amex card one time. Then you just say, find me a laptop under this budget, and buy it. The agent helps you choose, fills the checkout, and pays.
+
+Here's the clever part. The AI never sees your card number. Neither does the shop. For every purchase, the card network creates a one-time stand-in, a token, with its own number, its own CVV, its own expiry. If it leaks, it's useless.
+
+And before anything is charged, you see the items, the total and the card, and you approve it with Face ID or your fingerprint. Your card's rewards and dispute protection still apply.
+
+Now the catch. Visa ran its own test, 22 AI models from 12 labs, doing 15 shopping tasks like buying a TV or a laptop. 42.8% of the runs failed. And in 54% of those failed runs, the AI still made a purchase. That test wasn't on ChatGPT Wallet, and it didn't test payment. But it shows why that Face ID tap matters.
+
+Here's the twist. OpenAI says next it wants to add spending limits and rules, so you can pre-approve purchases and the agent buys more on its own. Not everyone's on board. Amazon blocks AI agents from buying on its site. United Airlines just said it will cancel bookings AI agents make.
+
+For now, it's only for some ChatGPT Pro users in the US. No India date yet.
+
+So remember this. The AI doesn't get your card number. It gets a one-time token. The only thing standing between it and a wrong order, is your thumb.
