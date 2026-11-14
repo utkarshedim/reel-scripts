@@ -1,15 +1,7 @@
-# Reel scripts
+# Daily top 10
 
-Every day a scheduled task follows `PIPELINE.md`: it finds what's buzzing, rising or important
-in AI and tech, picks one story for a reel, logs it in `log/` (with every covered topic in
-`topics.txt`, so stories don't repeat), writes the script with `SCRIPT_PROMPT.md` and sends the
-final script to Telegram.
+Every morning a scheduled task follows `PIPELINE.md`: it searches the web for the last 24 hours
+of AI and tech news, picks the 10 biggest stories, saves the list in `log/` and sends it to
+Telegram with `scripts/send-telegram.mjs`.
 
-`node scripts/discover.mjs` gathers the raw signals from free sources (no keys): AINews (its
-recap of AI on X), public AI channels on Telegram, Techmeme, Hacker
-News, Google News India's AI stories, Hugging Face papers and GitHub trending. The Telegram
-channels are listed at the top of the script.
-
-To make a video on your own topic, write it (words, a link, or both) in `inbox.txt` and press
-"Run now" on the task, or leave it for the next daily run. One story per line; each run takes
-the first one.
+`SCRIPT_PROMPT.md` is Utkarsh's script-writing prompt, kept for later; the daily run doesn't use it.
