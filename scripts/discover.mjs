@@ -8,7 +8,8 @@
  *                 posted, top posts by engagement first, plus AI Reddit and Discord (weekdays)
  *   reddit        today's top posts in the main AI subreddits, with score and comments; viral
  *                 X posts, demos and leaks get reposted here within hours
- *   telegram      the latest posts from public AI news channels on Telegram, with views
+ *   telegram      the latest posts from public AI news channels on Telegram, with views, plus
+ *                 Watcher Guru's breaking news filtered to AI and tech
  *   techmeme      the tech stories the most outlets are covering, in Techmeme's order
  *   hackerNews    the Hacker News front page, with points, comments and age
  *   googleNews    the last 24 hours of AI news as covered in India
@@ -19,7 +20,10 @@
  */
 
 const SUBREDDITS = ['singularity', 'OpenAI', 'ChatGPT', 'LocalLLaMA'];
-const TELEGRAM_CHANNELS = ['aipost', 'hiaimediaen', 'CoreAti'];
+const TELEGRAM_CHANNELS = ['aipost', 'hiaimediaen', 'CoreAti', 'watcherguru'];
+// General breaking-news channels: keep only their posts about AI and tech.
+const AI_ONLY_CHANNELS = ['watcherguru'];
+const AI_WORDS = /\b(AI|A\.I\.|artificial intelligence|OpenAI|ChatGPT|GPT|Anthropic|Claude|Gemini|Google|DeepMind|Grok|xAI|Nvidia|Meta|Microsoft|Apple|Tesla|robot\w*|chip\w*|DeepSeek|Perplexity|Musk|Altman|Zuckerberg|tech)\b/i;
 
 const UA = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36' };
 
@@ -93,19 +97,30 @@ const sources = {
   async telegram(notes) {
     const out = [];
     const since = Date.now() - 36 * 3600 * 1000;
+    const parse = (html, ch) => html.split('tgme_widget_message_wrap').slice(1).map((b) => ({
+      channel: ch,
+      id: Number(((b.match(/data-post="[^"/]+\/(\d+)"/) || [])[1]) || 0),
+      text: decode((b.match(/js-message_text[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '').slice(0, 400),
+      views: (b.match(/tgme_widget_message_views">([^<]+)</) || [])[1] || '',
+      date: (b.match(/<time[^>]*datetime="([^"]+)"/) || [])[1] || '',
+      link: `https://t.me/${(b.match(/data-post="([^"]+)"/) || [])[1] || ch}`,
+    }));
     for (const ch of TELEGRAM_CHANNELS) {
       try {
-        const html = await get(`https://t.me/s/${ch}`);
-        const posts = html.split('tgme_widget_message_wrap').slice(1).map((b) => ({
-          channel: ch,
-          text: decode((b.match(/js-message_text[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '').slice(0, 400),
-          views: (b.match(/tgme_widget_message_views">([^<]+)</) || [])[1] || '',
-          date: (b.match(/<time[^>]*datetime="([^"]+)"/) || [])[1] || '',
-          link: `https://t.me/${(b.match(/data-post="([^"]+)"/) || [])[1] || ch}`,
-        }));
-        const fresh = posts.filter((p) => p.text && (!p.date || Date.parse(p.date) >= since));
-        if (!fresh.length) notes.push(`${ch}: no posts in the last 36 hours`);
-        out.push(...fresh.slice(-15));
+        // A channel page shows only its latest ~20 posts, so page back (up to 3 pages) to cover 36 hours.
+        let posts = [];
+        let url = `https://t.me/s/${ch}`;
+        for (let page = 0; page < 3; page++) {
+          const batch = parse(await get(url), ch);
+          posts = batch.concat(posts);
+          const oldest = batch.filter((p) => p.id).sort((a, b) => a.id - b.id)[0];
+          if (!oldest || !oldest.date || Date.parse(oldest.date) < since) break;
+          url = `https://t.me/s/${ch}?before=${oldest.id}`;
+        }
+        let fresh = posts.filter((p) => p.text && (!p.date || Date.parse(p.date) >= since));
+        if (AI_ONLY_CHANNELS.includes(ch)) fresh = fresh.filter((p) => AI_WORDS.test(p.text));
+        if (!fresh.length) notes.push(`${ch}: no matching posts in the last 36 hours`);
+        out.push(...fresh.slice(-20).map(({ id, ...p }) => p));
       } catch (e) {
         notes.push(`${ch} failed: ${e.message}`);
       }
