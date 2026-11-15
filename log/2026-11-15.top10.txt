@@ -1,0 +1,37 @@
+Top 10 AI and tech, November 15, 2026
+
+1. Big Nvidia investors ask the board to keep the door open for Jensen Huang
+Altimeter's Brad Gerstner and Atreides' Gavin Baker urged Nvidia's board to "pursue a slow, measured, and deliberate process" on its next CEO and to consider "the potential return" of Huang, without demanding he be reinstated. A "Stand with Jensen" petition claims more than 100,000 signatures, including Elon Musk, though the count is not independently verified. Nvidia has not responded publicly.
+https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html
+
+2. Washington Post: Rubio sharpened the CIA report that helped topple Huang
+According to the Post, Secretary of State Marco Rubio rewrote a CIA report on Alice Huang "in his own more assertive terms" for a memo to Trump. The Post says CIA officials are not yet convinced she knowingly passed information to Beijing, and some intelligence officials called the memo "over-torqued". The spy allegation remains unproven.
+https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/
+
+3. SpaceX catches a Starship upper stage with the launch tower for the first time
+On Saturday, the tower's arms at Starbase, Texas, caught Ship 42 after about 22.5 hours in orbit on Flight 15, during which it deployed 26 Starlink V3 satellites. The Super Heavy booster had aborted its own catch on Friday and splashed down in the Gulf of Mexico.
+https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt
+
+4. Duffy blames contractor L3Harris for Friday's nationwide FAA ground stop
+Transportation Secretary Sean Duffy said a router installed during copper-to-fiber work at a remote FAA site "started flooding other routers" in the air traffic system, but said officials have not yet determined whether it was L3Harris's error or a faulty router. More than 6,400 US flights were canceled on Saturday, according to FlightAware. L3Harris said it is supporting the investigation.
+https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html
+
+5. Italy fines Meta 805 million euros over Android photo access
+Italy's data protection agency says a Facebook feature that suggests gallery content accessed about 20 million Italian Android users' photos and videos without consent. Meta has 60 days to switch the feature off by default and ask for separate consent; it calls the fine "disproportionate" and will appeal.
+https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html
+
+6. Tesla's Cybercab contract: no $299 subscription, no driving
+The Cybercab ownership agreement says "Your Cybercab will not operate without an active Autonomy Subscription", limits the car to Tesla robotaxi zones that Tesla can change at any time, and bans commercial use without Tesla's permission. Electrek puts the five-year cost at about $47,631 for the $29,990 car plus subscription.
+https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/
+
+7. Applied Digital asks Oracle and Meta for billions in guarantees before signing leases
+Bloomberg reports that the data center developer has asked investment-grade tenants such as Oracle and Meta for multibillion-dollar guarantees since at least last year to pay for power, and has sought case-by-case guarantees from Nvidia and AMD. Meta, Nvidia and AMD did not comment.
+https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep
+
+8. White House AI task force wants 12 months of liability relief for firms that report cyber incidents
+Bloomberg reports that the task force recommended agencies ease regulatory liability for at least 12 months for companies that report cyber vulnerabilities and incidents in good faith, including AI-related ones. It has not said which regulators would grant the relief or when.
+https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure
+
+9. Musk says Grok's text watermark is off unless required by law or turned on by users
+In a Saturday post, Musk said Grok's invisible text watermark is active only when the law demands it or a user switches it on. That confirms a reversal of xAI's plan to watermark Grok API text by default from November 7.
+https://x.com/elonmusk/status/2121644169462681818
