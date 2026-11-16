@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 16, 2026 (run 2)
+
+1. Apple launches a research study on how people use AI for health questions
+Apple's Health AI Usage Study, built with OpenEvidence, gives US iPhone users an app that answers everyday health questions with peer-reviewed citations. It will look at trust, answer quality and whether AI helps people prepare for doctor visits. Apple says study data won't be used to train AI models, and the app does not diagnose or treat conditions.
+https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/
+
+2. OpenAI starts a science blog with a physics result credited largely to GPT-6 Astra
+The first guest post, by UC Santa Barbara physicist Nathaniel Craig, describes a candidate lattice definition of the Standard Model. Craig credits GPT-6 Astra with leading the detailed proof, which comes with a Lean 4 formalization. He calls it "more an answer in principle than an answer in practice".
+https://openai.com/index/step-toward-defining-the-standard-model/
+
+3. Breach at La Poste subsidiary Maileva exposes data on 22 million people
+La Poste confirmed that hackers took names and postal addresses of about 22 million recipients of mail sent by Maileva's business customers. Many of them never had a Maileva account. Maileva has notified France's data regulator CNIL and a criminal investigation is under way. Coverage spread over the weekend after the disclosure late last week.
+https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html
+
+4. Judge lets DRAM price-fixing lawsuit against Samsung, SK Hynix and Micron proceed
+US District Judge Noel Wise refused to dismiss a class action alleging the three memory makers conspired to restrict supply of conventional DRAM by shifting production to AI-focused HBM. The claims have not been proven; the case now moves forward.
+https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit
+
+5. India's Bharat Semi raises a $24 million seed round for AI image sensors
+The New Delhi startup is building programmable sensors that combine image capture, processing and AI on one chip, and claims system cost savings of at least 70%. Info Edge, South Park Commons and Indus Bridge Ventures led the round. The company is pre-revenue and targets commercial production in 2027.
+https://india.entrepreneur.com/business-news/bharat-semi-raises-usd-24-mn-for-ai-enabled-image-sensors
+
+6. Germany's Daisytuner raises 6 million euros to run AI models across non-Nvidia chips
+The seed round was led by Elaia and LEA Ventures. Alongside it the startup launched Daisyflow, an inference engine meant to run models efficiently on Nvidia, AMD and newer accelerators.
+https://eu-startups.com/2026/11/germanys-daisytuner-raises-e6-million-to-make-ai-models-run-faster-across-nvidia-amd-and-emerging-chips
+
+7. Duffy says US flights should be back at full capacity on Monday
+Transportation Secretary Sean Duffy told CBS on Sunday that despite remaining delays, "we should be running at full capacity" by Monday after Friday's nationwide FAA ground stop. More than 14,000 flights were cancelled on Friday and Saturday. Investigators are still checking whether contractor L3Harris made an installation error or installed a faulty router.
+https://www.yahoo.com/news/us/articles/duffy-expects-flights-return-full-145537758.html
+
+8. Thousands march in Edinburgh against AI data centres in Scotland
+A coalition including Friends of the Earth Scotland, backed by more than 80 groups, protested over 20-plus proposals for hyperscale AI data centres, citing environmental and local impacts. The Scottish government says it will publish new planning guidance for data centres before the end of the year.
+https://www.edinburghnews.scotsman.com/news/edinburgh-protests-ai-data-centres-thousands-join-march-nation-conversation-9351417
+
+9. Anthropic IPO demand reportedly rises to about seven times the shares on offer
+A newer Bloomberg report puts orders near seven times the available shares, up from about six last week. Underwriters have told buyers Anthropic will favor existing backers. Pricing is expected Wednesday in a $70-$78 range, with Nasdaq trading under "ANT" expected from Thursday. The figures come from unnamed sources and could change.
+https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-reportedly-oversubscribed-7-035659320.html
+
+10. NASA: Voyager 1 reaches one light-day from Earth this week
+NASA says the 49-year-old probe will be 24 light-hours (about 25.9 billion km) from Earth at 5:16 a.m. Eastern on Wednesday, November 18. Its signals will take a full day to reach us. NASA expects to lose contact around 2036.
+https://www.sciencenews.org/article/voyager-1-light-day-exploration
