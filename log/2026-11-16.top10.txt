@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 16, 2026
+
+1. FT: Jensen Huang has discussed a comeback as Nvidia CEO
+The Financial Times reported on Sunday, citing people familiar with the matter, that Huang is considering a return and has discussed it with confidants, days after he resigned. Neither Huang nor Nvidia has confirmed any plan to return.
+https://ca.finance.yahoo.com/news/jensen-huang-discusses-comeback-nvidia-192628556.html
+
+2. Bessent tells Nvidia to hire an outside CEO and answer export questions within 10 days
+On Fox News' Sunday Morning Futures, Treasury Secretary Scott Bessent said Nvidia must "go outside the company" for its next CEO and needs a "dramatic shakeup". He said the board and outside counsel should answer questions about Nvidia's compliance with chip export curbs within 10 days. Colette Kress remains interim CEO.
+https://www.thestar.com.my/tech/tech-news/2026/11/16/bessent-says-nvidia-must-039go-outside-the-company039-to-find-new-ceo
+
+3. Asian chip stocks slide on Monday ahead of Nvidia's earnings
+Bloomberg reports MSCI's gauge of Asian shares fell 1.3%, with tech-heavy benchmarks in Taiwan and South Korea down at least 2.7% each, as the Nvidia leadership crisis weighs on chipmakers. Nvidia reports quarterly results on Tuesday, and Anthropic is set to price its IPO on Wednesday.
+https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates
+
+4. ULA's Vulcan fails in flight, destroying 40 Amazon Leo satellites
+The rocket launched from Cape Canaveral on Sunday and suffered an anomaly about 10 minutes into flight, failing to put the 40 broadband satellites into orbit. It is ULA's first total mission failure since the company was formed in 2006; the cause is not yet known.
+https://www.aa.com.tr/en/americas/us-rocket-firm-ula-fails-to-deploy-40-amazon-leo-satellites-after-flight-anomaly/4126036
+
+5. NYT: Lutnick pushed narrower chip export rules that would spare a Cantor-linked data center
+The New York Times reports Commerce Secretary Howard Lutnick backed rules covering only seven countries and future shipments, which would spare Bitdeer's planned Malaysia data center; Cantor Fitzgerald, now run by his sons, has handled Bitdeer's stock offerings. The Times found no evidence Cantor's ties influenced him, and ethics officials say he followed the rules. The rules are still under debate.
+https://www.inquirer.com/news/nation-world/howard-lutnick-commerce-secretary-rules-data-centers-nvidia-chips-china-southeast-asia-cantor-fitzgerald-20261115.html
+
+6. US and eight partners sign a pact to shield AI supply chains from China
+The FT reports the US, Japan, Australia, Israel, the UK, South Korea, India, Qatar and the UAE signed a San Francisco Declaration under the Pax Silica initiative, agreeing to build a joint list of critical technologies and AI supply chains to protect. The list itself has not been drawn up yet. It comes ahead of Trump's meeting with Xi Jinping.
+https://www.yahoo.com/news/politics/articles/report-us-allies-sign-accord-181215730.html
+
+7. Alibaba releases Qwen4-Max
+Alibaba's new flagship model has a 1 million token context window and API pricing from $1.50 per million input tokens; Alibaba claims it cut average agent task cost from $4.43 to $1.67 versus Qwen3.8-Max on its own test. The model is not open-weight, though Alibaba says smaller Qwen4 models will be.
+https://runtimewire.com/article/alibaba-qwen4-max-launch-1m-context-pricing
+
+8. Bloomberg: Apple plans to unveil Siri-driven smart glasses at WWDC 2027
+Mark Gurman reports Apple is considering unveiling its first smart glasses, code-named N50, at WWDC in June 2027 and shipping them by the end of that year. They would rely on a paired iPhone and let users control third-party apps through Siri. Apple has not announced anything and the schedule is not final.
+https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/
+
+9. Australian supermarket giant Coles investigates a cyber incident
+Coles told the ASX on Monday it is investigating a weekend cyber security incident and has so far found "no evidence that customer, team or supplier data has been compromised or removed". Stores and online shopping are operating normally.
+https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134
+
+10. FAA technicians' union says Friday's nationwide ground stop was avoidable
+The PASS union says the outage came from "two contractor owned and maintained routers that were being updated mid-day" and that its technicians were left out of the usual FAA risk assessment for the work. These are union claims; the investigation into the cause is ongoing.
+https://aviationa2z.com/index.php/2026/11/16/faa-union-says-nationwide-ground-stop-was-avoidable-after-missing-risk-assessment/
