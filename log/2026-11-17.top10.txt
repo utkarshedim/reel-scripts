@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 17, 2026
+
+1. Google catches the first fully autonomous AI hacking pipeline in the wild
+Google's Threat Intelligence Group says it found "exploit_agent" on an exposed server: a framework wired to several LLMs that watches for security patches, works out the flaw from the code changes, then writes and runs the exploit with no human involved. It mostly hit French media, entertainment and education sites. Two months ago GTIG said it hadn't seen anything like this yet.
+https://www.siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/
+
+2. OpenAI launches computer-use agents for hospitals and insurers
+Powered by GPT-6 Astra and GPT-6 Luna, the agents click and type through existing health record systems and payer portals where there's no API. OpenAI also shipped better clinical search with citations and 20+ healthcare plugins. CVS Health and Cigna are early users; OpenAI says reviewers rated 99% of Astra's actions on 325 clinical tasks as safe (its own evaluation).
+https://hitconsultant.net/2026/11/16/openai-launches-healthcare-computer-use-agents-clinical-search-20-plugins/
+
+3. AMD completes its World Labs acquisition; Fei-Fei Li becomes AMD's chief scientist
+World Labs builds AI models that generate and simulate interactive 3D worlds, used for things like robot training. Li joins as executive vice president and chief scientist reporting to Lisa Su, and the team keeps doing model research alongside AMD's chip engineers.
+https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/
+
+4. Nvidia's Vera Rubin tops every MLPerf Training benchmark in its debut
+Nvidia says the Vera Rubin NVL72 delivered up to 2x the per-GPU training performance of GB300, and it scaled DeepSeek-V3 training from 256 to 1,024 GPUs at about 97% efficiency, cutting the run from 16 minutes to about 4. Some inference figures are still pending MLCommons verification. Nvidia reports earnings after the close today.
+https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/
+
+5. Remedy Robotics raises $62M for a robot that can do heart and brain artery procedures
+Its N1 system plans cases from scans and can perform endovascular procedures on-site, remotely or autonomously. DCVC led the Series B. The robot isn't approved for clinical use yet; the money funds a pivotal trial with the University of California on the way to FDA approval.
+https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html
+
+6. Google Maps can now plan whole trips and call businesses for you
+Ask Maps builds day-by-day itineraries with numbered stops, live traffic and opening hours, which you can share or export to Google Docs. It can also find open appointments and phone local shops on your behalf. Rolling out on Android and iOS, and expanding to 30 European countries including the UK, Germany and Spain.
+https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/
+
+7. Tencent's Hy4 Flash cuts prices by about 90% versus its flagship model
+The new multimodal model costs $0.07 per million input tokens and $0.28 per million output tokens on Tencent Cloud, with a context window of up to about 1 million tokens. Tencent says an open-weight version is planned but gave no date.
+https://www.unite.ai/tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model/
+
+8. AI security startup Corma hits a $1B valuation about three months after launch
+Corma, which trains AI models and agents to defend networks, raised a $125M Series A led by NEA, bringing total funding to $185M with Sequoia, Khosla and Coatue also on board. Demand jumped after a wave of security incidents in October.
+https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/
+
+9. Researcher finds Windows 11 tracks which AI coding agents you run
+A Windows component checks running programs against a list of coding agents and dev tools (like Claude Code, Codex and Cursor) and records which were used. With "optional diagnostic data" on, which was the default on the test machine, the report was queued for upload to Microsoft. No prompts or code were collected. Tested on one machine; Microsoft hasn't commented.
+https://xusheng.dev/posts/windows-coding-agent-telemetry/
+
+10. Caltech math professor stops grading homework for accuracy because of AI
+Yi Ni says he can't reliably tell whether students used AI, so problem sets are now graded only for completion and in-person exams carry the weight. Math is especially exposed because short symbolic answers leave little trace of the student's reasoning.
+https://www.yahoo.com/news/science/articles/caltech-math-professor-no-longer-180656639.html
