@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 18, 2026
+
+1. OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol
+Astra is the model for hard, multi-step projects; Sol is the cheaper everyday model for coding, writing and agents. Astra's API price drops 20% to $8/$40 per million input/output tokens, while Sol stays at $2/$10. Artificial Analysis ranks Astra second on its Intelligence Index, behind only Anthropic's Claude Fable 5.2, and says Sol matches the old GPT-6 Astra at about 15% of the cost per task. OpenAI's own system card says both models hit its "Critical" level for cybersecurity.
+https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol
+
+2. Nvidia posts $115.8B quarter, more than double last year, as its board rules out Jensen Huang's return
+Data center revenue hit $107.6B, the new Vera Rubin chips brought in nearly $20B in their first quarter of shipments, and Nvidia guided $130B for next quarter, assuming no China data center sales. It also added $150B to its buyback. Board chair Harvey Jones said the board "does not intend to reinstate Jensen as CEO"; Colette Kress remains interim CEO. The stock rose about 4% after hours before giving back most of the gain.
+https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm
+
+3. DeepMind spinout Isomorphic Labs raises $5B, the biggest private biotech round ever
+Greenoaks and Sequoia co-led the Series C, with a16z joining and Alphabet investing again. It comes about six months after a $2.1B round, and the money goes to scaling its AI drug-design engine and taking its first AI-designed drug candidates into clinical trials. No valuation was disclosed; Bloomberg had reported talks at about $50B.
+https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+
+4. Gemini Tasks goes free: Google's agent can now call businesses, book appointments and buy things for you
+Previously limited to paid tiers, Tasks is now free in several countries including the US and India. It can phone businesses (saying upfront it's an AI), sign into websites, and complete purchases through Google Pay after you set a spending limit and approve sensitive steps. You can also hand it tasks by text or email.
+https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
+
+5. AI found a critical Java bug in about an hour, for under $200
+Security startup Calif says a researcher using OpenAI's Codex found "Java4Shell", a memory-corruption flaw in OpenJDK's Base64 decoder that could let attackers read memory or run their own code. Calif says Java runs at about 90% of Fortune 500 companies; Oracle has patched it and CISA issued an alert. No attacks in the wild had been reported.
+https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/
+
+6. Microsoft launches its own MAI models for coding, security, images and voice at Ignite
+The headline is MAI Code 2, which Microsoft says gets about 98% of GPT-6.1 Sol's quality at around 40% of the price on its own benchmarks, now in GitHub Copilot. It also showed a cyber model, an image model it says tops the Artificial Analysis image-editing ranking, and its first live speech-to-speech model at $0.01 per minute. It's a clear sign Microsoft wants to rely less on OpenAI and Anthropic.
+https://testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026
+
+7. Genesis AI raises $500M at a $3.5B valuation for robots trained by humans wearing sensor gloves
+More than 100 workers wear sensor gloves and head cameras so the robots can learn from how human hands move, and the robot hands are built to human size. Khosla, Premji Invest and Eclipse led, with Nvidia and AMD also investing. About 30 to 40 of its Eno robots are in pilots, with mass production planned for 2027; for now the hands need replacing every few weeks.
+https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation
+
+8. Boston Dynamics' Atlas humanoid heads into chip factories
+GlobalFoundries will trial Atlas at its semiconductor plants from early 2027, the robot's first test outside the car industry. The two companies will work out which fab tasks a humanoid can take on; the first jobs haven't been named. Spot robot dogs are also going to GlobalFoundries sites in the US, Germany and Singapore.
+https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/
+
+9. Spotify lets every artist block AI fakes from showing up under their name
+After an eight-month beta, Artist Profile Protection is open to all artists: they can review releases put out under their name and remove ones that aren't theirs, or require approval before anything appears. Scammers have been uploading AI-generated songs under real artists' names to collect royalties.
+https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/
+
+10. Suno now turns your AI songs into music videos
+The new Visuals feature makes clips of up to 15 seconds, including lyric videos, album art and clips built from your own photo, that follow the song's structure and lip-sync to the lyrics. Clips can be stitched into a full video. It runs on a MiniMax-based model, uses separate paid credits, and blocks prompts showing real artists or public figures.
+https://www.unite.ai/suno-launches-visuals-for-ai-generated-lyric-videos-and-album-art/
