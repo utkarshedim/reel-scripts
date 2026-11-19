@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 19, 2026
+
+1. Anthropic prices the biggest IPO ever: $83 a share, about $81.3B raised, trading today
+The Claude maker priced above its $70 to $78 range, with orders reportedly near seven times the shares on offer. The deal tops SpaceX's $75B base offering as the largest IPO on record and values Anthropic at about $1.5 trillion, roughly level with Tesla. Shares start trading on Nasdaq today under the ticker ANT.
+https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock
+
+2. OpenAI says its models improved AMD's flagship GPU design by up to 14%
+OpenAI's models rewrote parts of the chip's circuit code and found gains in power, performance and area on top of designs AMD had already heavily optimized. OpenAI says that's about a year of progress done in under five months, and AMD has put some changes into a design already sent for manufacturing. It's a circuit-level result reported by OpenAI, not a promise of a 14% faster chip.
+https://openai.com/index/advancing-chip-design-with-our-models/
+
+3. Google opens Genie 4 to subscribers: AI worlds you can walk through and change by typing
+Genie 4 generates explorable 3D worlds with sound, music and dialogue for the first time, and you can type mid-session to change the weather, add a character or redirect what happens. It's now live for Google AI Ultra subscribers in Project Genie, with a waitlist for AI Pro. Google still calls it experimental: details drift the longer a world runs.
+https://thenextweb.com/news/google-genie-4-project-genie-ai-ultra-world-model
+
+4. Palo Alto Networks buys AI startup Applied Compute for $4.5B
+Applied Compute helps companies adapt open-weight AI models to their own data and run them in production; Palo Alto will build it into its security products. The all-stock deal lands well above the startup's last private valuation, and its CEO Yash Patil becomes Palo Alto's co-chief AI officer. Palo Alto shares rose about 9% after hours alongside strong earnings.
+https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/
+
+5. Snapchat lets anyone build AR Lenses by talking to Claude Code, Cursor or Codex
+The new Easy Lens CLI gives AI coding assistants more than 100 AR building blocks and 50 AI asset generators, so a creator can describe a Lens in plain words and the assistant builds, tests, publishes and tracks it. Snapchat says a game can go from idea to live in a day, and creators can earn from Lenses through its payouts program, which paid out $1.8M last month.
+https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+
+6. India's Humyn Labs raises $47M to sell robots the human data they learn from
+The Bengaluru startup records people doing everyday tasks with its own two-camera headset and sells the footage to robotics companies, about 90% of them in the US. It says it reached $50M in annualized revenue within six months. Accel led the $26M equity part; the rest is venture debt.
+https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
+
+7. MIT researchers train an AI model to run a real robot using only simulation
+MIT's Han Lab fine-tuned Qwen3.8-27B entirely in simulated environments, then put it on a real dual-arm robot: it succeeded in 18 of 30 trials, while the original model succeeded in none. No real-robot training data was used. It's an early preprint with a small test, but it points to a cheaper way to teach robots.
+https://arxiv.org/abs/2611.18562
+
+8. ChatGPT dictation now types as you speak, with no 10-minute limit
+Live Dictation streams your words into text in real time instead of making you wait until you stop recording, and the 10-minute cap is gone. It's rolling out to all ChatGPT plans, free included, on iOS, Android, web and desktop.
+https://runtimewire.com/article/openai-makes-chatgpt-dictation-stream-live-and-drops-its-10-minute-cap
+
+9. HeyGen's Avatar 6 makes AI video clones harder to tell from the real person
+The new model builds an avatar from a single photo (plus an optional short clip), matches gestures to the meaning of the script, renders up to 2K, and can make continuous videos of nearly half an hour. HeyGen says 84% of people in its tests rated the avatar as realistic as the real person (company-run tests). Existing avatars get the upgrade automatically.
+https://www.heygen.com/research/avatar-6-model
+
+10. Google adds an incognito mode to AI Mode in Search
+New "temporary threads" keep your AI Mode conversations out of your search history and out of future recommendations. It's rolling out globally on desktop and mobile in all supported languages, through an icon in the top-right corner of AI Mode.
+https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
