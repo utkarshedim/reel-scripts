@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 20, 2026
+
+1. Anthropic ends its first trading day up 17%, worth about $1.76 trillion
+After pricing at $83, ANT opened at $111.50, swung as high as about $115, then closed at $97.17 on a day the Nasdaq fell 1.7%. That close puts the Claude maker's fully diluted value at about $1.76 trillion, above Tesla. It slipped about 5% in after-hours trading.
+https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/
+
+2. Google's Gemini 4 Neon: about twice as fast as its flagship, at a lower price
+Neon runs at about 110 tokens per second, nearly double Gemini 4 Carbon, and costs $3/$15 per million input/output tokens with a 1M-token context. Artificial Analysis puts it third on its Intelligence Index, behind GPT-6.2 Astra and Claude Fable 5.2, and first on its coding-agent ranking, ahead of Claude Opus 5.5 at about half the cost per task. It's Google's fourth new model in seven weeks.
+https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/
+
+3. OpenAI: its agents now finish 46% of 2-to-4-hour research tasks on their own
+That's up from 23% in March; for 4-to-8-hour tasks it rose from 13% to 35%. The report shows how unevenly AI is speeding up AI research: agents handle monitoring training runs well and serving code poorly, and more than half of long tasks still need a human. These are OpenAI's own estimates.
+https://openai.com/index/research-acceleration-jagged-frontier/
+
+4. Google books Blue Origin's New Glenn to launch AI data centers into orbit
+Project Suncatcher plans solar-powered satellites full of Google TPUs, each with roughly a data-center rack's worth of compute, linked by lasers. The first dedicated launch is targeted for early 2029. A prototype already in orbit has run Google's Gemma model; a two-satellite demo is planned for 2027.
+https://www.unite.ai/google-plans-orbital-ai-satellite-launch-on-blue-origins-new-glenn/
+
+5. Apple is building an AI agent that can use apps, browse and write code for you
+Job listings reported by Bloomberg describe a proactive agent that "chooses the right tool for each step" across Siri and Apple's own models, Apple's answer to Meta's Muse, Google's Tasks and Anthropic's Claude Duet. Apple has announced nothing; earlier reporting pointed to an agent-like Siri in 2027.
+https://www.macrumors.com/2026/11/19/apple-ai-agent-development/
+
+6. Your bank says: if your AI agent gets hacked, you pay
+Citi and PNC have changed their terms so customers are responsible for anything done through third-party AI agents they give account access to, even if the agent leaks credentials. Citizens warned customers the same way, after JPMorgan and Bank of America did in October. Worth knowing before you let an AI assistant pay your bills.
+https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+
+7. A human liver kept alive outside the body for a record seven weeks
+An Australian team used an automated, sensor-driven perfusion machine at body temperature; the previous record was about two weeks. Average survival on the system tripled to about four weeks, and one organ lasted seven. It isn't peer reviewed yet, but it opens doors for testing drugs on real human organs and, one day, longer-lasting transplants.
+https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/
+
+8. MIT's paperclip-weight flying robot now carries its own sensors and brain
+The insect-sized flapping-wing robot flew a set path and landed on a sunflower using only onboard sensors and a microcontroller, no lab motion-capture system, to within a few centimeters. It's still tethered to outside power, but it's a step toward tiny robots for pollination or search and rescue. Published in Science Robotics.
+https://computing.mit.edu/news/this-featherweight-flying-robot-carries-its-own-sensors-and-computers/
+
+9. Google's Stitch Loop: an AI agent that keeps improving your app after launch
+The experimental Google Labs agent connects to your codebase and live product metrics, finds problems with security, speed or accessibility, writes fixes in a cloud sandbox and opens pull requests for you to approve. You can add your own goals, like raising checkout conversion. A global waitlist is open, with priority for AI Ultra users.
+https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/
+
+10. Kling Image 4.0 generates native 8K images with real, readable text
+Kuaishou's new model makes up to 10 matching images from one prompt and can render up to 2,000 characters of text in seven languages inside an image, aimed at ads, product pages and posters. It's available by API for developers and businesses.
+https://technode.com/2026/11/18/kuaishou-launches-kling-image-4-0-with-native-8k-generation/
