@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 21, 2026
+
+1. An Anthropic mathematician says he and Claude proved the Riemann Hypothesis
+Levent Alpöge wrote that "working with Claude" he found a proof of math's most famous unsolved problem, and of its broader generalized version. He posted the proof in Lean, a language that machine-checks every step, and MIT's Andrew Sutherland says it compiled for him too, calling it a "historic moment." Experts still have to confirm the formal statement matches the real conjecture and that the proof holds, so this is a claim, not yet an accepted result.
+https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
+
+2. Signal now blocks screenshots by default to keep AI agents out of your chats
+On iOS 27 screenshots are blocked and a "Block Siri AI" setting is on by default; on Android, protection kicks in when an AI assistant tries to capture the screen. Signal says the fix is incomplete (it can't reliably block it on Mac, and agents can still read notifications) and is asking Apple, Google and Microsoft for real opt-out controls.
+https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/
+
+3. Meta's Muse agent reportedly showed testers other people's private messages
+A Reuters investigation based on internal posts says Meta employees testing Muse saw strangers' bank balances, childcare requests and reminders, and one got a nudge to reply to a Signal message she never gave Muse access to. Meta says employees test versions with features the public doesn't have. Muse has more than 10 million downloads.
+https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+
+4. Gemini on Mac can now use your apps for you
+Gemini's Mac app gets computer use: it fills forms, organizes files, repeats a task across a batch of files or builds slideshows, working in a background window with a live preview so your screen and cursor stay free. You can pause, stop or approve actions. US English first, for AI Plus, Pro and Ultra subscribers.
+https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+
+5. Thinking Machines releases Inkling 2 Mini, a strong open model that runs on a laptop
+Mira Murati's lab built a "looped" model: it stores 24 layers but runs its middle ones three times, so it can think more internally and use fewer words to reach an answer. About 20GB in total, it runs through Ollama on Macs with 32GB of RAM, and the lab says it leads open models under 100B parameters on two coding-agent benchmarks. Weights are on Hugging Face.
+https://thinkingmachines.ai/news/inkling-2-mini/
+
+6. AI's most-watched chart got an update: models are great at coding, still shaky on judgment
+METR's "time horizon" chart tracks how long a task AI can finish on its own. The new version adds tasks that could take humans hundreds of hours: some skills are still improving exponentially, but no AI-designed evaluation was good enough for METR staff to use, and models fell short of humans at scoring philosophical arguments. Claude Opus 5.5 was the first to reach "borderline above the bar" on designing evaluations.
+https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+
+7. ChatGPT Spaces opens to Plus users: a shared workspace for you, friends and coworkers
+Spaces let you pull documents, slides, spreadsheets, images and links into one hub and work on them together with ChatGPT, including scheduled tasks. Until now it was limited to Pro, Business and Enterprise; Plus users ($20/month) can create Spaces from today. It replaces the Library in the sidebar.
+https://engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users
+
+8. OpenAI lets Codex agents hunt down what slows ChatGPT
+OpenAI's "Performance Factory" sends Codex agents to investigate slowdowns, propose fixes and check that speed recovers after a fix ships, with a second agent trying to disprove each diagnosis. In just over three months it ran more than 1,700 investigations and found the root cause in over 600; in a review of 100 diagnoses, 70% were accurate.
+https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/
+
+9. Nvidia reportedly nears a $500M+ deal for Inception, maker of super-fast "diffusion" AI
+Inception's Mercury models write a whole block of text at once and refine it, instead of one word at a time, hitting over 1,000 tokens per second on Nvidia GPUs. The Information reports Nvidia is in advanced talks; nothing is announced yet. Inception's own API shuts down December 28.
+https://www.theneuron.ai/news/nvidia-inception-acquisition-diffusion-ai/
+
+10. Medtronic's Hugo surgical robot is cleared for general surgery in the US
+The FDA clearance covers gallbladder removal, gastric bypass, hernia repair, appendectomy and more, procedures behind about 3.5 million US surgeries a year. Hugo is on track to pass 50,000 operations worldwide, and Medtronic plans to add AI that recognizes anatomy and helps plan procedures.
+https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/
