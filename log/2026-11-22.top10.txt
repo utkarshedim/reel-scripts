@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 22, 2026
+
+1. A researcher planted 2 million fake secrets in AI prompts and watched them get stolen
+Security veteran HD Moore (Dragos) sent nearly two million prompts to AI providers, each hiding a unique bait secret such as an AWS key, an SSH password or a private git link. At least three AI hosting providers had been hacked and were leaking prompts: attackers reused a couple hundred of the AWS keys, some within hours. Resellers logged prompts and passed secrets on, and one lab opened links from about two-thirds of prompts marked "zero data retention." The lesson: never paste secrets into a cheap third-party AI endpoint.
+https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
+
+2. The SEC is reportedly examining Nvidia's accounting, and the stock dropped 12-14% in a day
+Reuters reports SEC enforcement staff are looking into possible accounting issues at Nvidia; neither the SEC nor Nvidia commented and no action has been announced. The stock hit a 52-week low in its longest losing streak since 2008, about $2.7 trillion in value gone since its October record, on top of Jensen Huang's exit.
+https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/
+
+3. Claude and ChatGPT both redesign their phone apps around agents
+Anthropic began rolling out a new Claude mobile app (iOS first) with a bottom tab bar for Chat, Projects, Code and Artifacts, and extended Computer Use (beta) to Team and Enterprise plans, so you can have Claude operate your connected desktop from your phone. A day earlier OpenAI previewed a new ChatGPT app for Pro users with a dedicated tab for Dot, its always-on agent, and pinnable tools like Codex and Images.
+https://www.analyticsinsight.net/tech-news/claude-app-gets-major-mobile-redesign-with-new-features
+
+4. Microdrama startup Shortical wants to license your face for AI-made shows
+Its fully AI series "Inevitable" stars actor Aki Avni, who licensed his face and plays a version of himself; Shortical says he was paid in line with a normal acting role. A "License your face" page invites anyone to apply, though no contracts are signed yet. Chinese microdrama firms reportedly pay $15 to $700 for a face license. A preview of how acting and influencer work may change.
+https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
+
+5. OpenAI says it nearly stopped rivals from copying GPT's hidden reasoning
+"Adversarial distillation" means training your own model on a frontier model's outputs. OpenAI says its new safeguards cut successful attempts to extract GPT's private chain of thought from 54% to 0.2%, and that it bans thousands to tens of thousands of distillation accounts every week. It names DeepSeek and people linked to Moonshot (Kimi) as past culprits. Its study found that copying the exact reasoning transfers more skill than copying summaries.
+https://openai.com/index/combatting-adversarial-distillation
+
+6. Perplexity's Computer agent now works inside Chrome
+Through the Perplexity extension, you hand off a task from the side panel and watch the agent click through your open tabs and tools to finish it. It works in Chrome and other Chromium browsers, and it is one more sign that the browser is turning into an agent workspace.
+https://www.fathom.news/perplexity-ai-agent-chrome/
+
+7. Google now lets companies check what AI agents are about to do before they act
+In preview on the Gemini platform, "semantic governance policies" check every action an agent proposes against two things: what the user actually asked for, and company rules written in plain English. Anything that fails either check gets blocked, and the judge's reasoning is logged. As agents start buying, emailing and editing on their own, this kind of guardrail becomes a real job skill.
+https://developers.googleblog.com/en/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/
+
+8. Spotify co-founder Daniel Ek backs an ex-DeepMind researcher's fusion startup
+Europa Fusion, a UK company, was founded in February by Nantas Nardelli, a machine learning researcher who worked at DeepMind, FAIR and Microsoft Research and led ML at Pacific Fusion. It is betting on pulsed-power fusion, but with simulation and data doing most of the work instead of costly hardware trial and error. AI people are moving into energy.
+https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
+
+9. Mailchimp sells for $3.68B, less than a third of what Intuit paid five years ago
+Bending Spoons, the Italian company behind the takeovers of Evernote, AOL, Eventbrite, Airtable and Miro, is buying Mailchimp from Intuit for about $3.68B, mostly in cash. Intuit paid roughly $12B in 2021. A clear sign of how far classic SaaS valuations have fallen in the AI era.
+https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/
+
+10. AI agents that live in your texts: TechCrunch counts 24 of them
+From Poke (the first AI agent Apple approved for Messages for Business) to Instinct (valued at $10B), Tab, Town and family assistants like Ohai, a wave of startups is skipping apps and running agents over iMessage, WhatsApp and SMS. They book, buy, remind and follow up for you, with prices from free betas to about $1 a day.
+https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
