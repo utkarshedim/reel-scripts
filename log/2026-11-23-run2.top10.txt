@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 23, 2026 (run 2)
+
+1. Apple starts rolling out the new Siri AI in its own apps
+The upgraded Siri is reaching Calendar, Files, Mail, Maps, Messages, Photos, Safari and Weather. A developer preview in the 27.3 betas lets third-party apps plug into Siri, so it can check a delivery, book a table or place an order, and chain steps across apps (find something in one app, share it in another). Apple estimates third-party support ships to customers in a few months, with App Store submissions opening in spring. Siri AI still isn't available on iPhone in the EU.
+https://forkast.news/apple-starts-siri-ai-rollout-in-its-apps-alongside-third-party-developer-preview
+
+2. Nvidia unveils a reference humanoid and open-sources a robot "operating system"
+At GTC Berlin, Nvidia showed the Agile ONE SN, a 1.4 m, 40 kg humanoid from Agile Robots running Nvidia's GR00T model and Jetson Thor chip, coming in early 2027. It also announced Isaac OS, an open-source runtime that connects a robot's sensors, AI models and motors, and made Isaac Lab 3.0, its simulator for training robots, generally available. ABB, Kuka and Neura are among the partners building on it.
+https://roboticsandautomationnews.com/2026/11/22/nvidia-expands-isaac-robotics-platform-with-new-humanoid-and-ai-development-tools/107472
+
+3. Boston Dynamics puts Atlas on wheels, and it does a 360 jump
+A new video shows the humanoid with scooter wheels in place of feet, rolling, sliding sideways and spinning a full 360 in the air. It isn't a product: Atlas learned the moves from millions of simulated runs, and the wheels let engineers test whether those skills transfer to the real robot. Boston Dynamics says the lessons are going into the normal Atlas, especially how it copes when a motor fails.
+https://roboticsandautomationnews.com/2026/11/22/boston-dynamics-gives-atlas-wheels-to-test-new-reinforcement-learning-capabilities/107438
+
+4. Tesla now has more robotaxis registered in Texas than Waymo
+State data shows 1,507 Tesla robotaxis against Waymo's 1,345. Waymo still leads on actual driverless miles, and it is pulling its cars off freeways again, which could narrow its lead. Meanwhile Tesla opened Cybercab preorders at $29,990, plans a $3.3B Berlin expansion to build them, and Zoox robotaxis are now bookable on Uber in Las Vegas.
+https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/
+
+5. AI's power demand is growing about 10x faster than the US grid
+A Howden analysis finds data center electricity demand has grown about 19% a year while grid capacity grows about 2%. Data centers could use up to 12% of US electricity by 2028, and planners expect half or more of new projects to be delayed. The backlash is real: voters rejected data centers in 40 of 41 local ballot measures this month, and 70% of adults under 30 oppose one being built near them.
+https://fortune.com/2026/11/22/ai-data-centers-power-grid-capacity
+
+6. Binding of Isaac update review-bombed over hidden AI music
+Players found Suno metadata in tracks from a GTA-themed daily run in the new Repentance+ update. The game had no AI disclosure on Steam, as Steam's rules require, and recent reviews crashed to about 9% positive. Creator Edmund McMillen said he didn't know and blamed publisher Nicalis for the idea; an emergency patch removed the music. Gamers are now treating undisclosed AI as a dealbreaker.
+https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213
+
+7. A 16-month-old Chinese humanoid startup is now worth $1.6B, as robotics funding hits a record
+Ant Group led a $100M round in Hangzhou's Simplexity Robotics, founded in July 2025 by ex-Li Auto engineers. China shipped 97% of the world's humanoids in the first three quarters of 2026. A new F-Prime report projects a record $60.7B of robotics funding this year, nearly triple 2025, but warns most of it went to a few mega-rounds and many valuations may not hold.
+https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race
+
+8. An AI coding agent leaked a key that exposed Together AI customer prompts
+While building a public GitHub repo, an AI coding agent committed a credential for a private Hugging Face repo. Before it was revoked, someone used it to download stored samples of customer prompts, then tested credentials found inside them. Together AI says the data is deleted, and it is adding short-lived keys, credential checks on every pull request and new rules for its coding agents. Lesson: review what your agent commits.
+https://www.unite.ai/together-ai-discloses-prompt-leak-after-coding-agent-exposed-credential/
+
+9. You can now order groceries from Target and Safeway inside Gemini and Google Search
+Google added Albertsons, Safeway, Shaw's and Target as "Connected Apps" alongside Instacart. Type @Target or name the store, and the AI builds your cart and checks out without leaving Gemini or AI Mode in Search. It runs on Google's Universal Commerce Protocol and is US-only for now. Shopping is moving from websites into chat.
+https://www.digitaltrends.com/computing/google-connected-apps-groceries/
+
+10. A working AI chatbot that fits on a floppy disk and runs on a 1990s PC
+Tiny 2.1 is a 367,000-parameter transformer that runs under MS-DOS on 486 and Pentium machines, needs 540 KB of memory and reads its answers aloud through the PC speaker. It knows about 3,500 facts and confidently makes things up beyond them. The repo says the code was written by Claude Fable 5.2 and the model trained by Claude Opus 5.5, so AI built a tiny AI for 30-year-old hardware.
+https://github.com/WollyMonjac/Tiny-2.1
