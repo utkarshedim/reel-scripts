@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 23, 2026
+
+1. It's official: the Claude-assisted Riemann Hypothesis proof checks out
+The Lean and Mathlib communities, backed by the Lean FRO and the Mathlib Initiative, issued a joint statement certifying that Levent Alpöge's proof is correct and that it proves the real conjecture. Dozens of people compiled the roughly 17-million-line Lean library, two tools confirmed the theorem matches Mathlib's vetted statement, and several independent proof checkers, some written in other languages, accepted it. Math's most famous open problem, solved with an AI collaborator and verified by machine.
+https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+
+2. Tesla FSD v15 shows you a live, AI-generated video of the road
+The new "Reality View" draws a photorealistic view of the car's surroundings from a virtual camera behind it, so you can see what FSD plans to do. Musk says it's real-time AI video generation, not a game engine ("It's like GTA"). Tesla claims 25x better handling of safety-critical cases, and the rollout started over the weekend. Musk also says Tesla's next AI5 chip will go to Optimus robots first, while cars stay on AI4.
+https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584
+
+3. Amazon reportedly nears a $7.5B deal for AI startup Decart
+Per the FT and The Information, talks are advanced and a deal could land within days, though nothing is signed. Decart, founded in 2023 and valued at $4B in May, is known for real-time AI video models and for software that helps models run efficiently on different chips, including AWS's Trainium. It would help Amazon compete with Nvidia. Anthropic reportedly looked at buying it earlier this year.
+https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/
+
+4. MiniMax says its AI broke four old encryption designs in seconds
+The Chinese lab says an internal model broke four past NIST candidates (two SHA-3 hash submissions and two post-quantum schemes) in 0.045 to about 6 seconds, and found more than a dozen bugs in reference code. These designs had already been dropped, and the standards that protect your bank and Bitcoin aren't affected, but AI doing serious cryptanalysis is new. Human cryptographers still need to verify the work.
+https://fourweekmba.com/ai-minimax-says-its-ai-broke-4-old-nist-crypto-candidates/
+
+5. OpenAI's chief scientist warns of a sudden burst of AI progress, possibly in 2027
+Jakub Pachocki argues that once AI starts doing pretraining research itself, fundamental advances could come in a rush, and that safety and monitoring work probably won't keep pace. He proposes that labs agree on shared limits, measured by how well models predict data ("perplexity"), and not cross them until monitoring catches up. OpenAI says it will publish its own measurements.
+https://openai.com/index/perplexity-and-intelligence
+
+6. Top coding agents finish fewer than 1 in 10 tasks in a simulated office
+Researchers dropped Claude Opus 5.5 and GPT-6 Astra into a fake software company as "digital employees," with coworkers, project boards and chat histories. Both ace isolated coding benchmarks, but each fully completed fewer than one in ten real-world style tasks. Writing code is solved; working inside a team is not, yet.
+https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/
+
+7. Google built a fake copy of the internet to train its browser agents
+Chrome's team calls it a "mirror dimension": thousands of simulated shopping, social and search sites, built by AI agents, where Chrome's auto browse agent is tested. Agents think they're visiting real addresses like YouTube but are quietly routed to the copies. It's also used to attack agents with hidden prompt injections, generating over 1,000 test cases a day per security engineer.
+https://www.thedailystar.net/news/technology/news/google-builds-synthetic-internet-test-ai-agents-4330391
+
+8. India's Sarvam ships an open 105B model that runs on a single GPU
+Sarvam-105B-1711 is an Apache-2.0 update tuned for agents, tool calling and Indian languages. A 65 GB build fits on one 96 GB workstation GPU, so companies can run it in-house, and it costs about $0.15 per million tokens. Sarvam's own tests put it level with Gemini 3.5 Flash-Lite and Gemma 4 31B on agent tasks (vendor numbers, not yet independently checked).
+https://www.unite.ai/sarvam-ai-releases-open-weight-105b-checkpoint-for-enterprise-agents/
+
+9. A Unitree humanoid wins the first robot boxing "gold belt"
+At a boxing event in Xiongan, China, a Unitree humanoid beat an EngineAI robot over several rounds to take what organizers called the world's first humanoid-robot boxing championship belt. It isn't clear whether the robots were autonomous or remote-controlled, so treat it as a show, but robot sports are quickly becoming a thing.
+https://pandaily.com/unitree-engineai-xiongan-robot-boxing-belt
+
+10. BepiColombo is now orbiting Mercury after an eight-year trip
+The European-Japanese mission confirmed orbital capture, becoming only the second spacecraft ever to orbit Mercury after NASA's MESSENGER. It took nine planetary flybys and ion engines to get there. Its two orbiters will separate and reach their final orbits next year, with science starting around April 2027.
+https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival
