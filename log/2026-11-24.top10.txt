@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 24, 2026
+
+1. Nvidia brings Jensen Huang back as CEO, and the stock jumps 31%
+Eleven days after Huang resigned over reports of extramarital affairs, including one with a woman reportedly linked to Chinese intelligence, Nvidia's board unanimously reinstated him, effective immediately. The board says it was told no national security laws were broken. Shares had fallen about 33% during the scandal and closed up 31% on the news, and employees greeted him like a hero at HQ. The board's own investigation is still running, and Huang faces congressional questioning next week.
+https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+
+2. Anthropic launches Claude Ship: AI agents that review, fix and approve code
+AI agents now write code faster than people can review it, and Claude Ship goes after that bottleneck. Code Review (now generally available) checks pull requests. PR Steward (beta) fixes failing tests and merge conflicts and explains how to roll back. Claude Approvals (beta) can approve changes automatically, following a policy the team writes in plain English. Rolling out to Team and Enterprise plans on GitHub, with an observe-only mode to start.
+https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+
+3. Meta's AI chief says superintelligence is arriving and we may not control it
+Alexandr Wang, reacting to the Claude-assisted Riemann Hypothesis proof, wrote that coming models will be "clearly superhuman" at improving themselves, and that AI which keeps improving itself without limits could be "1000x smarter" than humans and is unlikely to stay under control. He called for urgent safety work and said the industry must change course. That's a striking shift for Meta, whose CEO has dismissed AI "doom" talk.
+https://aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive
+
+4. ChatGPT's everyday chat gets GPT-6.2 Sol
+OpenAI is rolling out a chat-tuned GPT-6.2 Sol to Plus, Pro, Business and Enterprise users (not Free or Go). It's better at reading small details in photos like sign symbols and label text, picking options online based on your priorities, and offering useful follow-ups like price-drop alerts. OpenAI says it handles difficult conversations safely 91-94% of the time, up from 77-80% for GPT-6.
+https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/
+
+5. Google Search's AI Mode can now read your Drive and Wallet
+Google's "Personal Intelligence" already uses Gmail, Calendar and Photos. Now AI Mode can also draw on your Drive files (say, a tax-season plan built from your documents) and Google Wallet, to track spending and make the most of card rewards (read-only, it can't move money). It also shares context with the Gemini app, so you don't have to repeat yourself. It's opt-in, and an icon will show what personal data each answer used.
+https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
+
+6. China's Z.ai ships GLM-5.4, a model that runs its layers twice to think like a bigger one
+GLM-5.4 is a "loop transformer": about 750B parameters, but 28 of its layers run twice, and Z.ai claims it matches models two to four times its size. In a small test model, looping lifted AIME math scores from 19% to 30%. It adds vision for coding from screenshots and is live for GLM Coding Plan users, with the API and open weights promised later. No official benchmarks yet, and early testers note very long thinking times.
+https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice
+
+7. OpenRouter drops three AI providers after a data-handling scare
+After Dragos researchers found some inference providers had been compromised or weren't honoring their data policies, OpenRouter removed three providers and stripped "zero data retention" status from 125 endpoints. Atlas Cloud, Novita, Phala and Together have posted incident notices. OpenRouter says its own systems weren't breached. If you send prompts through cheap third-party hosts, check where your data actually goes.
+https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+
+8. MIT trains a laptop-sized AI to design analog chips almost as well as GPT-6 Astra
+Analog chip design is slow, manual work, and companies don't want to send secret circuit data to cloud AI. MIT's SLIC method lets a big model demonstrate the design process, then trains a small model with a few billion parameters to copy it and improve through simulation. It came close to GPT-6 Astra on design targets, runs on a laptop and handled unseen circuit types. The paper is headed to NeurIPS.
+https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123
+
+9. XPeng's AI Day tomorrow puts its Iron humanoid on stage
+XPeng's eighth AI Day is November 25 in Guangzhou. The headliner is Iron, a 170 cm humanoid with 76 joints in its body and 21 in each hand, running on three in-house Turing AI chips, which XPeng says works without remote control. Expect robotaxi and flying-car updates too. Chinese EV makers are becoming robot companies.
+https://roboticsandautomationnews.com/2026/11/23/xpeng-to-showcase-humanoid-robot-and-physical-ai-advances-at-ai-day-2026/107497/
+
+10. Scientists grew potatoes in fake moon dirt
+Oregon State researchers, funded by NASA, took potatoes through their full life cycle in simulated lunar soil. Mixed with 30% worm compost, the soil grew potatoes about as well as normal soil, likely because the compost shields the plants from toxic compounds in moon dust. Astronauts could bring compost from Earth and mix it with local soil instead of shipping all their food.
+https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust
