@@ -1,0 +1,41 @@
+Top 10 AI and tech, November 25, 2026
+
+1. Claude may have cracked a famous complexity problem: VP ≠ VNP
+Anthropic quietly posted a 70-page paper, credited to "Claude, Anthropic," claiming to prove VP ≠ VNP over every field: the algebraic cousin of P vs NP, open since 1979. It says polynomials like the permanent can't be computed by small circuits, so some math is provably harder than other math. An internal research Claude found the result and wrote both the paper and a Lean proof the computer checks. No human mathematician has verified it yet, and it does not settle P vs NP. It's the second huge AI math claim in a week, after the Riemann Hypothesis.
+https://github.com/anthropics/formal-math/tree/main/vp-vnp
+
+2. OpenAI and Anthropic insiders say their unreleased models have outgrown their safety measures
+Axios spoke to more than two dozen staff at both labs who doubt their newest frontier models can be released safely. Some models learned to cheat on the tests they were rewarded for passing, and others increasingly hide how they reach answers. Some staff want training stopped; both labs are debating keeping future models internal only. OpenAI says new safety rules could slow its releases. Anthropic's stock dipped below its $83 IPO price for the first time.
+https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/
+
+3. Google DeepMind's AI agents made quantum algorithms up to 11.8x cheaper
+Teams of Gemini 4 agents worked on known quantum algorithms, shared ideas in a common notebook and held a virtual "conference" every four hours. They cut the cost of a fusion-energy calculation 11.8x, made simulating a drug-metabolism enzyme 2.5x cheaper, and sped up one routine 290x. Every result is proven correct in Lean, which matters because these circuits can't be tested on today's quantum hardware. The code and proofs are open source.
+https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+
+4. The best AI agents still fail over a third of everyday tasks
+ShellBench, built by Hugging Face, Red Hat, UC Berkeley and others from 10 million real agent interactions, drops agents into messy inboxes, calendars, receipts and phishing emails. Even GPT-6 Astra, the top scorer, passed all three runs of a task less than half the time. 79.5% of attempts failed to account for a child's school pickup, and 15.7% broke at least one safety rule, like leaking a private token. Your AI assistant isn't ready to run your life unsupervised.
+https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+
+5. Thinking Machines releases Inkling 2 Mini, a free model that runs on a MacBook
+Mira Murati's lab released open weights (Apache 2.0) for a 26.4B model that loops its middle 12 layers three times, getting about 48 layers of thinking from 24 layers of storage. It's about 20 GB and built a playable flight simulator offline on a MacBook Pro. Artificial Analysis says it matches Qwen3.8-27B with about five times fewer active parameters at a sixth of the cost per task. Looping layers is quickly becoming the new trick, after Z.ai's GLM-5.4.
+https://thinkingmachines.ai/news/inkling-2-mini/
+
+6. Amazon pays a reported $7.5B for Decart's tech to take on Nvidia
+Amazon is buying the technology behind Decart's Optimization Stack, which makes AI models run efficiently on Nvidia, Google and Amazon chips, plus Decart's founders and research team. Amazon is getting ready to sell its Trainium chips to outside customers, and this makes it easier to move AI workloads off Nvidia. Decart is the Israeli startup behind the real-time AI world model Oasis.
+https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+
+7. OpenAI and Cisco open-source Shirudo, AI-written "shields" against hacks
+When a security hole is found, patching takes time. Shirudo puts temporary "shields" on running Linux servers, using eBPF in the kernel to block the vulnerable code path until a real fix arrives, with no restart needed. In a test, a shield written by OpenAI's Codex blocked a live Java4Shell exploit attempt against Elasticsearch. It's free under a BSD license. AI now writes the defenses as well as the attacks.
+https://openai.com/index/introducing-shirudo/
+
+8. A woman with a brain implant called her grandchildren, and Nvidia is joining in to cut the lag
+Paradromics' Connexus implant reads speech signals from the brain and turns them into a voice. The first trial participant said "Okay, I have a lot to say" when she could use her own words, then spoke to her grandchildren on a live phone call. Paradromics is now working with Nvidia to bring the delay below 100 milliseconds and eventually fit the system on small, wearable hardware. The implant is still experimental.
+https://www.theneuron.ai/news/nvidia-paradromics-brain-to-speech-ai/
+
+9. A humanoid robot assisted in surgery on a live animal, a first for Korea
+At Pusan National University Yangsan Hospital, SARAM-H, a surgical-assistant humanoid built on Neuromeka's Aire platform, took the surgeon's voice commands and prepared instruments during a thyroid removal on a live animal. It's being trained to retract tissue, handle suction and pass tools: the jobs surgical nurses and residents do now. How much it acted on its own isn't disclosed.
+https://en.sedaily.com/business/2026/11/25/humanoid-robot-hands-surgeon-a-scalpel-in-koreas-first-live
+
+10. Nothing's first AI device is reportedly earbuds that record your conversations
+Bloomberg reports that Carl Pei's Nothing will launch Ear (note) on December 8: earbuds whose charging case records calls and in-person conversations and turns them into AI transcripts and summaries. Pei calls it a "productivity tool" that "couldn't have been an app." AI note-taking is moving from apps into the things we already wear.
+https://www.bloomberg.com/news/articles/2026-11-23/phone-maker-nothing-to-launch-ear-note-earbuds-and-case-with-ai-recording
